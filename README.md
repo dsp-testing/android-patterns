@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android emulator that inherits base OS&#39;s network connectivity](https://www.reddit.com/r/androiddev/comments/u8bylk/android_emulator_that_inherits_base_oss_network/)
-- [Has anyone used clipboard manager from a composable?](https://www.reddit.com/r/androiddev/comments/u8bkk9/has_anyone_used_clipboard_manager_from_a/)
-- [Does this price for custom app development seem correct?](https://www.reddit.com/r/androiddev/comments/u88q4c/does_this_price_for_custom_app_development_seem/)
-- [What do you think of the new Logcat introduced in Android Studio Dolphin Canary 6?](https://www.reddit.com/r/androiddev/comments/u88p7d/what_do_you_think_of_the_new_logcat_introduced_in/)
-- [Kotlin synchrinized collections](https://www.reddit.com/r/androiddev/comments/u87njs/kotlin_synchrinized_collections/)
-- [Is it possible to create background services in python or ruby?](https://www.reddit.com/r/androiddev/comments/u8749r/is_it_possible_to_create_background_services_in/)
-- [Can I post my Unreal Engine blueprints game video here?](https://www.reddit.com/r/androiddev/comments/u85t74/can_i_post_my_unreal_engine_blueprints_game_video/)
-- [Android Room with a View - Java has the database operate on the main thread](https://www.reddit.com/r/androiddev/comments/u8539g/android_room_with_a_view_java_has_the_database/)
-- [Sentry’s Android Gradle Plugin Updated with Room Support and More](https://www.reddit.com/r/androiddev/comments/u82g7c/sentrys_android_gradle_plugin_updated_with_room/)
-- [Thread &#39;Android Init &lpar;second_stage error!!!!&rpar;&#39;](https://www.reddit.com/r/androiddev/comments/u81ulh/thread_android_init_second_stage_error/)
+- [Any Google Street View API replacement out there?](https://www.reddit.com/r/androiddev/comments/u8wndy/any_google_street_view_api_replacement_out_there/)
+- [Android kotlin interfaces and implementation](https://www.reddit.com/r/androiddev/comments/u8uof3/android_kotlin_interfaces_and_implementation/)
+- [Updating SQLite data not working](https://www.reddit.com/r/androiddev/comments/u8tzf2/updating_sqlite_data_not_working/)
+- [Is there any boilerplate code or simple project with MVVM + Retrofit + Room?](https://www.reddit.com/r/androiddev/comments/u8rt6t/is_there_any_boilerplate_code_or_simple_project/)
+- [React Native vs Flutter vs Native Android](https://www.reddit.com/r/androiddev/comments/u8q2ek/react_native_vs_flutter_vs_native_android/)
+- [Real life apps suggestions to practice multithreading in Android Studio](https://www.reddit.com/r/androiddev/comments/u8pvuj/real_life_apps_suggestions_to_practice/)
+- [How does WhatsApp circumvent Android rules ?](https://www.reddit.com/r/androiddev/comments/u8pqj7/how_does_whatsapp_circumvent_android_rules/)
+- [Do you constantly practice on algorithms &amp; data structures problems?](https://www.reddit.com/r/androiddev/comments/u8p6xj/do_you_constantly_practice_on_algorithms_data/)
+- [Top 5 Android Developer Interview Topics](https://www.reddit.com/r/androiddev/comments/u8opij/top_5_android_developer_interview_topics/)
+- [Can my app reliably detect refunded apps/features?](https://www.reddit.com/r/androiddev/comments/u8nz39/can_my_app_reliably_detect_refunded_appsfeatures/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
