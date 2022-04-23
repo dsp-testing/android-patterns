@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Any Google Street View API replacement out there?](https://www.reddit.com/r/androiddev/comments/u8wndy/any_google_street_view_api_replacement_out_there/)
-- [Android kotlin interfaces and implementation](https://www.reddit.com/r/androiddev/comments/u8uof3/android_kotlin_interfaces_and_implementation/)
-- [Updating SQLite data not working](https://www.reddit.com/r/androiddev/comments/u8tzf2/updating_sqlite_data_not_working/)
-- [Is there any boilerplate code or simple project with MVVM + Retrofit + Room?](https://www.reddit.com/r/androiddev/comments/u8rt6t/is_there_any_boilerplate_code_or_simple_project/)
-- [React Native vs Flutter vs Native Android](https://www.reddit.com/r/androiddev/comments/u8q2ek/react_native_vs_flutter_vs_native_android/)
-- [Real life apps suggestions to practice multithreading in Android Studio](https://www.reddit.com/r/androiddev/comments/u8pvuj/real_life_apps_suggestions_to_practice/)
-- [How does WhatsApp circumvent Android rules ?](https://www.reddit.com/r/androiddev/comments/u8pqj7/how_does_whatsapp_circumvent_android_rules/)
-- [Do you constantly practice on algorithms &amp; data structures problems?](https://www.reddit.com/r/androiddev/comments/u8p6xj/do_you_constantly_practice_on_algorithms_data/)
-- [Top 5 Android Developer Interview Topics](https://www.reddit.com/r/androiddev/comments/u8opij/top_5_android_developer_interview_topics/)
-- [Can my app reliably detect refunded apps/features?](https://www.reddit.com/r/androiddev/comments/u8nz39/can_my_app_reliably_detect_refunded_appsfeatures/)
+- [Persist position on drag using Recyclerview](https://www.reddit.com/r/androiddev/comments/u9tqdl/persist_position_on_drag_using_recyclerview/)
+- [Genymotion: /dev/hw_random not found](https://www.reddit.com/r/androiddev/comments/u9sl7b/genymotion_devhw_random_not_found/)
+- [My 12Gb RAM notebook&lpar;ubuntu&rpar; run smooth android studio, will i have problem in the future ?](https://www.reddit.com/r/androiddev/comments/u9q0bq/my_12gb_ram_notebookubuntu_run_smooth_android/)
+- [correlation between esim, sim, and serial #?](https://www.reddit.com/r/androiddev/comments/u9onqf/correlation_between_esim_sim_and_serial/)
+- [ueventd selinux not working properly](https://www.reddit.com/r/androiddev/comments/u9lott/ueventd_selinux_not_working_properly/)
+- [WHAT FIREBASE TOOL CAN I USE TO SEND A REQUEST FROM ONE ANDROID APPLICATION TO ANOTHER.](https://www.reddit.com/r/androiddev/comments/u9lk01/what_firebase_tool_can_i_use_to_send_a_request/)
+- [What do you actually put inside the app-ads.txt](https://www.reddit.com/r/androiddev/comments/u9lh2i/what_do_you_actually_put_inside_the_appadstxt/)
+- [Better library for evaluating math expressions stored on a String](https://www.reddit.com/r/androiddev/comments/u9lbhb/better_library_for_evaluating_math_expressions/)
+- [Whatsapp video call recorder](https://www.reddit.com/r/androiddev/comments/u9imy4/whatsapp_video_call_recorder/)
+- [Is anyone using the Dropbox Store library in Android?](https://www.reddit.com/r/androiddev/comments/u9edk8/is_anyone_using_the_dropbox_store_library_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
