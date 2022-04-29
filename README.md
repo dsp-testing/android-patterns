@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [what&#39;s the best tutorial to learn Unit testing and the tools n frameworks like Robolectric, Mockito and PowerMock?](https://www.reddit.com/r/androiddev/comments/udgpjw/whats_the_best_tutorial_to_learn_unit_testing_and/)
-- [How can I display 3D models now that SceneForm is deprecated?](https://www.reddit.com/r/androiddev/comments/udfoyo/how_can_i_display_3d_models_now_that_sceneform_is/)
-- [Can you broadcast an NFC URL from an Android Device to an iPhone?](https://www.reddit.com/r/androiddev/comments/udetr9/can_you_broadcast_an_nfc_url_from_an_android/)
-- [How to make a LiveData list, or how to be sure my composable recomposes?](https://www.reddit.com/r/androiddev/comments/uded4j/how_to_make_a_livedata_list_or_how_to_be_sure_my/)
-- [QUESTION: Blocking certain elements from website that are converted into apk using appsgeyser](https://www.reddit.com/r/androiddev/comments/udd1h4/question_blocking_certain_elements_from_website/)
-- [[Question] how can i export my figma UI design into android studio ?](https://www.reddit.com/r/androiddev/comments/udc8k4/question_how_can_i_export_my_figma_ui_design_into/)
-- [[Interview] Design an analytics logger](https://www.reddit.com/r/androiddev/comments/ud9i1y/interview_design_an_analytics_logger/)
-- [Any opinions on Instant Apps in currentYear?](https://www.reddit.com/r/androiddev/comments/ud79zp/any_opinions_on_instant_apps_in_currentyear/)
-- [How to get the number from an enum in Kotlin?](https://www.reddit.com/r/androiddev/comments/ud6fu0/how_to_get_the_number_from_an_enum_in_kotlin/)
-- [User volume change moving from Open Testing to Production.](https://www.reddit.com/r/androiddev/comments/ud3k23/user_volume_change_moving_from_open_testing_to/)
+- [how to use LiveData?](https://www.reddit.com/r/androiddev/comments/ue6za9/how_to_use_livedata/)
+- [Android Studio Chipmunk RC1 now available](https://www.reddit.com/r/androiddev/comments/ue5w41/android_studio_chipmunk_rc1_now_available/)
+- [Android Studio Chipmunk Beta 4 now available](https://www.reddit.com/r/androiddev/comments/ue5w38/android_studio_chipmunk_beta_4_now_available/)
+- [Android Studio Dolphin Canary 9 now available](https://www.reddit.com/r/androiddev/comments/ue5w2n/android_studio_dolphin_canary_9_now_available/)
+- [Android Studio Dolphin Canary 8 now available](https://www.reddit.com/r/androiddev/comments/ue5w26/android_studio_dolphin_canary_8_now_available/)
+- [Adjusting CarrierConfig/CarrierSettings on Pixel 6](https://www.reddit.com/r/androiddev/comments/ue5n8i/adjusting_carrierconfigcarriersettings_on_pixel_6/)
+- [How can I take user entered text and automatically fix grammar and punctuation?](https://www.reddit.com/r/androiddev/comments/ue3jtf/how_can_i_take_user_entered_text_and/)
+- [How can I create 3D model editing functionality in my app?](https://www.reddit.com/r/androiddev/comments/ue2ktn/how_can_i_create_3d_model_editing_functionality/)
+- [What Jetpack Compose component I must use to build an alert message just like on this screenshot?](https://www.reddit.com/r/androiddev/comments/ue2j8n/what_jetpack_compose_component_i_must_use_to/)
+- [Android Developers Splash Screen Guide says to export the animation from After Effects in XML, with a zip allegated. I can&#39;t find a SINGLE tutorial explaining how to export in XML from AE. Any help?](https://www.reddit.com/r/androiddev/comments/ue1wfv/android_developers_splash_screen_guide_says_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
