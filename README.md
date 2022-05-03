@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Discord and mentors](https://www.reddit.com/r/androiddev/comments/ug9huc/discord_and_mentors/)
-- [Changing app&#39;s title and short description according to new google policies](https://www.reddit.com/r/androiddev/comments/ug8u2h/changing_apps_title_and_short_description/)
-- [Tool for making screenshots for store/portfolio?](https://www.reddit.com/r/androiddev/comments/ug8u0x/tool_for_making_screenshots_for_storeportfolio/)
-- [Anyone aware about this bug with Firestore + FirebaseUI? Only very few users face it, and clearing app data doesn&#39;t fix it.](https://www.reddit.com/r/androiddev/comments/ug7d7c/anyone_aware_about_this_bug_with_firestore/)
-- [Should my app use Material Design 2 or 3?](https://www.reddit.com/r/androiddev/comments/ug6rhe/should_my_app_use_material_design_2_or_3/)
-- [android dev](https://www.reddit.com/r/androiddev/comments/ug6hv8/android_dev/)
-- [Inevitable to learn Kotlin for Android development? Reluctant to switch from Java to Kotlin as it means spending time to learn a new language for same purpose which Java already served for many years.](https://www.reddit.com/r/androiddev/comments/ug6e2w/inevitable_to_learn_kotlin_for_android/)
-- [Is it okay to provide ViewModel inside a module with Dagger 2?](https://www.reddit.com/r/androiddev/comments/ufzdeh/is_it_okay_to_provide_viewmodel_inside_a_module/)
-- [Best roadmap for android app initial release](https://www.reddit.com/r/androiddev/comments/ufx0p4/best_roadmap_for_android_app_initial_release/)
-- [How does the google family link app block apps ?](https://www.reddit.com/r/androiddev/comments/ufvxtq/how_does_the_google_family_link_app_block_apps/)
+- [Which Cpu arhictecture should be my wearOs apk?](https://www.reddit.com/r/androiddev/comments/uh3eol/which_cpu_arhictecture_should_be_my_wearos_apk/)
+- [What&#39;s the difference between singletons with lazy initializations vs singletons with Hilt annotations?](https://www.reddit.com/r/androiddev/comments/uh0beh/whats_the_difference_between_singletons_with_lazy/)
+- [i just completed my first &quot;real project&quot;!](https://www.reddit.com/r/androiddev/comments/uh00pz/i_just_completed_my_first_real_project/)
+- [7 things to keep in mind while building jetpack composable’s.](https://www.reddit.com/r/androiddev/comments/ugypy8/7_things_to_keep_in_mind_while_building_jetpack/)
+- [Compose or Flutter for new project?](https://www.reddit.com/r/androiddev/comments/ugvz95/compose_or_flutter_for_new_project/)
+- [A survey about refactorings](https://www.reddit.com/r/androiddev/comments/ugv75a/a_survey_about_refactorings/)
+- [What is the most interesting feature of jetpack compose for UI/UX designers?](https://www.reddit.com/r/androiddev/comments/uguxxq/what_is_the_most_interesting_feature_of_jetpack/)
+- [Learn Android with Jetpack Compose &lpar;no programming experience needed!&rpar;](https://www.reddit.com/r/androiddev/comments/uguak4/learn_android_with_jetpack_compose_no_programming/)
+- [Productivity hack to save tens of engineering hours when working with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/ugs2sj/productivity_hack_to_save_tens_of_engineering/)
+- [Weekly Who&#39;s Hiring Thread - May 02, 2022](https://www.reddit.com/r/androiddev/comments/ugp3m9/weekly_whos_hiring_thread_may_02_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
