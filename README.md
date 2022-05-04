@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Which Cpu arhictecture should be my wearOs apk?](https://www.reddit.com/r/androiddev/comments/uh3eol/which_cpu_arhictecture_should_be_my_wearos_apk/)
-- [What&#39;s the difference between singletons with lazy initializations vs singletons with Hilt annotations?](https://www.reddit.com/r/androiddev/comments/uh0beh/whats_the_difference_between_singletons_with_lazy/)
-- [i just completed my first &quot;real project&quot;!](https://www.reddit.com/r/androiddev/comments/uh00pz/i_just_completed_my_first_real_project/)
-- [7 things to keep in mind while building jetpack composable’s.](https://www.reddit.com/r/androiddev/comments/ugypy8/7_things_to_keep_in_mind_while_building_jetpack/)
-- [Compose or Flutter for new project?](https://www.reddit.com/r/androiddev/comments/ugvz95/compose_or_flutter_for_new_project/)
-- [A survey about refactorings](https://www.reddit.com/r/androiddev/comments/ugv75a/a_survey_about_refactorings/)
-- [What is the most interesting feature of jetpack compose for UI/UX designers?](https://www.reddit.com/r/androiddev/comments/uguxxq/what_is_the_most_interesting_feature_of_jetpack/)
-- [Learn Android with Jetpack Compose &lpar;no programming experience needed!&rpar;](https://www.reddit.com/r/androiddev/comments/uguak4/learn_android_with_jetpack_compose_no_programming/)
-- [Productivity hack to save tens of engineering hours when working with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/ugs2sj/productivity_hack_to_save_tens_of_engineering/)
-- [Weekly Who&#39;s Hiring Thread - May 02, 2022](https://www.reddit.com/r/androiddev/comments/ugp3m9/weekly_whos_hiring_thread_may_02_2022/)
+- [How can I add a &#39;light&#39; effect to an animation without having to use any 3D modeling libraries?](https://www.reddit.com/r/androiddev/comments/uhu9i8/how_can_i_add_a_light_effect_to_an_animation/)
+- [Advice on starting development on a bike smart trainer controller app](https://www.reddit.com/r/androiddev/comments/uhslf8/advice_on_starting_development_on_a_bike_smart/)
+- [Upgrade the RAM could help me?](https://www.reddit.com/r/androiddev/comments/uhqein/upgrade_the_ram_could_help_me/)
+- [Free theme.xml / style.xml for android apps](https://www.reddit.com/r/androiddev/comments/uhq949/free_themexml_stylexml_for_android_apps/)
+- [Anyone making money as an indie app developer in 2022?](https://www.reddit.com/r/androiddev/comments/uhppe5/anyone_making_money_as_an_indie_app_developer_in/)
+- [Paid app - create promotion codes with reduced price](https://www.reddit.com/r/androiddev/comments/uhp6rd/paid_app_create_promotion_codes_with_reduced_price/)
+- [I&#39;m a newbie overwhelmed with information](https://www.reddit.com/r/androiddev/comments/uhobxt/im_a_newbie_overwhelmed_with_information/)
+- [What does the text &quot;~4 notifications per day&quot; mean in relation to my notification channel.](https://www.reddit.com/r/androiddev/comments/uhnyxw/what_does_the_text_4_notifications_per_day_mean/)
+- [I&#39;m learning compose in Android developer course and it says to press alt + enter to open this option. But only &quot;convert to expression body&quot; shows up. I don&#39;t have the remaining three options](https://www.reddit.com/r/androiddev/comments/uhngfr/im_learning_compose_in_android_developer_course/)
+- [Would you recommend going full compose or composeview to someone who is just starting with compose?](https://www.reddit.com/r/androiddev/comments/uhm6eu/would_you_recommend_going_full_compose_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
