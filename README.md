@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [13 Things to know for Android developers at Google I/O!](https://www.reddit.com/r/androiddev/comments/unmsob/13_things_to_know_for_android_developers_at/)
-- [How to keep all the common dependencies between multiple modules in single project gradle file?](https://www.reddit.com/r/androiddev/comments/unm9va/how_to_keep_all_the_common_dependencies_between/)
-- [Android dev docs are terribly written imo](https://www.reddit.com/r/androiddev/comments/unm6s2/android_dev_docs_are_terribly_written_imo/)
-- [State in Jetpack Compose workshop](https://www.reddit.com/r/androiddev/comments/unkpbn/state_in_jetpack_compose_workshop/)
-- [What&#39;s new in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/unjo2r/whats_new_in_jetpack_compose/)
-- [Android 13 Beta 2 released today: Enhanced security/privacy protection rich theme customization](https://www.reddit.com/r/androiddev/comments/uni20x/android_13_beta_2_released_today_enhanced/)
-- [Android 13: Beta 2 with many innovations for tablets](https://www.reddit.com/r/androiddev/comments/unhlw6/android_13_beta_2_with_many_innovations_for/)
-- [New Features in Android Studio Electric Eel](https://www.reddit.com/r/androiddev/comments/unhfgz/new_features_in_android_studio_electric_eel/)
-- [Android Studio Electric Eel Canary 1 now available](https://www.reddit.com/r/androiddev/comments/unfu82/android_studio_electric_eel_canary_1_now_available/)
-- [Android Studio Dolphin Beta 1 now available](https://www.reddit.com/r/androiddev/comments/unfu7f/android_studio_dolphin_beta_1_now_available/)
+- [Lazy layouts in Compose I/O talk](https://www.reddit.com/r/androiddev/comments/uofu3l/lazy_layouts_in_compose_io_talk/)
+- [Pointer to mimicking view..](https://www.reddit.com/r/androiddev/comments/uodf4i/pointer_to_mimicking_view/)
+- [Is it bad practice to put Kotlin extension functions inside an adapter class?](https://www.reddit.com/r/androiddev/comments/uoc91a/is_it_bad_practice_to_put_kotlin_extension/)
+- [Firebase FireStore Handling Offline](https://www.reddit.com/r/androiddev/comments/uobvcu/firebase_firestore_handling_offline/)
+- [[Help] UseCases with Hotstreams](https://www.reddit.com/r/androiddev/comments/uo88xm/help_usecases_with_hotstreams/)
+- [Integrate Lucene in android app for offline full-text search](https://www.reddit.com/r/androiddev/comments/uo6o17/integrate_lucene_in_android_app_for_offline/)
+- [New Firebase extensions for building and managing in-app purchases](https://www.reddit.com/r/androiddev/comments/uo3no4/new_firebase_extensions_for_building_and_managing/)
+- [Horologist is a group of libraries that aim to supplement Wear OS developers with features that are commonly required by developers but not yet available.](https://www.reddit.com/r/androiddev/comments/uo3gx5/horologist_is_a_group_of_libraries_that_aim_to/)
+- [Questions about Dependency Injection from a Beginner](https://www.reddit.com/r/androiddev/comments/uo383n/questions_about_dependency_injection_from_a/)
+- [Android code guidelines](https://www.reddit.com/r/androiddev/comments/uo105v/android_code_guidelines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
