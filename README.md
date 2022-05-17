@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can developers request for a special alternative mode of payment for IAP on google playstore or is there a workaround that doesnt violate google’s policy?](https://www.reddit.com/r/androiddev/comments/uqijqh/can_developers_request_for_a_special_alternative/)
-- [how to code a calendar app?](https://www.reddit.com/r/androiddev/comments/uqf16i/how_to_code_a_calendar_app/)
-- [Changing the package name and Firebase](https://www.reddit.com/r/androiddev/comments/uqcxfa/changing_the_package_name_and_firebase/)
-- [I wanted to kill myself after watching the first video of the android dev course.](https://www.reddit.com/r/androiddev/comments/uqbtqd/i_wanted_to_kill_myself_after_watching_the_first/)
-- [Some of the best mobile app no code/low code development platforms out there?](https://www.reddit.com/r/androiddev/comments/uq9qt8/some_of_the_best_mobile_app_no_codelow_code/)
-- [is whole android apk can be decompiled?](https://www.reddit.com/r/androiddev/comments/uq94ys/is_whole_android_apk_can_be_decompiled/)
-- [TOML + Gradle + project accessors = ❤️](https://www.reddit.com/r/androiddev/comments/uq5444/toml_gradle_project_accessors/)
-- [First release of FloatingActionButtonSpeedDial for Compose is now available on Maven Central](https://www.reddit.com/r/androiddev/comments/uq31vr/first_release_of_floatingactionbuttonspeeddial/)
-- [Public repos to put on Github?](https://www.reddit.com/r/androiddev/comments/uq30u2/public_repos_to_put_on_github/)
-- [What do you guys think about JetPack Compose and Flutter?](https://www.reddit.com/r/androiddev/comments/uq2nc0/what_do_you_guys_think_about_jetpack_compose_and/)
+- [can I use getExtra and putExtra for this?](https://www.reddit.com/r/androiddev/comments/ur6v5j/can_i_use_getextra_and_putextra_for_this/)
+- [Is there a way to create the Facebook App ID and App Secret without using your personal Facebook account?](https://www.reddit.com/r/androiddev/comments/ur6tfp/is_there_a_way_to_create_the_facebook_app_id_and/)
+- [Spot your UI jank using CPU profiler in Android Studio](https://www.reddit.com/r/androiddev/comments/ur0xl5/spot_your_ui_jank_using_cpu_profiler_in_android/)
+- [How long should my android game be?](https://www.reddit.com/r/androiddev/comments/uqyo4b/how_long_should_my_android_game_be/)
+- [Studying an example in Android docs](https://www.reddit.com/r/androiddev/comments/uqy02x/studying_an_example_in_android_docs/)
+- [Looking for an app dev buddy](https://www.reddit.com/r/androiddev/comments/uqxla3/looking_for_an_app_dev_buddy/)
+- [How do I share RecycledViewPool between fragments?](https://www.reddit.com/r/androiddev/comments/uqwbmr/how_do_i_share_recycledviewpool_between_fragments/)
+- [How can I implement reddit kind of sort by filter in my app](https://www.reddit.com/r/androiddev/comments/uqvlk9/how_can_i_implement_reddit_kind_of_sort_by_filter/)
+- [*#*#4636#*#* doesn&#39;t work like before?](https://www.reddit.com/r/androiddev/comments/uqvftn/4636_doesnt_work_like_before/)
+- [Weekly Who&#39;s Hiring Thread - May 16, 2022](https://www.reddit.com/r/androiddev/comments/uqvexi/weekly_whos_hiring_thread_may_16_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
