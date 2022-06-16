@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I want to see your code!](https://www.reddit.com/r/androiddev/comments/vcimmp/i_want_to_see_your_code/)
-- [Will Flutter replace Android?](https://www.reddit.com/r/androiddev/comments/vcgkky/will_flutter_replace_android/)
-- [Any review for this book? https://practicaljetpackcompose.com/](https://www.reddit.com/r/androiddev/comments/vcfabh/any_review_for_this_book/)
-- [Keep a video playing in the background in Google drive](https://www.reddit.com/r/androiddev/comments/vccqyp/keep_a_video_playing_in_the_background_in_google/)
-- [Possible Pitfalls of Updating jUnit Tests](https://www.reddit.com/r/androiddev/comments/vcckpq/possible_pitfalls_of_updating_junit_tests/)
-- [This app&#39;s UI is so simple and the basic features are so simple, and yet it performs better than top ui design apps doing the same thing](https://www.reddit.com/r/androiddev/comments/vcbe2g/this_apps_ui_is_so_simple_and_the_basic_features/)
-- [Foodies! New Project What You&#39;ll think](https://www.reddit.com/r/androiddev/comments/vc9x3j/foodies_new_project_what_youll_think/)
-- [Needed design improvement tips.](https://www.reddit.com/r/androiddev/comments/vc9sau/needed_design_improvement_tips/)
-- [How do you get paid on the Amazon app store?](https://www.reddit.com/r/androiddev/comments/vc9r3i/how_do_you_get_paid_on_the_amazon_app_store/)
-- [Extracting saved Spotify credentials](https://www.reddit.com/r/androiddev/comments/vc9e2h/extracting_saved_spotify_credentials/)
+- [Template question](https://www.reddit.com/r/androiddev/comments/vd7kv6/template_question/)
+- [Recycler view is not showing data from the firebase realtime database](https://www.reddit.com/r/androiddev/comments/vd61wf/recycler_view_is_not_showing_data_from_the/)
+- [Duplicate declarations of permission android.permission.ACCESS_COARSE_LOCATION with different maxSdkVersions](https://www.reddit.com/r/androiddev/comments/vd5vv8/duplicate_declarations_of_permission/)
+- [How did the giants rise?](https://www.reddit.com/r/androiddev/comments/vd3s7p/how_did_the_giants_rise/)
+- [Official Cyanogenmod Archive for old devices.](https://www.reddit.com/r/androiddev/comments/vd2ynx/official_cyanogenmod_archive_for_old_devices/)
+- [Noob Advice](https://www.reddit.com/r/androiddev/comments/vd23fi/noob_advice/)
+- [Background timer nowadays.](https://www.reddit.com/r/androiddev/comments/vd1wk1/background_timer_nowadays/)
+- [Any Clean Architecture app courses that make use of Flows completely without LiveData?](https://www.reddit.com/r/androiddev/comments/vcztva/any_clean_architecture_app_courses_that_make_use/)
+- [How can I collect native crashes info without Crashlytics and without writing my own signals handler with &lt;signal.h&gt;?](https://www.reddit.com/r/androiddev/comments/vczh5x/how_can_i_collect_native_crashes_info_without/)
+- [So I redesigned my note making app after all your recommendations.Any improvements?](https://www.reddit.com/r/androiddev/comments/vcymiq/so_i_redesigned_my_note_making_app_after_all_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
