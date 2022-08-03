@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can an overlay app access the view of another app?](https://www.reddit.com/r/androiddev/comments/wdyhou/can_an_overlay_app_access_the_view_of_another_app/)
-- [Why did my eCPM suddenly plummet in June for no reason despite record impressions? Am I the only one?](https://www.reddit.com/r/androiddev/comments/wdw98j/why_did_my_ecpm_suddenly_plummet_in_june_for_no/)
-- [Google released August 2022 security update for the Pixel smartphones](https://www.reddit.com/r/androiddev/comments/wdocme/google_released_august_2022_security_update_for/)
-- [Is it normal to have most earnings from IAPs, and only a small fraction from ads?](https://www.reddit.com/r/androiddev/comments/wdnb1i/is_it_normal_to_have_most_earnings_from_iaps_and/)
-- [Which books will take my dev knowledge/skills to the next level?](https://www.reddit.com/r/androiddev/comments/wdn942/which_books_will_take_my_dev_knowledgeskills_to/)
-- [Anyone currently working in mobile app development and have a few minutes?](https://www.reddit.com/r/androiddev/comments/wdn3qs/anyone_currently_working_in_mobile_app/)
-- [I made 20+ short screencasts that go through Jetpack Compose concepts to make it simpler to learn](https://www.reddit.com/r/androiddev/comments/wdlxcx/i_made_20_short_screencasts_that_go_through/)
-- [mutekt: Simplify mutating &quot;immutable&quot; state models](https://www.reddit.com/r/androiddev/comments/wdi94p/mutekt_simplify_mutating_immutable_state_models/)
-- [Putting an &quot;roadmap/upcoming features&quot; section inside app?](https://www.reddit.com/r/androiddev/comments/wdh4qo/putting_an_roadmapupcoming_features_section/)
-- [Weekly Who&#39;s Hiring Thread - August 01, 2022](https://www.reddit.com/r/androiddev/comments/wdgw8p/weekly_whos_hiring_thread_august_01_2022/)
+- [Porting a rom/recovery [seeking advice]](https://www.reddit.com/r/androiddev/comments/wespvt/porting_a_romrecovery_seeking_advice/)
+- [Getting errors on getting my variables set for the emulator fails](https://www.reddit.com/r/androiddev/comments/wesocl/getting_errors_on_getting_my_variables_set_for/)
+- [Best phone case I&#39;ve seen! By Calveit woodwork &amp; Engraving!!! Sleek quality design beyond belief. Comment about your favorite](https://www.reddit.com/r/androiddev/comments/wes7ei/best_phone_case_ive_seen_by_calveit_woodwork/)
+- [&lpar;google login&rpar; Which SHA-1 key do I use on google console ?](https://www.reddit.com/r/androiddev/comments/wes5i5/google_login_which_sha1_key_do_i_use_on_google/)
+- [How hard is it to be a maintainer of an Android fork?](https://www.reddit.com/r/androiddev/comments/wenjud/how_hard_is_it_to_be_a_maintainer_of_an_android/)
+- [Streaming song with Spotify SDK. It&#39;s possible?](https://www.reddit.com/r/androiddev/comments/wemq3c/streaming_song_with_spotify_sdk_its_possible/)
+- [Why hasn&#39;t android implemented Squircle in its API natively?](https://www.reddit.com/r/androiddev/comments/weltwi/why_hasnt_android_implemented_squircle_in_its_api/)
+- [How to use a flow as data source and allow to edit it &lpar;maybe reemission of new data will be slower than the edits&rpar;](https://www.reddit.com/r/androiddev/comments/weloso/how_to_use_a_flow_as_data_source_and_allow_to/)
+- [I have my first Android Developer interview tomorrow, How should I study for the technical? I can like make apps, but when it comes to answering programming questions I&#39;m pretty shit, I want to get better, I want to improve. skilled people, who are already working in their field help?](https://www.reddit.com/r/androiddev/comments/welg06/i_have_my_first_android_developer_interview/)
+- [Is Twitter API still so harsh? Is a Twitter client viable?](https://www.reddit.com/r/androiddev/comments/wejjhn/is_twitter_api_still_so_harsh_is_a_twitter_client/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
