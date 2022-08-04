@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Porting a rom/recovery [seeking advice]](https://www.reddit.com/r/androiddev/comments/wespvt/porting_a_romrecovery_seeking_advice/)
-- [Getting errors on getting my variables set for the emulator fails](https://www.reddit.com/r/androiddev/comments/wesocl/getting_errors_on_getting_my_variables_set_for/)
-- [Best phone case I&#39;ve seen! By Calveit woodwork &amp; Engraving!!! Sleek quality design beyond belief. Comment about your favorite](https://www.reddit.com/r/androiddev/comments/wes7ei/best_phone_case_ive_seen_by_calveit_woodwork/)
-- [&lpar;google login&rpar; Which SHA-1 key do I use on google console ?](https://www.reddit.com/r/androiddev/comments/wes5i5/google_login_which_sha1_key_do_i_use_on_google/)
-- [How hard is it to be a maintainer of an Android fork?](https://www.reddit.com/r/androiddev/comments/wenjud/how_hard_is_it_to_be_a_maintainer_of_an_android/)
-- [Streaming song with Spotify SDK. It&#39;s possible?](https://www.reddit.com/r/androiddev/comments/wemq3c/streaming_song_with_spotify_sdk_its_possible/)
-- [Why hasn&#39;t android implemented Squircle in its API natively?](https://www.reddit.com/r/androiddev/comments/weltwi/why_hasnt_android_implemented_squircle_in_its_api/)
-- [How to use a flow as data source and allow to edit it &lpar;maybe reemission of new data will be slower than the edits&rpar;](https://www.reddit.com/r/androiddev/comments/weloso/how_to_use_a_flow_as_data_source_and_allow_to/)
-- [I have my first Android Developer interview tomorrow, How should I study for the technical? I can like make apps, but when it comes to answering programming questions I&#39;m pretty shit, I want to get better, I want to improve. skilled people, who are already working in their field help?](https://www.reddit.com/r/androiddev/comments/welg06/i_have_my_first_android_developer_interview/)
-- [Is Twitter API still so harsh? Is a Twitter client viable?](https://www.reddit.com/r/androiddev/comments/wejjhn/is_twitter_api_still_so_harsh_is_a_twitter_client/)
+- [Roadmap for supporting Rust in Android apps](https://www.reddit.com/r/androiddev/comments/wfmci2/roadmap_for_supporting_rust_in_android_apps/)
+- [Does Google support Payoneer as a method of payment for IAP or Selling apps?](https://www.reddit.com/r/androiddev/comments/wflrd4/does_google_support_payoneer_as_a_method_of/)
+- [Cordova/phonegap hiking app](https://www.reddit.com/r/androiddev/comments/wfh6hy/cordovaphonegap_hiking_app/)
+- [how can i start a coroutine in a foreground service within on creat method then cancel it on destroy method?](https://www.reddit.com/r/androiddev/comments/wfggez/how_can_i_start_a_coroutine_in_a_foreground/)
+- [Android Studio Chipmunk | 2021.2.1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/wfgdqr/android_studio_chipmunk_202121_patch_2_now/)
+- [Android Studio Electric Eel Canary 9 now available](https://www.reddit.com/r/androiddev/comments/wfevj8/android_studio_electric_eel_canary_9_now_available/)
+- [How do I showcase my android app to an interviewer?](https://www.reddit.com/r/androiddev/comments/wfdxm1/how_do_i_showcase_my_android_app_to_an_interviewer/)
+- [Career switch to Flutter or stick to Android?](https://www.reddit.com/r/androiddev/comments/wfdcy8/career_switch_to_flutter_or_stick_to_android/)
+- [What to do? Samsung A02. Sorry if wrong sub.](https://www.reddit.com/r/androiddev/comments/wfcjg0/what_to_do_samsung_a02_sorry_if_wrong_sub/)
+- [Pick an image from modern storage and upload with okhttp](https://www.reddit.com/r/androiddev/comments/wfbnax/pick_an_image_from_modern_storage_and_upload_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
