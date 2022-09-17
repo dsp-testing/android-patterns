@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there a way to catch/freeze an Expresso exception?](https://www.reddit.com/r/androiddev/comments/xfdxe5/is_there_a_way_to_catchfreeze_an_expresso/)
-- [Store from Mobile Native Foundation](https://www.reddit.com/r/androiddev/comments/xfbdef/store_from_mobile_native_foundation/)
-- [Google Fit with Bluetooth](https://www.reddit.com/r/androiddev/comments/xf9xzd/google_fit_with_bluetooth/)
-- [Overwhelmed with kotlin flows](https://www.reddit.com/r/androiddev/comments/xf8v0v/overwhelmed_with_kotlin_flows/)
-- [Small targetSdk&gt;30 notifications](https://www.reddit.com/r/androiddev/comments/xf7hq6/small_targetsdk30_notifications/)
-- [Loop Clicker — An New Auto Clicker app on Google Play](https://www.reddit.com/r/androiddev/comments/xf70i7/loop_clicker_an_new_auto_clicker_app_on_google/)
-- [Proper rich &lpar;spanned&rpar; text in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/xf6mtr/proper_rich_spanned_text_in_jetpack_compose/)
-- [NavHost without start destination?](https://www.reddit.com/r/androiddev/comments/xf6dtj/navhost_without_start_destination/)
-- [Android Studio Dolphin available in the Stable channel](https://www.reddit.com/r/androiddev/comments/xf4sfn/android_studio_dolphin_available_in_the_stable/)
-- [Dynamic Village &lpar; Apple don&#39;t sue me pls &rpar;](https://www.reddit.com/r/androiddev/comments/xf07b5/dynamic_village_apple_dont_sue_me_pls/)
+- [Is It Possible?](https://www.reddit.com/r/androiddev/comments/xg6vkk/is_it_possible/)
+- [Keeping new app fully free for limited time](https://www.reddit.com/r/androiddev/comments/xg5vpk/keeping_new_app_fully_free_for_limited_time/)
+- [Improving App Cold Start Times](https://www.reddit.com/r/androiddev/comments/xg55p7/improving_app_cold_start_times/)
+- [Hiring Managers - Why didn&#39;t you pick that Junior for the role?](https://www.reddit.com/r/androiddev/comments/xg4ry9/hiring_managers_why_didnt_you_pick_that_junior/)
+- [how to get LinearLayout childs where child view type is TextView?](https://www.reddit.com/r/androiddev/comments/xg37n2/how_to_get_linearlayout_childs_where_child_view/)
+- [Camera quality in social media apps](https://www.reddit.com/r/androiddev/comments/xg28i7/camera_quality_in_social_media_apps/)
+- [How to add a value to an Integer in SharedPreferences?](https://www.reddit.com/r/androiddev/comments/xg1mm3/how_to_add_a_value_to_an_integer_in/)
+- [I find myself getting obsessive about design during app development.](https://www.reddit.com/r/androiddev/comments/xg0rb4/i_find_myself_getting_obsessive_about_design/)
+- [React component renders &lpar;as expected&rpar; in iOS, but not android](https://www.reddit.com/r/androiddev/comments/xg0bnn/react_component_renders_as_expected_in_ios_but/)
+- [Android Emulator lagging. Any ideas how to solve this?](https://www.reddit.com/r/androiddev/comments/xfxno2/android_emulator_lagging_any_ideas_how_to_solve/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
