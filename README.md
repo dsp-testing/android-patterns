@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is there any website to see your &quot;search&quot; placement/ranking in playstore, or any form of other analysis?](https://www.reddit.com/r/androiddev/comments/xp1dkl/is_there_any_website_to_see_your_search/)
-- [How to pick up on a code base you didn&#39;t write.](https://www.reddit.com/r/androiddev/comments/xp0cu6/how_to_pick_up_on_a_code_base_you_didnt_write/)
-- [Document scanning library?](https://www.reddit.com/r/androiddev/comments/xowxan/document_scanning_library/)
-- [HELP! what can I do? some photos in my gallery look like this](https://www.reddit.com/r/androiddev/comments/xow2kb/help_what_can_i_do_some_photos_in_my_gallery_look/)
-- [Minimum API requirement for new apps -- Is it unavoidable?](https://www.reddit.com/r/androiddev/comments/xovl15/minimum_api_requirement_for_new_apps_is_it/)
-- [Good Android course](https://www.reddit.com/r/androiddev/comments/xouuy9/good_android_course/)
-- [Multiple viewmodel instances](https://www.reddit.com/r/androiddev/comments/xou21m/multiple_viewmodel_instances/)
-- [Are you compiling for / targeting version 33 yet?](https://www.reddit.com/r/androiddev/comments/xosblp/are_you_compiling_for_targeting_version_33_yet/)
-- [Anyone using Android Studio and 12th Gen Intel Laptop](https://www.reddit.com/r/androiddev/comments/xooxi1/anyone_using_android_studio_and_12th_gen_intel/)
-- [How to make a shaped text background just like in Instagram](https://www.reddit.com/r/androiddev/comments/xoos35/how_to_make_a_shaped_text_background_just_like_in/)
+- [From idea to revenue - a formula and a case study](https://www.reddit.com/r/androiddev/comments/xpy5ca/from_idea_to_revenue_a_formula_and_a_case_study/)
+- [Arguments against &lpar;or for&rpar; web style reactive system in Android](https://www.reddit.com/r/androiddev/comments/xpwbje/arguments_against_or_for_web_style_reactive/)
+- [Experiencing longer time for getting reviewed on the PlayStore.](https://www.reddit.com/r/androiddev/comments/xpvmym/experiencing_longer_time_for_getting_reviewed_on/)
+- [Is there a way to run Linux phone apps on Android 10?](https://www.reddit.com/r/androiddev/comments/xpuoom/is_there_a_way_to_run_linux_phone_apps_on_android/)
+- [how do I start making an app that has users make posts](https://www.reddit.com/r/androiddev/comments/xptimh/how_do_i_start_making_an_app_that_has_users_make/)
+- [Android Studio Flamingo Canary 2 available now](https://www.reddit.com/r/androiddev/comments/xpshcl/android_studio_flamingo_canary_2_available_now/)
+- [How do I set the time my lock screen is shown, befire the screen goes black?](https://www.reddit.com/r/androiddev/comments/xpre9e/how_do_i_set_the_time_my_lock_screen_is_shown/)
+- [Is it safe to clone other people&#39;s projects and run them in the emulator?](https://www.reddit.com/r/androiddev/comments/xpr8ww/is_it_safe_to_clone_other_peoples_projects_and/)
+- [Kotlin ORM alternatives to Room](https://www.reddit.com/r/androiddev/comments/xpp4q0/kotlin_orm_alternatives_to_room/)
+- [Any other API&#39;s like Google Places that aren&#39;t so freaking expensive?](https://www.reddit.com/r/androiddev/comments/xpoc7e/any_other_apis_like_google_places_that_arent_so/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
