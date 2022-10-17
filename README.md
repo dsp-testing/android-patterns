@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Material UI designer app](https://www.reddit.com/r/androiddev/comments/y52ivs/material_ui_designer_app/)
-- [Bounce Animation Lib Jetpack Compose](https://www.reddit.com/r/androiddev/comments/y504lc/bounce_animation_lib_jetpack_compose/)
-- [problems with logcat in android studio](https://www.reddit.com/r/androiddev/comments/y503uu/problems_with_logcat_in_android_studio/)
-- [Let&#39;s have some fun](https://www.reddit.com/r/androiddev/comments/y4ywdg/lets_have_some_fun/)
-- [Fuchsia OS](https://www.reddit.com/r/androiddev/comments/y4sxmi/fuchsia_os/)
-- [UI framework used in Google apps.](https://www.reddit.com/r/androiddev/comments/y4se3v/ui_framework_used_in_google_apps/)
-- [Android Studio Flamingo Canary 4 now available](https://www.reddit.com/r/androiddev/comments/y4pnef/android_studio_flamingo_canary_4_now_available/)
-- [Anyone done any online Android courses, be great to know how they found them](https://www.reddit.com/r/androiddev/comments/y4on3k/anyone_done_any_online_android_courses_be_great/)
-- [Question regarding where to study as a 7 year experienced android developer?](https://www.reddit.com/r/androiddev/comments/y4om17/question_regarding_where_to_study_as_a_7_year/)
-- [How is it possible calling setContentView withouit calling it on an object ?](https://www.reddit.com/r/androiddev/comments/y4nb67/how_is_it_possible_calling_setcontentview/)
+- [Play Store Console app doesn&#39;t install on Pixel 7 Pro!](https://www.reddit.com/r/androiddev/comments/y5xsv4/play_store_console_app_doesnt_install_on_pixel_7/)
+- [How to go about updating an old app that I haven&#39;t touched in 3 years?](https://www.reddit.com/r/androiddev/comments/y5wnq6/how_to_go_about_updating_an_old_app_that_i_havent/)
+- [What are some good places for job hunt &lpar; remote specifically &rpar;](https://www.reddit.com/r/androiddev/comments/y5qni7/what_are_some_good_places_for_job_hunt_remote/)
+- [Can anyone help me to find how long the screen has been ON of mobile?I tried finding online, couldn&#39;t find anything useful.](https://www.reddit.com/r/androiddev/comments/y5kajk/can_anyone_help_me_to_find_how_long_the_screen/)
+- [How To Make A Custom Camera App With Face Detection?](https://www.reddit.com/r/androiddev/comments/y5k0su/how_to_make_a_custom_camera_app_with_face/)
+- [It looks like 1.0 release of Material 3 for Compose won&#39;t have bottom sheets](https://www.reddit.com/r/androiddev/comments/y5hz7s/it_looks_like_10_release_of_material_3_for/)
+- [Where should I flee?](https://www.reddit.com/r/androiddev/comments/y5felj/where_should_i_flee/)
+- [MyApp Crashed](https://www.reddit.com/r/androiddev/comments/y5fc9j/myapp_crashed/)
+- [App Release &#39;In Review&#39; for almost a month](https://www.reddit.com/r/androiddev/comments/y5e9v1/app_release_in_review_for_almost_a_month/)
+- [How to build NetHack ?](https://www.reddit.com/r/androiddev/comments/y5ckd8/how_to_build_nethack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
