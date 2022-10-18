@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Play Store Console app doesn&#39;t install on Pixel 7 Pro!](https://www.reddit.com/r/androiddev/comments/y5xsv4/play_store_console_app_doesnt_install_on_pixel_7/)
-- [How to go about updating an old app that I haven&#39;t touched in 3 years?](https://www.reddit.com/r/androiddev/comments/y5wnq6/how_to_go_about_updating_an_old_app_that_i_havent/)
-- [What are some good places for job hunt &lpar; remote specifically &rpar;](https://www.reddit.com/r/androiddev/comments/y5qni7/what_are_some_good_places_for_job_hunt_remote/)
-- [Can anyone help me to find how long the screen has been ON of mobile?I tried finding online, couldn&#39;t find anything useful.](https://www.reddit.com/r/androiddev/comments/y5kajk/can_anyone_help_me_to_find_how_long_the_screen/)
-- [How To Make A Custom Camera App With Face Detection?](https://www.reddit.com/r/androiddev/comments/y5k0su/how_to_make_a_custom_camera_app_with_face/)
-- [It looks like 1.0 release of Material 3 for Compose won&#39;t have bottom sheets](https://www.reddit.com/r/androiddev/comments/y5hz7s/it_looks_like_10_release_of_material_3_for/)
-- [Where should I flee?](https://www.reddit.com/r/androiddev/comments/y5felj/where_should_i_flee/)
-- [MyApp Crashed](https://www.reddit.com/r/androiddev/comments/y5fc9j/myapp_crashed/)
-- [App Release &#39;In Review&#39; for almost a month](https://www.reddit.com/r/androiddev/comments/y5e9v1/app_release_in_review_for_almost_a_month/)
-- [How to build NetHack ?](https://www.reddit.com/r/androiddev/comments/y5ckd8/how_to_build_nethack/)
+- [How do I use Github or Git or whatever the thing I&#39;ve been storing my code into Via Android Studio](https://www.reddit.com/r/androiddev/comments/y6rqgq/how_do_i_use_github_or_git_or_whatever_the_thing/)
+- [jetpack compose showing different screens based on app state](https://www.reddit.com/r/androiddev/comments/y6p9qk/jetpack_compose_showing_different_screens_based/)
+- [Issue Trackers and the &quot;Can&#39;t Deliver Broadcast&quot; Bug](https://www.reddit.com/r/androiddev/comments/y6osm0/issue_trackers_and_the_cant_deliver_broadcast_bug/)
+- [Pixel 7/Google G2 voice recognition API?](https://www.reddit.com/r/androiddev/comments/y6oin3/pixel_7google_g2_voice_recognition_api/)
+- [Been struggling as a contractor for this app dev agency. Need your input...](https://www.reddit.com/r/androiddev/comments/y6lx1s/been_struggling_as_a_contractor_for_this_app_dev/)
+- [Google Sign In with Firebase takes a very long time](https://www.reddit.com/r/androiddev/comments/y6k7zo/google_sign_in_with_firebase_takes_a_very_long/)
+- [Set an mp3 file as a Ringtone](https://www.reddit.com/r/androiddev/comments/y6k5j1/set_an_mp3_file_as_a_ringtone/)
+- [with&lpar;cursor&rpar;](https://www.reddit.com/r/androiddev/comments/y6jd5x/withcursor/)
+- [Testing in Android - Basics](https://www.reddit.com/r/androiddev/comments/y6ipoq/testing_in_android_basics/)
+- [Can I use MLB team logos without a license?](https://www.reddit.com/r/androiddev/comments/y6go0d/can_i_use_mlb_team_logos_without_a_license/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
