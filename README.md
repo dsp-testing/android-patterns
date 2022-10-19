@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I use Github or Git or whatever the thing I&#39;ve been storing my code into Via Android Studio](https://www.reddit.com/r/androiddev/comments/y6rqgq/how_do_i_use_github_or_git_or_whatever_the_thing/)
-- [jetpack compose showing different screens based on app state](https://www.reddit.com/r/androiddev/comments/y6p9qk/jetpack_compose_showing_different_screens_based/)
-- [Issue Trackers and the &quot;Can&#39;t Deliver Broadcast&quot; Bug](https://www.reddit.com/r/androiddev/comments/y6osm0/issue_trackers_and_the_cant_deliver_broadcast_bug/)
-- [Pixel 7/Google G2 voice recognition API?](https://www.reddit.com/r/androiddev/comments/y6oin3/pixel_7google_g2_voice_recognition_api/)
-- [Been struggling as a contractor for this app dev agency. Need your input...](https://www.reddit.com/r/androiddev/comments/y6lx1s/been_struggling_as_a_contractor_for_this_app_dev/)
-- [Google Sign In with Firebase takes a very long time](https://www.reddit.com/r/androiddev/comments/y6k7zo/google_sign_in_with_firebase_takes_a_very_long/)
-- [Set an mp3 file as a Ringtone](https://www.reddit.com/r/androiddev/comments/y6k5j1/set_an_mp3_file_as_a_ringtone/)
-- [with&lpar;cursor&rpar;](https://www.reddit.com/r/androiddev/comments/y6jd5x/withcursor/)
-- [Testing in Android - Basics](https://www.reddit.com/r/androiddev/comments/y6ipoq/testing_in_android_basics/)
-- [Can I use MLB team logos without a license?](https://www.reddit.com/r/androiddev/comments/y6go0d/can_i_use_mlb_team_logos_without_a_license/)
+- [don&#39;t know where else to put this](https://www.reddit.com/r/androiddev/comments/y7lcxu/dont_know_where_else_to_put_this/)
+- [Jetpack compose animation listener?](https://www.reddit.com/r/androiddev/comments/y7l6r6/jetpack_compose_animation_listener/)
+- [Building a Budget Tracker with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/y7kx88/building_a_budget_tracker_with_jetpack_compose/)
+- [how to delete sms messages](https://www.reddit.com/r/androiddev/comments/y7kfsk/how_to_delete_sms_messages/)
+- [Android Studio Flamingo Canary 5 now available](https://www.reddit.com/r/androiddev/comments/y7isp0/android_studio_flamingo_canary_5_now_available/)
+- [Should I add unrelated work experience on my resume applying for an entry level Android job?](https://www.reddit.com/r/androiddev/comments/y7hid8/should_i_add_unrelated_work_experience_on_my/)
+- [How to build reddit&#39;s comment thread?](https://www.reddit.com/r/androiddev/comments/y7gywb/how_to_build_reddits_comment_thread/)
+- [An app that blocks spam text messages](https://www.reddit.com/r/androiddev/comments/y7fnrl/an_app_that_blocks_spam_text_messages/)
+- [Is there a way to see results for specifically my in-app review prompt?](https://www.reddit.com/r/androiddev/comments/y7dcii/is_there_a_way_to_see_results_for_specifically_my/)
+- [Credit Card View Library](https://www.reddit.com/r/androiddev/comments/y7bzpm/credit_card_view_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
