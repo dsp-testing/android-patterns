@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [PLEASE HELP](https://www.reddit.com/r/androiddev/comments/ycqpxk/please_help/)
-- [Intune Company portal disables screen lock pattern, swipe and none options](https://www.reddit.com/r/androiddev/comments/ycqo7x/intune_company_portal_disables_screen_lock/)
-- [video call blur](https://www.reddit.com/r/androiddev/comments/ycqdvy/video_call_blur/)
-- [https://draft.blogger.com/blog/post/edit/preview/6457881083335223417/608320809376346261](https://www.reddit.com/r/androiddev/comments/ycp011/httpsdraftbloggercomblogposteditpreview64578810833/)
-- [Blogger](https://www.reddit.com/r/androiddev/comments/ycoz6z/blogger/)
-- [Créditos - Pie de Página](https://www.reddit.com/r/androiddev/comments/ycox0w/créditos_pie_de_página/)
-- [Reimagining designer-developer handoff: Introducing Relay](https://www.reddit.com/r/androiddev/comments/ycopep/reimagining_designerdeveloper_handoff_introducing/)
-- [macOS Ventura Android Studio / Android Development stability](https://www.reddit.com/r/androiddev/comments/yckoan/macos_ventura_android_studio_android_development/)
-- [Compose version of sheets is now public! Offers dialogs &amp; views for various use cases!](https://www.reddit.com/r/androiddev/comments/yck3fl/compose_version_of_sheets_is_now_public_offers/)
-- [Android Studio Development Focus](https://www.reddit.com/r/androiddev/comments/ycjcmd/android_studio_development_focus/)
+- [Replacement for advancedrecyclerview?](https://www.reddit.com/r/androiddev/comments/ydlc44/replacement_for_advancedrecyclerview/)
+- [Visualize screen touches and swipes over a period of time as an image](https://www.reddit.com/r/androiddev/comments/ydhebu/visualize_screen_touches_and_swipes_over_a_period/)
+- [Handle Deep links For In-App Content In A Single Activity Compose Architecture](https://www.reddit.com/r/androiddev/comments/ydftna/handle_deep_links_for_inapp_content_in_a_single/)
+- [Looking for a native Android app to do a review about...](https://www.reddit.com/r/androiddev/comments/ydfc3c/looking_for_a_native_android_app_to_do_a_review/)
+- [Where to learn coming from Xamarin Forms.](https://www.reddit.com/r/androiddev/comments/yde580/where_to_learn_coming_from_xamarin_forms/)
+- [Retrofit QueryMap Problem!](https://www.reddit.com/r/androiddev/comments/yde2fo/retrofit_querymap_problem/)
+- [What&#39;s the best example of Clean, MVVM, Compose, and Material 3?](https://www.reddit.com/r/androiddev/comments/yddz2s/whats_the_best_example_of_clean_mvvm_compose_and/)
+- [One hell of a project - and close to no experience](https://www.reddit.com/r/androiddev/comments/ydd1a0/one_hell_of_a_project_and_close_to_no_experience/)
+- [Question about google maps pricing](https://www.reddit.com/r/androiddev/comments/ydcf04/question_about_google_maps_pricing/)
+- [best course on Udemy to learn Android with Jetpack compose?](https://www.reddit.com/r/androiddev/comments/ydba2k/best_course_on_udemy_to_learn_android_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
