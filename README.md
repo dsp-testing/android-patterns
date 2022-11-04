@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Flamingo Canary 7 now available](https://www.reddit.com/r/androiddev/comments/ykkrrw/android_studio_flamingo_canary_7_now_available/)
-- [How can I implement a table/grid layout like this with a stickied first column and horizontal scrolling?](https://www.reddit.com/r/androiddev/comments/ykke2b/how_can_i_implement_a_tablegrid_layout_like_this/)
-- [Should I master Data structure in order to be an entry level or Junior Android Engineer?](https://www.reddit.com/r/androiddev/comments/ykka2d/should_i_master_data_structure_in_order_to_be_an/)
-- [My title gets truncated when I add an ampersand to it. What’s a good solution?](https://www.reddit.com/r/androiddev/comments/ykhh1f/my_title_gets_truncated_when_i_add_an_ampersand/)
-- [Which do you like better? Left or right?](https://www.reddit.com/r/androiddev/comments/ykffh5/which_do_you_like_better_left_or_right/)
-- [Approach to Intra-App communication without APIs or Intents?](https://www.reddit.com/r/androiddev/comments/ykdd4c/approach_to_intraapp_communication_without_apis/)
-- [Raising the bar on technical quality on Google Play](https://www.reddit.com/r/androiddev/comments/ykbn5e/raising_the_bar_on_technical_quality_on_google/)
-- [Play Console payout explanation](https://www.reddit.com/r/androiddev/comments/ykaz9o/play_console_payout_explanation/)
-- [Reluct: An app I&#39;ve been working on for some time](https://www.reddit.com/r/androiddev/comments/ykaw85/reluct_an_app_ive_been_working_on_for_some_time/)
-- [Integrate new Navigation Component with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/yk9uij/integrate_new_navigation_component_with_jetpack/)
+- [What&#39;s your conversion rate for subscription app?](https://www.reddit.com/r/androiddev/comments/ylkvqa/whats_your_conversion_rate_for_subscription_app/)
+- [A way to distinguish between viewDestroy&lpar;to backstack&rpar; and viewDestroy&lpar;configChange with fragment.setRetainInstance&lpar;true&rpar;.](https://www.reddit.com/r/androiddev/comments/yle6ae/a_way_to_distinguish_between_viewdestroyto/)
+- [how yo track focus changes for a view group childs?](https://www.reddit.com/r/androiddev/comments/yl6zjn/how_yo_track_focus_changes_for_a_view_group_childs/)
+- [Finding a job as a self taught dev](https://www.reddit.com/r/androiddev/comments/yl51wi/finding_a_job_as_a_self_taught_dev/)
+- [Dynamic link posted to browser wont open app, everything else f.e gmail, note, messanger works](https://www.reddit.com/r/androiddev/comments/yl3xw0/dynamic_link_posted_to_browser_wont_open_app/)
+- [Resources to learn Android ROM development ?](https://www.reddit.com/r/androiddev/comments/yl1uh4/resources_to_learn_android_rom_development/)
+- [The proper way to permanently persist UI data from ViewModel? SavedInstance seems to be useless, it does not work as I would expect](https://www.reddit.com/r/androiddev/comments/ykzdm2/the_proper_way_to_permanently_persist_ui_data/)
+- [Looking for developer meetups or other Android meetups in the region](https://www.reddit.com/r/androiddev/comments/ykyj7k/looking_for_developer_meetups_or_other_android/)
+- [Response Model in retrofit](https://www.reddit.com/r/androiddev/comments/yky3nl/response_model_in_retrofit/)
+- [Must-Considered Features in a Restaurant App in 2022 and Beyond](https://www.reddit.com/r/androiddev/comments/ykxefp/mustconsidered_features_in_a_restaurant_app_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
