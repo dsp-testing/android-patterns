@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A Python Tool For Demoing Common Android App Vulnerabilities &amp; Security Issues - By Spinning Up &#39;Random&#39; Vulnerable Apps](https://www.reddit.com/r/androiddev/comments/ync1ae/a_python_tool_for_demoing_common_android_app/)
-- [Android File Transfer not working on macOS Ventura](https://www.reddit.com/r/androiddev/comments/yn9gfu/android_file_transfer_not_working_on_macos_ventura/)
-- [Is the xml for an app consistant across similar devices?](https://www.reddit.com/r/androiddev/comments/yn8ze8/is_the_xml_for_an_app_consistant_across_similar/)
-- [Playstore copyright doubt](https://www.reddit.com/r/androiddev/comments/yn77hk/playstore_copyright_doubt/)
-- [how to implement speech to text in an Android App](https://www.reddit.com/r/androiddev/comments/yn3h2d/how_to_implement_speech_to_text_in_an_android_app/)
-- [Is there a way to integrate GSM800L/SIM800L in Android Studio?](https://www.reddit.com/r/androiddev/comments/ymvt17/is_there_a_way_to_integrate_gsm800lsim800l_in/)
-- [searched a lot but didn&#39;t found any tips to smoothly animate layout width change](https://www.reddit.com/r/androiddev/comments/ymu5dz/searched_a_lot_but_didnt_found_any_tips_to/)
-- [Runtime permission + clean arch.](https://www.reddit.com/r/androiddev/comments/ymt7e1/runtime_permission_clean_arch/)
-- [Can the Steam Deck be used for Android development?](https://www.reddit.com/r/androiddev/comments/ymrz2g/can_the_steam_deck_be_used_for_android_development/)
-- [Use affiliate marketing to monetize my social media app?](https://www.reddit.com/r/androiddev/comments/ymrb2j/use_affiliate_marketing_to_monetize_my_social/)
+- [Enable WHPX on AMD with Hyper-V](https://www.reddit.com/r/androiddev/comments/yo4a3n/enable_whpx_on_amd_with_hyperv/)
+- [Android - Are singletons destroyed when no object uses them?](https://www.reddit.com/r/androiddev/comments/ynywwc/android_are_singletons_destroyed_when_no_object/)
+- [I released an open source alternative to Google Calculator](https://www.reddit.com/r/androiddev/comments/ynyguh/i_released_an_open_source_alternative_to_google/)
+- [Thoughts on Compose](https://www.reddit.com/r/androiddev/comments/ynwdmk/thoughts_on_compose/)
+- [Android&#39;s new system Photo Picker arrives even on Android 4.4 KitKat](https://www.reddit.com/r/androiddev/comments/ynv8ly/androids_new_system_photo_picker_arrives_even_on/)
+- [My first open-source project](https://www.reddit.com/r/androiddev/comments/yntwmw/my_first_opensource_project/)
+- [Is there a way to filter-out auto generated files from search in Android Studio?](https://www.reddit.com/r/androiddev/comments/yntoqk/is_there_a_way_to_filterout_auto_generated_files/)
+- [Proto DataStore and conditional defaults](https://www.reddit.com/r/androiddev/comments/ynqsqy/proto_datastore_and_conditional_defaults/)
+- [Is it possible to hide or remove the app from production back to open testing&lpar;beta&rpar;?](https://www.reddit.com/r/androiddev/comments/ynqr0b/is_it_possible_to_hide_or_remove_the_app_from/)
+- [Your app contains or features User Generated Content &lpar;UGC&rpar; that isn’t compliant with the User Generated Content policy.](https://www.reddit.com/r/androiddev/comments/ynq4gf/your_app_contains_or_features_user_generated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
