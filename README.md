@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the BLE Eddystone Beacon?](https://www.reddit.com/r/androiddev/comments/yughk7/what_is_the_ble_eddystone_beacon/)
-- [How Do I Make Another Electronic Device Communicate With My App?](https://www.reddit.com/r/androiddev/comments/yug631/how_do_i_make_another_electronic_device/)
-- [How To Connect An Existing Website With My App?](https://www.reddit.com/r/androiddev/comments/yufmgp/how_to_connect_an_existing_website_with_my_app/)
-- [Test Driven Data Structures in Kotlin - Linked List](https://www.reddit.com/r/androiddev/comments/yube34/test_driven_data_structures_in_kotlin_linked_list/)
-- [how to record non mhl phone with capture card and obs](https://www.reddit.com/r/androiddev/comments/yuayha/how_to_record_non_mhl_phone_with_capture_card_and/)
-- [Monetization, only monthly subscription or have yearly &amp; OTP along with it?](https://www.reddit.com/r/androiddev/comments/yuae1e/monetization_only_monthly_subscription_or_have/)
-- [Very low number of received fcm data messages since 8 November. Am I the only one?](https://www.reddit.com/r/androiddev/comments/yu8taz/very_low_number_of_received_fcm_data_messages/)
-- [Extremely slow review process &lpar;10+ days for every update&rpar;, is it the target age range?](https://www.reddit.com/r/androiddev/comments/yu62dv/extremely_slow_review_process_10_days_for_every/)
-- [Is there any product category API that you can suggest?](https://www.reddit.com/r/androiddev/comments/yu59q2/is_there_any_product_category_api_that_you_can/)
-- [How Are Android Studio Plug-ins Made?](https://www.reddit.com/r/androiddev/comments/yu569e/how_are_android_studio_plugins_made/)
+- [Wat requirements is Google Play looking for to badge an app GO Optimized?](https://www.reddit.com/r/androiddev/comments/ywf5cb/wat_requirements_is_google_play_looking_for_to/)
+- [Are developers allowed to ban by IP and/or Device ID? ty](https://www.reddit.com/r/androiddev/comments/ywddb7/are_developers_allowed_to_ban_by_ip_andor_device/)
+- [As an inexperienced developer, I really don&#39;t understand the need for unit testing.](https://www.reddit.com/r/androiddev/comments/ywd0to/as_an_inexperienced_developer_i_really_dont/)
+- [Floating window on top of activities](https://www.reddit.com/r/androiddev/comments/ywazxt/floating_window_on_top_of_activities/)
+- [How is Pixel so good on Instagram?](https://www.reddit.com/r/androiddev/comments/yw9wwd/how_is_pixel_so_good_on_instagram/)
+- [How Often Do Freelancers Work In Groups?](https://www.reddit.com/r/androiddev/comments/yw9qdw/how_often_do_freelancers_work_in_groups/)
+- [What is your opinion on Flutter vs Jetpack Compose ?](https://www.reddit.com/r/androiddev/comments/yw8bde/what_is_your_opinion_on_flutter_vs_jetpack_compose/)
+- [Who cares about performance?](https://www.reddit.com/r/androiddev/comments/yw7454/who_cares_about_performance/)
+- [Is it normal during development for crashes after everything was working fine a few minutes ago?](https://www.reddit.com/r/androiddev/comments/yw6sn2/is_it_normal_during_development_for_crashes_after/)
+- [Jetpack Compose Architecture](https://www.reddit.com/r/androiddev/comments/yw5vzz/jetpack_compose_architecture/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
