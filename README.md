@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Wat requirements is Google Play looking for to badge an app GO Optimized?](https://www.reddit.com/r/androiddev/comments/ywf5cb/wat_requirements_is_google_play_looking_for_to/)
-- [Are developers allowed to ban by IP and/or Device ID? ty](https://www.reddit.com/r/androiddev/comments/ywddb7/are_developers_allowed_to_ban_by_ip_andor_device/)
-- [As an inexperienced developer, I really don&#39;t understand the need for unit testing.](https://www.reddit.com/r/androiddev/comments/ywd0to/as_an_inexperienced_developer_i_really_dont/)
-- [Floating window on top of activities](https://www.reddit.com/r/androiddev/comments/ywazxt/floating_window_on_top_of_activities/)
-- [How is Pixel so good on Instagram?](https://www.reddit.com/r/androiddev/comments/yw9wwd/how_is_pixel_so_good_on_instagram/)
-- [How Often Do Freelancers Work In Groups?](https://www.reddit.com/r/androiddev/comments/yw9qdw/how_often_do_freelancers_work_in_groups/)
-- [What is your opinion on Flutter vs Jetpack Compose ?](https://www.reddit.com/r/androiddev/comments/yw8bde/what_is_your_opinion_on_flutter_vs_jetpack_compose/)
-- [Who cares about performance?](https://www.reddit.com/r/androiddev/comments/yw7454/who_cares_about_performance/)
-- [Is it normal during development for crashes after everything was working fine a few minutes ago?](https://www.reddit.com/r/androiddev/comments/yw6sn2/is_it_normal_during_development_for_crashes_after/)
-- [Jetpack Compose Architecture](https://www.reddit.com/r/androiddev/comments/yw5vzz/jetpack_compose_architecture/)
+- [Nothing has ever angered me more than The Google Play Team](https://www.reddit.com/r/androiddev/comments/yxcmv1/nothing_has_ever_angered_me_more_than_the_google/)
+- [Does anyone know when the Motorola G Power 2022 gets Android 12 update](https://www.reddit.com/r/androiddev/comments/yxb4pg/does_anyone_know_when_the_motorola_g_power_2022/)
+- [I&#39;m a UI Designer. Just wanna ask if constant UI iterations can be hard in the dev part?](https://www.reddit.com/r/androiddev/comments/yxaca5/im_a_ui_designer_just_wanna_ask_if_constant_ui/)
+- [Ideas for sharing code between Android and Linux devices](https://www.reddit.com/r/androiddev/comments/yx8roh/ideas_for_sharing_code_between_android_and_linux/)
+- [Send data between two classes](https://www.reddit.com/r/androiddev/comments/yx6n53/send_data_between_two_classes/)
+- [do any one know how to get this effect? I couldn&#39;t find it .](https://www.reddit.com/r/androiddev/comments/yx64ja/do_any_one_know_how_to_get_this_effect_i_couldnt/)
+- [Permanent Gps tracking in background possible?](https://www.reddit.com/r/androiddev/comments/yx556g/permanent_gps_tracking_in_background_possible/)
+- [How to handle state if you have TextFields in LazyColumn?](https://www.reddit.com/r/androiddev/comments/yx28m4/how_to_handle_state_if_you_have_textfields_in/)
+- [how do I get a registered passkey prompt to show instead of the standard thumbprint prompt?](https://www.reddit.com/r/androiddev/comments/yx1ivn/how_do_i_get_a_registered_passkey_prompt_to_show/)
+- [Did anyone try the KMM beta?](https://www.reddit.com/r/androiddev/comments/yx0ree/did_anyone_try_the_kmm_beta/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
