@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can anyone recommend a good resource for learning Android in Java for 2022?](https://www.reddit.com/r/androiddev/comments/z6glrm/can_anyone_recommend_a_good_resource_for_learning/)
-- [A few Kotlin constructs](https://www.reddit.com/r/androiddev/comments/z6bxti/a_few_kotlin_constructs/)
-- [Step Counter app: JobScheduler &amp; Foreground Service](https://www.reddit.com/r/androiddev/comments/z67be0/step_counter_app_jobscheduler_foreground_service/)
-- [How do I make apps without Studio?](https://www.reddit.com/r/androiddev/comments/z61uu9/how_do_i_make_apps_without_studio/)
-- [This bot will tweet the app link whenever a new app enters the top charts in Google Play!](https://www.reddit.com/r/androiddev/comments/z6173m/this_bot_will_tweet_the_app_link_whenever_a_new/)
-- [Any good learning resources for custom views and compounds views ?](https://www.reddit.com/r/androiddev/comments/z607dt/any_good_learning_resources_for_custom_views_and/)
-- [Best way of handling visibility?](https://www.reddit.com/r/androiddev/comments/z603vn/best_way_of_handling_visibility/)
-- [Make bottom navigation view disappear in certain fragments](https://www.reddit.com/r/androiddev/comments/z5z7ca/make_bottom_navigation_view_disappear_in_certain/)
-- [Address autocomplete &lpar;or something similar&rpar; without Google Maps API](https://www.reddit.com/r/androiddev/comments/z5z6co/address_autocomplete_or_something_similar_without/)
-- [Is it possible to have a virtual camera in android?](https://www.reddit.com/r/androiddev/comments/z5xbh7/is_it_possible_to_have_a_virtual_camera_in_android/)
+- [What are media file types on Android?](https://www.reddit.com/r/androiddev/comments/z7fc23/what_are_media_file_types_on_android/)
+- [Is there no way to keep apps&#39; login information when changing phones](https://www.reddit.com/r/androiddev/comments/z7bbcs/is_there_no_way_to_keep_apps_login_information/)
+- [Looking for a non senior position](https://www.reddit.com/r/androiddev/comments/z7b961/looking_for_a_non_senior_position/)
+- [Any good resources for HAL interface development?](https://www.reddit.com/r/androiddev/comments/z79gzp/any_good_resources_for_hal_interface_development/)
+- [Does WorkManager run even app is not open for service ?](https://www.reddit.com/r/androiddev/comments/z70o9e/does_workmanager_run_even_app_is_not_open_for/)
+- [Can someone please share road map to master unit testing in android?](https://www.reddit.com/r/androiddev/comments/z6zcky/can_someone_please_share_road_map_to_master_unit/)
+- [Looking for advice from an Android Dev perspective](https://www.reddit.com/r/androiddev/comments/z6z7bk/looking_for_advice_from_an_android_dev_perspective/)
+- [Weekly Who&#39;s Hiring Thread - November 28, 2022](https://www.reddit.com/r/androiddev/comments/z6xbl6/weekly_whos_hiring_thread_november_28_2022/)
+- [Internet radio help needed](https://www.reddit.com/r/androiddev/comments/z6wrrk/internet_radio_help_needed/)
+- [What is a proper way to write a JUnit tests for a method doing simple calculations but it can have a lot of edge/boundary/error combinations?](https://www.reddit.com/r/androiddev/comments/z6wdjh/what_is_a_proper_way_to_write_a_junit_tests_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
