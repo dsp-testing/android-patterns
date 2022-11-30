@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are media file types on Android?](https://www.reddit.com/r/androiddev/comments/z7fc23/what_are_media_file_types_on_android/)
-- [Is there no way to keep apps&#39; login information when changing phones](https://www.reddit.com/r/androiddev/comments/z7bbcs/is_there_no_way_to_keep_apps_login_information/)
-- [Looking for a non senior position](https://www.reddit.com/r/androiddev/comments/z7b961/looking_for_a_non_senior_position/)
-- [Any good resources for HAL interface development?](https://www.reddit.com/r/androiddev/comments/z79gzp/any_good_resources_for_hal_interface_development/)
-- [Does WorkManager run even app is not open for service ?](https://www.reddit.com/r/androiddev/comments/z70o9e/does_workmanager_run_even_app_is_not_open_for/)
-- [Can someone please share road map to master unit testing in android?](https://www.reddit.com/r/androiddev/comments/z6zcky/can_someone_please_share_road_map_to_master_unit/)
-- [Looking for advice from an Android Dev perspective](https://www.reddit.com/r/androiddev/comments/z6z7bk/looking_for_advice_from_an_android_dev_perspective/)
-- [Weekly Who&#39;s Hiring Thread - November 28, 2022](https://www.reddit.com/r/androiddev/comments/z6xbl6/weekly_whos_hiring_thread_november_28_2022/)
-- [Internet radio help needed](https://www.reddit.com/r/androiddev/comments/z6wrrk/internet_radio_help_needed/)
-- [What is a proper way to write a JUnit tests for a method doing simple calculations but it can have a lot of edge/boundary/error combinations?](https://www.reddit.com/r/androiddev/comments/z6wdjh/what_is_a_proper_way_to_write_a_junit_tests_for_a/)
+- [in this case,is 1 ⭐ better or 5? 🤷🏾](https://www.reddit.com/r/androiddev/comments/z87qa0/in_this_caseis_1_better_or_5/)
+- [what minimum SDK is recommended these days?](https://www.reddit.com/r/androiddev/comments/z83vkv/what_minimum_sdk_is_recommended_these_days/)
+- [Changing locale works in debug version of app, but only updates to English or Spanish in release version, no other locales work](https://www.reddit.com/r/androiddev/comments/z837pw/changing_locale_works_in_debug_version_of_app_but/)
+- [New framework from Slack - Circuit](https://www.reddit.com/r/androiddev/comments/z82mw6/new_framework_from_slack_circuit/)
+- [Shared viewModel with parent fragment as viewModelStoreOwner](https://www.reddit.com/r/androiddev/comments/z80v8l/shared_viewmodel_with_parent_fragment_as/)
+- [Best dev tool for chat app](https://www.reddit.com/r/androiddev/comments/z7yqub/best_dev_tool_for_chat_app/)
+- [What does this download symbol mean?](https://www.reddit.com/r/androiddev/comments/z7yox8/what_does_this_download_symbol_mean/)
+- [Notification permissions in Pixel 6](https://www.reddit.com/r/androiddev/comments/z7vjs3/notification_permissions_in_pixel_6/)
+- [Can&#39;t publish an update to app, stuck in Sensitive Permissions and APIs loop on multiple tracks](https://www.reddit.com/r/androiddev/comments/z7vcf3/cant_publish_an_update_to_app_stuck_in_sensitive/)
+- [We released a new version of ShapeShift &lpar;0.7.0&rpar; - A lightweight, modular, performant and extensible library for Object Mapping](https://www.reddit.com/r/androiddev/comments/z7v5yo/we_released_a_new_version_of_shapeshift_070_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
