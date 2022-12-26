@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [REPL-based Android app development w/ full access to SDK](https://www.reddit.com/r/androiddev/comments/zulg08/replbased_android_app_development_w_full_access/)
-- [Passing an Object and then changing it in JAVA](https://www.reddit.com/r/androiddev/comments/zuke1y/passing_an_object_and_then_changing_it_in_java/)
-- [Joys of Android development](https://www.reddit.com/r/androiddev/comments/zuj67v/joys_of_android_development/)
-- [Sizing and positioning in Coordinatorlayout](https://www.reddit.com/r/androiddev/comments/zuj1ph/sizing_and_positioning_in_coordinatorlayout/)
-- [financial app](https://www.reddit.com/r/androiddev/comments/zueoaj/financial_app/)
-- [Any benefit to being Android GDE? Does it give a significant boost when applying to other jobs?](https://www.reddit.com/r/androiddev/comments/zudyjx/any_benefit_to_being_android_gde_does_it_give_a/)
-- [What are some great ways to monetize an android app? any API available to watch videos an earn?](https://www.reddit.com/r/androiddev/comments/zudmqr/what_are_some_great_ways_to_monetize_an_android/)
-- [Caching and Pagination with Paging 3 in Android &amp; Jetpack Compose](https://www.reddit.com/r/androiddev/comments/zubsfa/caching_and_pagination_with_paging_3_in_android/)
-- [DropBox Like Application with Flutter](https://www.reddit.com/r/androiddev/comments/zu8cxh/dropbox_like_application_with_flutter/)
-- [Logging and Screen Recording](https://www.reddit.com/r/androiddev/comments/zu7zns/logging_and_screen_recording/)
+- [Admin panel](https://www.reddit.com/r/androiddev/comments/zv9qyp/admin_panel/)
+- [Anyone using KMM in production?](https://www.reddit.com/r/androiddev/comments/zv9ce2/anyone_using_kmm_in_production/)
+- [🦉 Exploring the Duolingo Android app internal API](https://www.reddit.com/r/androiddev/comments/zv435v/exploring_the_duolingo_android_app_internal_api/)
+- [Does two-way databinding work with SavedStateHandle?](https://www.reddit.com/r/androiddev/comments/zv38wr/does_twoway_databinding_work_with_savedstatehandle/)
+- [I don&#39;t understand ViewModel &amp; UiState :&lt;](https://www.reddit.com/r/androiddev/comments/zv0hks/i_dont_understand_viewmodel_uistate/)
+- [Motorola won&#39;t boot, help](https://www.reddit.com/r/androiddev/comments/zuwj2h/motorola_wont_boot_help/)
+- [Requesting Multiple Permissions in Jetpack Compose…](https://www.reddit.com/r/androiddev/comments/zuwioy/requesting_multiple_permissions_in_jetpack_compose/)
+- [How much battery does setExact&lpar;&rpar; actually use?](https://www.reddit.com/r/androiddev/comments/zuw0k9/how_much_battery_does_setexact_actually_use/)
+- [Perhaps a Dex rival](https://www.reddit.com/r/androiddev/comments/zuuo9w/perhaps_a_dex_rival/)
+- [How the admob ads serving limit is applied ?](https://www.reddit.com/r/androiddev/comments/zusztk/how_the_admob_ads_serving_limit_is_applied/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
