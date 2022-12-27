@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Admin panel](https://www.reddit.com/r/androiddev/comments/zv9qyp/admin_panel/)
-- [Anyone using KMM in production?](https://www.reddit.com/r/androiddev/comments/zv9ce2/anyone_using_kmm_in_production/)
-- [🦉 Exploring the Duolingo Android app internal API](https://www.reddit.com/r/androiddev/comments/zv435v/exploring_the_duolingo_android_app_internal_api/)
-- [Does two-way databinding work with SavedStateHandle?](https://www.reddit.com/r/androiddev/comments/zv38wr/does_twoway_databinding_work_with_savedstatehandle/)
-- [I don&#39;t understand ViewModel &amp; UiState :&lt;](https://www.reddit.com/r/androiddev/comments/zv0hks/i_dont_understand_viewmodel_uistate/)
-- [Motorola won&#39;t boot, help](https://www.reddit.com/r/androiddev/comments/zuwj2h/motorola_wont_boot_help/)
-- [Requesting Multiple Permissions in Jetpack Compose…](https://www.reddit.com/r/androiddev/comments/zuwioy/requesting_multiple_permissions_in_jetpack_compose/)
-- [How much battery does setExact&lpar;&rpar; actually use?](https://www.reddit.com/r/androiddev/comments/zuw0k9/how_much_battery_does_setexact_actually_use/)
-- [Perhaps a Dex rival](https://www.reddit.com/r/androiddev/comments/zuuo9w/perhaps_a_dex_rival/)
-- [How the admob ads serving limit is applied ?](https://www.reddit.com/r/androiddev/comments/zusztk/how_the_admob_ads_serving_limit_is_applied/)
+- [How to create retrofit POST MultiPart Request in Kotlin? I keep getting Http 400 Bad Request](https://www.reddit.com/r/androiddev/comments/zw0z57/how_to_create_retrofit_post_multipart_request_in/)
+- [Is a Pokedex app infringing Nintendo Copyrights?](https://www.reddit.com/r/androiddev/comments/zvxxju/is_a_pokedex_app_infringing_nintendo_copyrights/)
+- [How are different languages used to code apps that run natively on Android?](https://www.reddit.com/r/androiddev/comments/zvxug2/how_are_different_languages_used_to_code_apps/)
+- [How did he get an iOS device on Nearby share? I thought this was impossible](https://www.reddit.com/r/androiddev/comments/zvwji4/how_did_he_get_an_ios_device_on_nearby_share_i/)
+- [[Paid Release] Maya Icons &lpar;iOS inspired&rpar; ✓](https://www.reddit.com/r/androiddev/comments/zvvsai/paid_release_maya_icons_ios_inspired/)
+- [I&#39;m OSINT researcher and I need to use emulator for investigations. Can someone explain me a few things about Virtual Device Manager please? Description inside.](https://www.reddit.com/r/androiddev/comments/zvrxee/im_osint_researcher_and_i_need_to_use_emulator/)
+- [Advice on hosting the API that serves my game](https://www.reddit.com/r/androiddev/comments/zvrsvf/advice_on_hosting_the_api_that_serves_my_game/)
+- [Cheap device to test react-native apps on?](https://www.reddit.com/r/androiddev/comments/zvrbmn/cheap_device_to_test_reactnative_apps_on/)
+- [Getting into JetPack Compose - things that went well and not so great](https://www.reddit.com/r/androiddev/comments/zvqi14/getting_into_jetpack_compose_things_that_went/)
+- [new to app development, some questions?](https://www.reddit.com/r/androiddev/comments/zvp4un/new_to_app_development_some_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
