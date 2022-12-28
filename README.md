@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to create retrofit POST MultiPart Request in Kotlin? I keep getting Http 400 Bad Request](https://www.reddit.com/r/androiddev/comments/zw0z57/how_to_create_retrofit_post_multipart_request_in/)
-- [Is a Pokedex app infringing Nintendo Copyrights?](https://www.reddit.com/r/androiddev/comments/zvxxju/is_a_pokedex_app_infringing_nintendo_copyrights/)
-- [How are different languages used to code apps that run natively on Android?](https://www.reddit.com/r/androiddev/comments/zvxug2/how_are_different_languages_used_to_code_apps/)
-- [How did he get an iOS device on Nearby share? I thought this was impossible](https://www.reddit.com/r/androiddev/comments/zvwji4/how_did_he_get_an_ios_device_on_nearby_share_i/)
-- [[Paid Release] Maya Icons &lpar;iOS inspired&rpar; ✓](https://www.reddit.com/r/androiddev/comments/zvvsai/paid_release_maya_icons_ios_inspired/)
-- [I&#39;m OSINT researcher and I need to use emulator for investigations. Can someone explain me a few things about Virtual Device Manager please? Description inside.](https://www.reddit.com/r/androiddev/comments/zvrxee/im_osint_researcher_and_i_need_to_use_emulator/)
-- [Advice on hosting the API that serves my game](https://www.reddit.com/r/androiddev/comments/zvrsvf/advice_on_hosting_the_api_that_serves_my_game/)
-- [Cheap device to test react-native apps on?](https://www.reddit.com/r/androiddev/comments/zvrbmn/cheap_device_to_test_reactnative_apps_on/)
-- [Getting into JetPack Compose - things that went well and not so great](https://www.reddit.com/r/androiddev/comments/zvqi14/getting_into_jetpack_compose_things_that_went/)
-- [new to app development, some questions?](https://www.reddit.com/r/androiddev/comments/zvp4un/new_to_app_development_some_questions/)
+- [Creating android app from Python Code](https://www.reddit.com/r/androiddev/comments/zwsouh/creating_android_app_from_python_code/)
+- [How to remove this? I tried to use MIDI Clef and this happens](https://www.reddit.com/r/androiddev/comments/zwsor7/how_to_remove_this_i_tried_to_use_midi_clef_and/)
+- [Should I move this logic to an API?](https://www.reddit.com/r/androiddev/comments/zwmrsc/should_i_move_this_logic_to_an_api/)
+- [Why is that important?](https://www.reddit.com/r/androiddev/comments/zwmdu1/why_is_that_important/)
+- [Android Studio Electric Eel RC3 now available](https://www.reddit.com/r/androiddev/comments/zwln0b/android_studio_electric_eel_rc3_now_available/)
+- [Design mobile app](https://www.reddit.com/r/androiddev/comments/zwli6i/design_mobile_app/)
+- [Fire HD 8 &lpar;2022&rpar; multiple App Crashes](https://www.reddit.com/r/androiddev/comments/zwked1/fire_hd_8_2022_multiple_app_crashes/)
+- [Sealed classes vs Enums!](https://www.reddit.com/r/androiddev/comments/zwjx2t/sealed_classes_vs_enums/)
+- [Get CompositionLocal from current theme](https://www.reddit.com/r/androiddev/comments/zwj702/get_compositionlocal_from_current_theme/)
+- [Google sign-in that redrects to system browser](https://www.reddit.com/r/androiddev/comments/zwhs8p/google_signin_that_redrects_to_system_browser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
