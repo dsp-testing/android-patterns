@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Creating android app from Python Code](https://www.reddit.com/r/androiddev/comments/zwsouh/creating_android_app_from_python_code/)
-- [How to remove this? I tried to use MIDI Clef and this happens](https://www.reddit.com/r/androiddev/comments/zwsor7/how_to_remove_this_i_tried_to_use_midi_clef_and/)
-- [Should I move this logic to an API?](https://www.reddit.com/r/androiddev/comments/zwmrsc/should_i_move_this_logic_to_an_api/)
-- [Why is that important?](https://www.reddit.com/r/androiddev/comments/zwmdu1/why_is_that_important/)
-- [Android Studio Electric Eel RC3 now available](https://www.reddit.com/r/androiddev/comments/zwln0b/android_studio_electric_eel_rc3_now_available/)
-- [Design mobile app](https://www.reddit.com/r/androiddev/comments/zwli6i/design_mobile_app/)
-- [Fire HD 8 &lpar;2022&rpar; multiple App Crashes](https://www.reddit.com/r/androiddev/comments/zwked1/fire_hd_8_2022_multiple_app_crashes/)
-- [Sealed classes vs Enums!](https://www.reddit.com/r/androiddev/comments/zwjx2t/sealed_classes_vs_enums/)
-- [Get CompositionLocal from current theme](https://www.reddit.com/r/androiddev/comments/zwj702/get_compositionlocal_from_current_theme/)
-- [Google sign-in that redrects to system browser](https://www.reddit.com/r/androiddev/comments/zwhs8p/google_signin_that_redrects_to_system_browser/)
+- [What type of roles should I apply &lpar;transition to android&rpar;?](https://www.reddit.com/r/androiddev/comments/zxlt8k/what_type_of_roles_should_i_apply_transition_to/)
+- [Is there anyway to make a widget with a preset text that gets copied everything I would click it?](https://www.reddit.com/r/androiddev/comments/zxlit4/is_there_anyway_to_make_a_widget_with_a_preset/)
+- [StateFlow and SharedFlow in ViewModels](https://www.reddit.com/r/androiddev/comments/zxj2gp/stateflow_and_sharedflow_in_viewmodels/)
+- [Rich text with Spans](https://www.reddit.com/r/androiddev/comments/zxhm9z/rich_text_with_spans/)
+- [How to achieve this effect with transparent blurry background?](https://www.reddit.com/r/androiddev/comments/zxgnhk/how_to_achieve_this_effect_with_transparent/)
+- [How is Android Studios support on Apple Silicon right now? &lpar;Dec 2022&rpar;](https://www.reddit.com/r/androiddev/comments/zxejhz/how_is_android_studios_support_on_apple_silicon/)
+- [Samsung/Android 13 issue - Split Screen](https://www.reddit.com/r/androiddev/comments/zxddx0/samsungandroid_13_issue_split_screen/)
+- [JWT Authentication and Refresh Token in Android with Retrofit Interceptor &amp; Authenticator](https://www.reddit.com/r/androiddev/comments/zxbkc8/jwt_authentication_and_refresh_token_in_android/)
+- [Integration tests help needed!](https://www.reddit.com/r/androiddev/comments/zxbj0g/integration_tests_help_needed/)
+- [Android car os and compilation](https://www.reddit.com/r/androiddev/comments/zx9gnl/android_car_os_and_compilation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
