@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to complete an Android app in 7 days](https://www.reddit.com/r/androiddev/comments/10gj7d6/how_to_complete_an_android_app_in_7_days/)
-- [Is Android development less competitive than web development?](https://www.reddit.com/r/androiddev/comments/10ghz86/is_android_development_less_competitive_than_web/)
-- [Giving someone access to Google Ads account - any risk getting banned?](https://www.reddit.com/r/androiddev/comments/10gg867/giving_someone_access_to_google_ads_account_any/)
-- [Android Development on RISC-V](https://www.reddit.com/r/androiddev/comments/10gffpw/android_development_on_riscv/)
-- [[Jetpack Compose] Textfield that changes readOnly value](https://www.reddit.com/r/androiddev/comments/10ge09d/jetpack_compose_textfield_that_changes_readonly/)
-- [Wireless debugging keeps in authenticating despite disabling adb timeout in settings](https://www.reddit.com/r/androiddev/comments/10gdy2d/wireless_debugging_keeps_in_authenticating/)
-- [Writing proper technical articles - Stavro Xhardha](https://www.reddit.com/r/androiddev/comments/10gcjhx/writing_proper_technical_articles_stavro_xhardha/)
-- [Is there any library which can create graph similar to the one in photo? I tried AAChart but It&#39;s graph gives stock market feel. I am looking for a minimalist graph which looks cool](https://www.reddit.com/r/androiddev/comments/10gcgmw/is_there_any_library_which_can_create_graph/)
-- [Why is Mobile attribution so pricy?](https://www.reddit.com/r/androiddev/comments/10gcfa6/why_is_mobile_attribution_so_pricy/)
-- [Add fragment to view directly](https://www.reddit.com/r/androiddev/comments/10gawr3/add_fragment_to_view_directly/)
+- [How much Java...](https://www.reddit.com/r/androiddev/comments/10hf0lk/how_much_java/)
+- [Should android lint catch deprecations?](https://www.reddit.com/r/androiddev/comments/10h9q3h/should_android_lint_catch_deprecations/)
+- [Lock Wifi and other features on the device I&#39;m deploying my app on](https://www.reddit.com/r/androiddev/comments/10h8h37/lock_wifi_and_other_features_on_the_device_im/)
+- [GET_ACCOUNTS permission and its scope](https://www.reddit.com/r/androiddev/comments/10h8bac/get_accounts_permission_and_its_scope/)
+- [Recent layoffs at Google and Android](https://www.reddit.com/r/androiddev/comments/10h8b7y/recent_layoffs_at_google_and_android/)
+- [In what aspects will a native app &lpar;kotlin&rpar; be better than one developed with Flutter?](https://www.reddit.com/r/androiddev/comments/10h71oo/in_what_aspects_will_a_native_app_kotlin_be/)
+- [Android phone or Emulator?](https://www.reddit.com/r/androiddev/comments/10h565o/android_phone_or_emulator/)
+- [Without having User Accounts integrated in my app, what methods of recovering data would be best suited?](https://www.reddit.com/r/androiddev/comments/10h4o85/without_having_user_accounts_integrated_in_my_app/)
+- [Any ideas on how to force the input audio source for a given app or all apps?](https://www.reddit.com/r/androiddev/comments/10h2rp8/any_ideas_on_how_to_force_the_input_audio_source/)
+- [How do apps like NotifyBuddy work?](https://www.reddit.com/r/androiddev/comments/10h28uv/how_do_apps_like_notifybuddy_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
