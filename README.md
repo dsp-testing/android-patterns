@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Native-Activity Application missing VS2022 community, instead basic application creates a Java project not C++](https://www.reddit.com/r/androiddev/comments/1151maz/nativeactivity_application_missing_vs2022/)
-- [What makes a android developer hireable?](https://www.reddit.com/r/androiddev/comments/114uhzo/what_makes_a_android_developer_hireable/)
-- [API desugaring supporting Android 13 and java.nio](https://www.reddit.com/r/androiddev/comments/114irvg/api_desugaring_supporting_android_13_and_javanio/)
-- [Is it possible to enable personalized ads on an app that targets all ages?](https://www.reddit.com/r/androiddev/comments/114iej2/is_it_possible_to_enable_personalized_ads_on_an/)
-- [Kotlin Multiplatform —Simple Guide to Key-Value Storage](https://www.reddit.com/r/androiddev/comments/114i95v/kotlin_multiplatform_simple_guide_to_keyvalue/)
-- [Hyperpay integration. Lets talk.](https://www.reddit.com/r/androiddev/comments/114i6s7/hyperpay_integration_lets_talk/)
-- [Android Studio Flamingo network inspector](https://www.reddit.com/r/androiddev/comments/114eqc3/android_studio_flamingo_network_inspector/)
-- [Help With String Arrays In Kotlin](https://www.reddit.com/r/androiddev/comments/114eo3a/help_with_string_arrays_in_kotlin/)
-- [What is the easiest pay gateway to implement for uber-like-services without a backend](https://www.reddit.com/r/androiddev/comments/114e2o1/what_is_the_easiest_pay_gateway_to_implement_for/)
-- [Debug pane keeps disappearing in Android Studio](https://www.reddit.com/r/androiddev/comments/114cny7/debug_pane_keeps_disappearing_in_android_studio/)
+- [Assorting APK for every device type](https://www.reddit.com/r/androiddev/comments/115wq4j/assorting_apk_for_every_device_type/)
+- [Adjustable menu](https://www.reddit.com/r/androiddev/comments/115uikp/adjustable_menu/)
+- [Revisiting Android Java after years with Flutter and..](https://www.reddit.com/r/androiddev/comments/115u837/revisiting_android_java_after_years_with_flutter/)
+- [in app purchase, &quot;Payment pending&quot; after free trial](https://www.reddit.com/r/androiddev/comments/115qjf0/in_app_purchase_payment_pending_after_free_trial/)
+- [App automation](https://www.reddit.com/r/androiddev/comments/115nwrr/app_automation/)
+- [New and first job as android app developer](https://www.reddit.com/r/androiddev/comments/115n5vk/new_and_first_job_as_android_app_developer/)
+- [android 10 - how do I get my network IP in a hotspot mode?](https://www.reddit.com/r/androiddev/comments/115k0o7/android_10_how_do_i_get_my_network_ip_in_a/)
+- [What Should i do](https://www.reddit.com/r/androiddev/comments/115iqrm/what_should_i_do/)
+- [NullPointerException&quot; found while making a Music Player app in Android Studio](https://www.reddit.com/r/androiddev/comments/115iflo/nullpointerexception_found_while_making_a_music/)
+- [Jet Compose: Docking button to Navigation bar? Not necessarily a FAB](https://www.reddit.com/r/androiddev/comments/115hyj3/jet_compose_docking_button_to_navigation_bar_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
