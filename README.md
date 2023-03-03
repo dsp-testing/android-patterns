@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Using data class field as LaunchedEffect key?¿](https://www.reddit.com/r/androiddev/comments/11fm0nh/using_data_class_field_as_launchedeffect_key/)
-- [Apple HomeKit for Android and what does Golang have to do with it](https://www.reddit.com/r/androiddev/comments/11fhqe6/apple_homekit_for_android_and_what_does_golang/)
-- [Creating Android Developer Account with Enterprise Google Login](https://www.reddit.com/r/androiddev/comments/11fh1ps/creating_android_developer_account_with/)
-- [Where do you find freelancer jobs?](https://www.reddit.com/r/androiddev/comments/11ffdaz/where_do_you_find_freelancer_jobs/)
-- [Is case insensitive compare &quot;samsung&quot; with android.os.Build.MANUFACTURER a reliable way to check whether a device is Samsung?](https://www.reddit.com/r/androiddev/comments/11fdo17/is_case_insensitive_compare_samsung_with/)
-- [What Certificates Would Boost My CV as an Android Dev?](https://www.reddit.com/r/androiddev/comments/11fbya5/what_certificates_would_boost_my_cv_as_an_android/)
-- [Self Learning Android Development](https://www.reddit.com/r/androiddev/comments/11faggw/self_learning_android_development/)
-- [Automating Play Store Updates For 50+ Versions of our App](https://www.reddit.com/r/androiddev/comments/11faeaq/automating_play_store_updates_for_50_versions_of/)
-- [What is the best charting library available &lpar;Kotlin&rpar;?](https://www.reddit.com/r/androiddev/comments/11f8pur/what_is_the_best_charting_library_available_kotlin/)
-- [Admob - 60 dollars removed from invalid traffic](https://www.reddit.com/r/androiddev/comments/11f859t/admob_60_dollars_removed_from_invalid_traffic/)
+- [References for Library &amp; SDK Design?](https://www.reddit.com/r/androiddev/comments/11gm0nw/references_for_library_sdk_design/)
+- [What is the best Android emulator to use as a testing environment for Android games?](https://www.reddit.com/r/androiddev/comments/11glx6y/what_is_the_best_android_emulator_to_use_as_a/)
+- [Using CoordinatorLayout and RecyclerView in BottomSheetDialogFragment](https://www.reddit.com/r/androiddev/comments/11gkvv8/using_coordinatorlayout_and_recyclerview_in/)
+- [Building a Language Learning App with Compose – Part 3](https://www.reddit.com/r/androiddev/comments/11gk4uv/building_a_language_learning_app_with_compose/)
+- [Android newbie](https://www.reddit.com/r/androiddev/comments/11gj5ai/android_newbie/)
+- [How to test Android 14’s improved predictive back gesture animation](https://www.reddit.com/r/androiddev/comments/11gde4h/how_to_test_android_14s_improved_predictive_back/)
+- [BitmapRegionDecoder always null](https://www.reddit.com/r/androiddev/comments/11g9y8j/bitmapregiondecoder_always_null/)
+- [Android Studio Flamingo Beta 4 is now available](https://www.reddit.com/r/androiddev/comments/11g98wf/android_studio_flamingo_beta_4_is_now_available/)
+- [Please explain ASO or marketing I need to do after publishing app on Google Play Store](https://www.reddit.com/r/androiddev/comments/11g74vy/please_explain_aso_or_marketing_i_need_to_do/)
+- [I made an App for popular Cineworld cinemas in Central Europe &lpar;Cinema City&rpar;, AMA](https://www.reddit.com/r/androiddev/comments/11g5r8d/i_made_an_app_for_popular_cineworld_cinemas_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
