@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [References for Library &amp; SDK Design?](https://www.reddit.com/r/androiddev/comments/11gm0nw/references_for_library_sdk_design/)
-- [What is the best Android emulator to use as a testing environment for Android games?](https://www.reddit.com/r/androiddev/comments/11glx6y/what_is_the_best_android_emulator_to_use_as_a/)
-- [Using CoordinatorLayout and RecyclerView in BottomSheetDialogFragment](https://www.reddit.com/r/androiddev/comments/11gkvv8/using_coordinatorlayout_and_recyclerview_in/)
-- [Building a Language Learning App with Compose – Part 3](https://www.reddit.com/r/androiddev/comments/11gk4uv/building_a_language_learning_app_with_compose/)
-- [Android newbie](https://www.reddit.com/r/androiddev/comments/11gj5ai/android_newbie/)
-- [How to test Android 14’s improved predictive back gesture animation](https://www.reddit.com/r/androiddev/comments/11gde4h/how_to_test_android_14s_improved_predictive_back/)
-- [BitmapRegionDecoder always null](https://www.reddit.com/r/androiddev/comments/11g9y8j/bitmapregiondecoder_always_null/)
-- [Android Studio Flamingo Beta 4 is now available](https://www.reddit.com/r/androiddev/comments/11g98wf/android_studio_flamingo_beta_4_is_now_available/)
-- [Please explain ASO or marketing I need to do after publishing app on Google Play Store](https://www.reddit.com/r/androiddev/comments/11g74vy/please_explain_aso_or_marketing_i_need_to_do/)
-- [I made an App for popular Cineworld cinemas in Central Europe &lpar;Cinema City&rpar;, AMA](https://www.reddit.com/r/androiddev/comments/11g5r8d/i_made_an_app_for_popular_cineworld_cinemas_in/)
+- [android enterprise app](https://www.reddit.com/r/androiddev/comments/11hkzd9/android_enterprise_app/)
+- [Best bang for buck in marketing](https://www.reddit.com/r/androiddev/comments/11hh93c/best_bang_for_buck_in_marketing/)
+- [Are companies which email you offering marketing and services legit? Or should I stay away?](https://www.reddit.com/r/androiddev/comments/11hgr1l/are_companies_which_email_you_offering_marketing/)
+- [Getting Started with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/11hf6m0/getting_started_with_jetpack_compose/)
+- [App Pinned Shortcuts](https://www.reddit.com/r/androiddev/comments/11hblh0/app_pinned_shortcuts/)
+- [How does flipping the camera lens while recording in camera apps work?](https://www.reddit.com/r/androiddev/comments/11h6kdy/how_does_flipping_the_camera_lens_while_recording/)
+- [dart&lpar;flutter&rpar; to java , is it a good choice](https://www.reddit.com/r/androiddev/comments/11h43v1/dartflutter_to_java_is_it_a_good_choice/)
+- [What is worth learning in 2023 if you are an Android Developer?](https://www.reddit.com/r/androiddev/comments/11h42hg/what_is_worth_learning_in_2023_if_you_are_an/)
+- [The build tools default is now 3 &lpar;nearly 4&rpar; MAJOR versions behind?!](https://www.reddit.com/r/androiddev/comments/11h3jdn/the_build_tools_default_is_now_3_nearly_4_major/)
+- [Best comprehensive Android Dev pdf handbooks/guides to download?](https://www.reddit.com/r/androiddev/comments/11h3f37/best_comprehensive_android_dev_pdf/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
