@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Modern mobile app development for Android](https://www.reddit.com/r/androiddev/comments/14oaf0s/modern_mobile_app_development_for_android/)
-- [Is there anything similar to Yarn or NPM but for Gradle?](https://www.reddit.com/r/androiddev/comments/14oa29z/is_there_anything_similar_to_yarn_or_npm_but_for/)
-- [Carving the Path to Modularity: A Lobzik Tool Case Study on the ProtonMail Android App](https://www.reddit.com/r/androiddev/comments/14o8wdm/carving_the_path_to_modularity_a_lobzik_tool_case/)
-- [What replaced BottomNavigationItem?](https://www.reddit.com/r/androiddev/comments/14o2tws/what_replaced_bottomnavigationitem/)
-- [Get ready for an adrenaline-fueled, laughter-inducing adventure like never before in this thrilling car game! It&#39;s called TaliVan and it&#39;s up on Play Store, link in the comments!](https://www.reddit.com/r/androiddev/comments/14o2mb4/get_ready_for_an_adrenalinefueled/)
-- [SpringAnimation not work as expected](https://www.reddit.com/r/androiddev/comments/14o2aph/springanimation_not_work_as_expected/)
-- [FancyShowCaseView &lpar;Spotlight&rpar; no longer works?](https://www.reddit.com/r/androiddev/comments/14o258f/fancyshowcaseview_spotlight_no_longer_works/)
-- [About 50% of my payments are in THB, IDR, MYR, payment pending. Anybody knows why? My game isn&#39;t even that popular in these countries.](https://www.reddit.com/r/androiddev/comments/14nxbdh/about_50_of_my_payments_are_in_thb_idr_myr/)
-- [Is it possible to get resolution of a frame while decoding it by MediaCodec?](https://www.reddit.com/r/androiddev/comments/14nvlp4/is_it_possible_to_get_resolution_of_a_frame_while/)
-- [A very interesting bug on ColorOS_13.1](https://www.reddit.com/r/androiddev/comments/14nv5hh/a_very_interesting_bug_on_coloros_131/)
+- [How hard is it to make a mobile game with unity as an Android developer?](https://www.reddit.com/r/androiddev/comments/14oz9qc/how_hard_is_it_to_make_a_mobile_game_with_unity/)
+- [Android studio constantly freezing.](https://www.reddit.com/r/androiddev/comments/14ow4id/android_studio_constantly_freezing/)
+- [Complying to AdMob policies for apps targeted at everyone &lpar;including children&rpar;](https://www.reddit.com/r/androiddev/comments/14ovu07/complying_to_admob_policies_for_apps_targeted_at/)
+- [Where To Go For Mentorship?](https://www.reddit.com/r/androiddev/comments/14oulek/where_to_go_for_mentorship/)
+- [Is this a good Android course in 2023?](https://www.reddit.com/r/androiddev/comments/14ou2iq/is_this_a_good_android_course_in_2023/)
+- [I received approval for my app’s ads in AdMob, and the ads were displaying nicely in test mode. However, after removing the test device, the live ads have not been showing for over 24 hours.](https://www.reddit.com/r/androiddev/comments/14oo4np/i_received_approval_for_my_apps_ads_in_admob_and/)
+- [Pixel 7 media player on home screen](https://www.reddit.com/r/androiddev/comments/14onx0j/pixel_7_media_player_on_home_screen/)
+- [I want to create an RPG for Android, where to start?](https://www.reddit.com/r/androiddev/comments/14omqxo/i_want_to_create_an_rpg_for_android_where_to_start/)
+- [Check SElinux status](https://www.reddit.com/r/androiddev/comments/14om9m3/check_selinux_status/)
+- [How do you guys find beta testers for your app?](https://www.reddit.com/r/androiddev/comments/14okwi2/how_do_you_guys_find_beta_testers_for_your_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
