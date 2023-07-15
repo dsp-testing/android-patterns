@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Im a big Noob.](https://www.reddit.com/r/androiddev/comments/14z04c0/im_a_big_noob/)
-- [Multiplatform image loading: Coil 3.0](https://www.reddit.com/r/androiddev/comments/14yzy5v/multiplatform_image_loading_coil_30/)
-- [Hello, im from Mexico City and i want some advice...](https://www.reddit.com/r/androiddev/comments/14yyj6t/hello_im_from_mexico_city_and_i_want_some_advice/)
-- [I created a platform to access high-paying remote jobs](https://www.reddit.com/r/androiddev/comments/14yxre6/i_created_a_platform_to_access_highpaying_remote/)
-- [Question on earning money through ads in our app](https://www.reddit.com/r/androiddev/comments/14yxb9y/question_on_earning_money_through_ads_in_our_app/)
-- [Loaderskit](https://www.reddit.com/r/androiddev/comments/14yx6n5/loaderskit/)
-- [Music downloader and player](https://www.reddit.com/r/androiddev/comments/14ywjac/music_downloader_and_player/)
-- [Public commercial projects](https://www.reddit.com/r/androiddev/comments/14yuysw/public_commercial_projects/)
-- [I made my first android game](https://www.reddit.com/r/androiddev/comments/14yur00/i_made_my_first_android_game/)
-- [How do you manage versioning?](https://www.reddit.com/r/androiddev/comments/14yu3tf/how_do_you_manage_versioning/)
+- [How do i install root on my old SM-T377A tablet without getting a &quot; recovery.img&quot; error?](https://www.reddit.com/r/androiddev/comments/14zxcg7/how_do_i_install_root_on_my_old_smt377a_tablet/)
+- [Navigating Component - screen orientation](https://www.reddit.com/r/androiddev/comments/14zpeyo/navigating_component_screen_orientation/)
+- [Line chart](https://www.reddit.com/r/androiddev/comments/14zofve/line_chart/)
+- [Line chart impl](https://www.reddit.com/r/androiddev/comments/14zobfa/line_chart_impl/)
+- [Good practices when working with LiveData without ViewModels?](https://www.reddit.com/r/androiddev/comments/14zndem/good_practices_when_working_with_livedata_without/)
+- [Any worthwhile certifications/ courses to complete? &lpar;mid -&gt; senior dev&rpar;](https://www.reddit.com/r/androiddev/comments/14zmg11/any_worthwhile_certifications_courses_to_complete/)
+- [Do you feel well paid as a dev?](https://www.reddit.com/r/androiddev/comments/14zkxnt/do_you_feel_well_paid_as_a_dev/)
+- [Android chart library for &#39;unconventional&#39; figure](https://www.reddit.com/r/androiddev/comments/14zkqnd/android_chart_library_for_unconventional_figure/)
+- [Do you feel well paid as a dev?](https://www.reddit.com/r/androiddev/comments/14zkof1/do_you_feel_well_paid_as_a_dev/)
+- [Aosp CI Stick at 1 week ago](https://www.reddit.com/r/androiddev/comments/14zjx7k/aosp_ci_stick_at_1_week_ago/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
