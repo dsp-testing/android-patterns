@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I keep API keys safe?](https://www.reddit.com/r/androiddev/comments/162cnly/how_do_i_keep_api_keys_safe/)
+- [My ID verification to become a Google dev failed -- I need help](https://www.reddit.com/r/androiddev/comments/1633zj0/my_id_verification_to_become_a_google_dev_failed/)
+- [Have you guys added your apps on Huawei App Gallery ? What were the results? Is it worth It?](https://www.reddit.com/r/androiddev/comments/162w992/have_you_guys_added_your_apps_on_huawei_app/)
+- [Is it okay to publish the ad free version of my apps in my second account](https://www.reddit.com/r/androiddev/comments/162n19f/is_it_okay_to_publish_the_ad_free_version_of_my/)
+- [My app can only accessible with link and wont show in play store, what is the reason ?](https://www.reddit.com/r/androiddev/comments/162mxa4/my_app_can_only_accessible_with_link_and_wont/)
+- [Is deobfuscation file essential for publishing?](https://www.reddit.com/r/androiddev/comments/162mvym/is_deobfuscation_file_essential_for_publishing/)
+- [Play Store tags - good or bad?](https://www.reddit.com/r/androiddev/comments/162kjcq/play_store_tags_good_or_bad/)
 - [My app has two bundles with different targetSdkVersions. What will happen at the deadline?](https://www.reddit.com/r/androiddev/comments/162c4rt/my_app_has_two_bundles_with_different/)
 - [Is an AWS certificate worth it?](https://www.reddit.com/r/androiddev/comments/1629zxs/is_an_aws_certificate_worth_it/)
-- [Can we A/B test both App Bundle and Store Listing simultaneously?](https://www.reddit.com/r/androiddev/comments/1626zmd/can_we_ab_test_both_app_bundle_and_store_listing/)
-- [Hello, I have been ancountering this issue recently. Ive cleared all cache rebooted and so on. It only happens with this specific activity. On relauch its fixed until seconds later it reappears. I could not find anything online. Does anyone know how to fix this?](https://www.reddit.com/r/androiddev/comments/1626qxk/hello_i_have_been_ancountering_this_issue/)
 - [What security practices do Banking apps use?](https://www.reddit.com/r/androiddev/comments/16258kv/what_security_practices_do_banking_apps_use/)
-- [I need help with a project that im working on, any insight and or ideas will be appreciate it.](https://www.reddit.com/r/androiddev/comments/1623kzf/i_need_help_with_a_project_that_im_working_on_any/)
 - [the google play console paradox](https://www.reddit.com/r/androiddev/comments/1623fp7/the_google_play_console_paradox/)
-- [Creating an app to replace the media page on launchers](https://www.reddit.com/r/androiddev/comments/1623bzs/creating_an_app_to_replace_the_media_page_on/)
-- [Error Android Studio When click on Developer Account &lpar;image with the error&rpar;](https://www.reddit.com/r/androiddev/comments/1622hu6/error_android_studio_when_click_on_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
