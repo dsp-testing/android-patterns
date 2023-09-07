@@ -271,6 +271,8 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Firebase Auth non EU compliant](https://www.reddit.com/r/androiddev/comments/16bj7qm/firebase_auth_non_eu_compliant/)
+- [Question about PlayStore % staged rollout mechanism](https://www.reddit.com/r/androiddev/comments/16bdyr8/question_about_playstore_staged_rollout_mechanism/)
 - [SKIE &lpar;Swift Kotlin Interface Enhancer&rpar; has been released as open source!](https://www.reddit.com/r/androiddev/comments/16b1l7k/skie_swift_kotlin_interface_enhancer_has_been/)
 - [Android Studio Hedgehog Beta 2 now available](https://www.reddit.com/r/androiddev/comments/16awqyc/android_studio_hedgehog_beta_2_now_available/)
 - [Android Studio Iguana Canary 2 now available](https://www.reddit.com/r/androiddev/comments/16awqxy/android_studio_iguana_canary_2_now_available/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Java being deprecated?](https://www.reddit.com/r/androiddev/comments/16au6lg/java_being_deprecated/)
 - [Secure Personal Database Android App. Organize your notes into categories easily and securely. User-Friendly.](https://www.reddit.com/r/androiddev/comments/16atlou/secure_personal_database_android_app_organize/)
 - [Any other major Android development changes other than the ones below?](https://www.reddit.com/r/androiddev/comments/16alk3w/any_other_major_android_development_changes_other/)
-- [Why AS&#39;s Build APK&lpar;s&rpar; runs tests?](https://www.reddit.com/r/androiddev/comments/16ak9vk/why_ass_build_apks_runs_tests/)
-- [Can you share one free accompanying tool you like for your Android Development?](https://www.reddit.com/r/androiddev/comments/16ahmx4/can_you_share_one_free_accompanying_tool_you_like/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
