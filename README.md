@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can someone explain to me what Markdown Editor is for and how to use it?](https://www.reddit.com/r/androiddev/comments/1f12rwf/can_someone_explain_to_me_what_markdown_editor_is/)
+- [crashes on the Google Play Developer console](https://www.reddit.com/r/androiddev/comments/1f0zoo9/crashes_on_the_google_play_developer_console/)
+- [How to handle 3rd party APK uploads/rips of your apps](https://www.reddit.com/r/androiddev/comments/1f0xjer/how_to_handle_3rd_party_apk_uploadsrips_of_your/)
+- [How to verify a non-home address in personal accounts](https://www.reddit.com/r/androiddev/comments/1f0ss1i/how_to_verify_a_nonhome_address_in_personal/)
+- [Handling one-off events in ViewModel](https://www.reddit.com/r/androiddev/comments/1f0s3jp/handling_oneoff_events_in_viewmodel/)
+- [Are there libraries or tools with built-in page transition animations?](https://www.reddit.com/r/androiddev/comments/1f0rrbb/are_there_libraries_or_tools_with_builtin_page/)
 - [CompilationMode.BaselineProfile slower than CompilationMode.None. Why?](https://www.reddit.com/r/androiddev/comments/1f0hm96/compilationmodebaselineprofile_slower_than/)
 - [How do you use the command line to start an emulator on linux?](https://www.reddit.com/r/androiddev/comments/1f0do32/how_do_you_use_the_command_line_to_start_an/)
 - [Location permission disappeared and no idea why](https://www.reddit.com/r/androiddev/comments/1f0bwox/location_permission_disappeared_and_no_idea_why/)
 - [What Feedback &amp; Feature Request Tools Are You Using?](https://www.reddit.com/r/androiddev/comments/1f05hnp/what_feedback_feature_request_tools_are_you_using/)
-- [Animate Keyboard in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1f02fok/animate_keyboard_in_jetpack_compose/)
-- [Purpose of testing, and couple of questions](https://www.reddit.com/r/androiddev/comments/1f01kjb/purpose_of_testing_and_couple_of_questions/)
-- [Where does CardView&#39;s cardCornerRadius come from?](https://www.reddit.com/r/androiddev/comments/1f003hk/where_does_cardviews_cardcornerradius_come_from/)
-- [Is Cross-Platform Development Going to Replace Native Android Development?](https://www.reddit.com/r/androiddev/comments/1ezupy4/is_crossplatform_development_going_to_replace/)
-- [Anyone Experience a Sudden Drop in Active Users &amp; Active Devices on Play Console Statistics?](https://www.reddit.com/r/androiddev/comments/1ezpihq/anyone_experience_a_sudden_drop_in_active_users/)
-- [Play store auto updates my app on incompatible devices](https://www.reddit.com/r/androiddev/comments/1ezol8o/play_store_auto_updates_my_app_on_incompatible/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
