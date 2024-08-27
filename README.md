@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Multi-platform Multi-module Normalized SQLlite Relational DB design for mobile platforms ?](https://www.reddit.com/r/androiddev/comments/1f24max/multiplatform_multimodule_normalized_sqllite/)
+- [Jetpack Compose Chat UI Components?](https://www.reddit.com/r/androiddev/comments/1f21zc9/jetpack_compose_chat_ui_components/)
+- [Learning Android App Development, changing lock screen wallpaper on tap](https://www.reddit.com/r/androiddev/comments/1f1q00h/learning_android_app_development_changing_lock/)
+- [So is Amazon&#39;s Android appstore dead or what ?](https://www.reddit.com/r/androiddev/comments/1f1kv0x/so_is_amazons_android_appstore_dead_or_what/)
+- [Change Minimum Height of TextField](https://www.reddit.com/r/androiddev/comments/1f1cmlf/change_minimum_height_of_textfield/)
 - [Can someone explain to me what Markdown Editor is for and how to use it?](https://www.reddit.com/r/androiddev/comments/1f12rwf/can_someone_explain_to_me_what_markdown_editor_is/)
 - [crashes on the Google Play Developer console](https://www.reddit.com/r/androiddev/comments/1f0zoo9/crashes_on_the_google_play_developer_console/)
 - [How to handle 3rd party APK uploads/rips of your apps](https://www.reddit.com/r/androiddev/comments/1f0xjer/how_to_handle_3rd_party_apk_uploadsrips_of_your/)
 - [How to verify a non-home address in personal accounts](https://www.reddit.com/r/androiddev/comments/1f0ss1i/how_to_verify_a_nonhome_address_in_personal/)
-- [Handling one-off events in ViewModel](https://www.reddit.com/r/androiddev/comments/1f0s3jp/handling_oneoff_events_in_viewmodel/)
 - [Are there libraries or tools with built-in page transition animations?](https://www.reddit.com/r/androiddev/comments/1f0rrbb/are_there_libraries_or_tools_with_builtin_page/)
-- [CompilationMode.BaselineProfile slower than CompilationMode.None. Why?](https://www.reddit.com/r/androiddev/comments/1f0hm96/compilationmodebaselineprofile_slower_than/)
-- [How do you use the command line to start an emulator on linux?](https://www.reddit.com/r/androiddev/comments/1f0do32/how_do_you_use_the_command_line_to_start_an/)
-- [Location permission disappeared and no idea why](https://www.reddit.com/r/androiddev/comments/1f0bwox/location_permission_disappeared_and_no_idea_why/)
-- [What Feedback &amp; Feature Request Tools Are You Using?](https://www.reddit.com/r/androiddev/comments/1f05hnp/what_feedback_feature_request_tools_are_you_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
