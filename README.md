@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Prevent requestLayout&lpar;&rpar; improperly called warning](https://www.reddit.com/r/androiddev/comments/1f8gt01/prevent_requestlayout_improperly_called_warning/)
-- [Multiple branded app](https://www.reddit.com/r/androiddev/comments/1f8d4v0/multiple_branded_app/)
-- [My app is detected as malicious software](https://www.reddit.com/r/androiddev/comments/1f8cpx2/my_app_is_detected_as_malicious_software/)
-- [What is the correct way to share ViewModel classes within a common ViewModel?](https://www.reddit.com/r/androiddev/comments/1f8ckfp/what_is_the_correct_way_to_share_viewmodel/)
-- [Any good resources to learn automated testing in Android from scratch?](https://www.reddit.com/r/androiddev/comments/1f8bjde/any_good_resources_to_learn_automated_testing_in/)
-- [Has anyone had success with the Strike Removal pilot program for Android app devs?](https://www.reddit.com/r/androiddev/comments/1f8bivu/has_anyone_had_success_with_the_strike_removal/)
-- [Data Store access from service and viewModel](https://www.reddit.com/r/androiddev/comments/1f7zwma/data_store_access_from_service_and_viewmodel/)
-- [firebase-android-ktx: Kotlin &amp; Compose-friendly Firebase extensions designed to help you focus on your business logic.](https://www.reddit.com/r/androiddev/comments/1f7vjmg/firebaseandroidktx_kotlin_composefriendly/)
-- [Media3 Volume Control Issue on Samsung S24 &lpar;Android 14&rpar;](https://www.reddit.com/r/androiddev/comments/1f7uf2z/media3_volume_control_issue_on_samsung_s24/)
-- [Hey everyone! I&#39;m recruiting participants for a user research project titled &quot;What&#39;s New in Android Mobile Development&quot; starting this week. All interview participants will receive a $60 USD Amazon gift card.](https://www.reddit.com/r/androiddev/comments/1f7in1b/hey_everyone_im_recruiting_participants_for_a/)
+- [Am I missing something or is Android dev very overengineered and difficult to get into?](https://www.reddit.com/r/androiddev/comments/1f97qtp/am_i_missing_something_or_is_android_dev_very/)
+- [Easy to use tool for Kotlin code review?](https://www.reddit.com/r/androiddev/comments/1f97nbl/easy_to_use_tool_for_kotlin_code_review/)
+- [What to Do with Old Libraries That Do Not Support targetSdkVersion 34?](https://www.reddit.com/r/androiddev/comments/1f95n1f/what_to_do_with_old_libraries_that_do_not_support/)
+- [Easy way to use EdgeToEdge for changing NavBar and StatusBar.](https://www.reddit.com/r/androiddev/comments/1f92vkt/easy_way_to_use_edgetoedge_for_changing_navbar/)
+- [Text getting cut off in menu built with Compose – any solutions?](https://www.reddit.com/r/androiddev/comments/1f8xm94/text_getting_cut_off_in_menu_built_with_compose/)
+- [How to use Datastore&lt;Preference&gt; with CompositionLocal](https://www.reddit.com/r/androiddev/comments/1f8xlh1/how_to_use_datastorepreference_with/)
+- [Applying the State Pattern in Kotlin](https://www.reddit.com/r/androiddev/comments/1f8vjb6/applying_the_state_pattern_in_kotlin/)
+- [In-app purchases implementation](https://www.reddit.com/r/androiddev/comments/1f8v4v3/inapp_purchases_implementation/)
+- [Right way to show incoming call like notification](https://www.reddit.com/r/androiddev/comments/1f8uozp/right_way_to_show_incoming_call_like_notification/)
+- [Coroutine testing - Part 3 - Controlling time](https://www.reddit.com/r/androiddev/comments/1f8u7mc/coroutine_testing_part_3_controlling_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
