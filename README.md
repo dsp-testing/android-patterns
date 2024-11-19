@@ -271,7 +271,9 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ADB keeps disconnecting during large file push transfers?](https://www.reddit.com/r/androiddev/comments/1gtso6a/adb_keeps_disconnecting_during_large_file_push/)
+- [Examining cold start application performance... should I be clearing the app data every iteration?](https://www.reddit.com/r/androiddev/comments/1guek0q/examining_cold_start_application_performance/)
+- [emulator not working on linux &lpar;solution&rpar;](https://www.reddit.com/r/androiddev/comments/1gu0wpz/emulator_not_working_on_linux_solution/)
+- [Is there a possibility to have UI tests written with Espresso that use the real injected services?](https://www.reddit.com/r/androiddev/comments/1gu0vgr/is_there_a_possibility_to_have_ui_tests_written/)
 - [Not much coming up in android 15?](https://www.reddit.com/r/androiddev/comments/1gtru7s/not_much_coming_up_in_android_15/)
 - [Dispatchers - IO and Default Under the Hood.](https://www.reddit.com/r/androiddev/comments/1gt7eee/dispatchers_io_and_default_under_the_hood/)
 - [I made my first library](https://www.reddit.com/r/androiddev/comments/1gsqe7p/i_made_my_first_library/)
@@ -279,8 +281,6 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 - [Trigger action from phones hardware button.](https://www.reddit.com/r/androiddev/comments/1gsopzg/trigger_action_from_phones_hardware_button/)
 - [I made a puzzle game solvable only with Android developer tools](https://www.reddit.com/r/androiddev/comments/1gsnhu7/i_made_a_puzzle_game_solvable_only_with_android/)
 - [A Developer’s Roadmap to Mastering Kotlin Multiplatform](https://www.reddit.com/r/androiddev/comments/1gryj1j/a_developers_roadmap_to_mastering_kotlin/)
-- [Android overlay preventing keyboards from coming up.](https://www.reddit.com/r/androiddev/comments/1grv2pi/android_overlay_preventing_keyboards_from_coming/)
-- [ImageVector vs painterResources — Under the hood.](https://www.reddit.com/r/androiddev/comments/1groiy8/imagevector_vs_painterresources_under_the_hood/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
