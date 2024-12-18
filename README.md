@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Firebase Authentication Template with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hgich9/firebase_authentication_template_with_jetpack/)
+- [How to Enforce Type Constraints for Slot Parameters in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hg89lw/how_to_enforce_type_constraints_for_slot/)
+- [Testing in Play Store](https://www.reddit.com/r/androiddev/comments/1hg79m9/testing_in_play_store/)
 - [Push notification channel: audio file from custom directory](https://www.reddit.com/r/androiddev/comments/1hfwv2w/push_notification_channel_audio_file_from_custom/)
-- [I created a Google Console account with my mother bill](https://www.reddit.com/r/androiddev/comments/1hftur0/i_created_a_google_console_account_with_my_mother/)
 - [Android Studio Meerkat | 2024.3.1 Canary 6 now available](https://www.reddit.com/r/androiddev/comments/1hfrypf/android_studio_meerkat_202431_canary_6_now/)
 - [Android Studio Ladybug Feature Drop | 2024.2.2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1hfp37j/android_studio_ladybug_feature_drop_202422_rc_2/)
 - [This will be a huge relief for developers! Was this released recently?](https://www.reddit.com/r/androiddev/comments/1hfn0zw/this_will_be_a_huge_relief_for_developers_was/)
 - [ADBR-Server: A Modern ADB Server Reimplementation in Rust](https://www.reddit.com/r/androiddev/comments/1hfgyjk/adbrserver_a_modern_adb_server_reimplementation/)
 - [The OG](https://www.reddit.com/r/androiddev/comments/1hf7d9x/the_og/)
 - [Testing on specific devices via ADB tunnel](https://www.reddit.com/r/androiddev/comments/1hf0mc1/testing_on_specific_devices_via_adb_tunnel/)
-- [Mobile Tech Talk Slides from Droidcon NY 2024](https://www.reddit.com/r/androiddev/comments/1hezl2z/mobile_tech_talk_slides_from_droidcon_ny_2024/)
-- [Help with Kotlin Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1hey937/help_with_kotlin_jetpack_compose/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
