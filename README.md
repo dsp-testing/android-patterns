@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Positive reviews show in Play Console but NEVER reach the public listing – shadow‑ban or something else?](https://www.reddit.com/r/androiddev/comments/1k1sygs/positive_reviews_show_in_play_console_but_never/)
-- [Quick Settings Bluetooth tile bug](https://www.reddit.com/r/androiddev/comments/1k1rjjj/quick_settings_bluetooth_tile_bug/)
-- [What should I know/ have achieved to be considered mid-senior Android developer?](https://www.reddit.com/r/androiddev/comments/1k1ndqz/what_should_i_know_have_achieved_to_be_considered/)
-- [WikiReader - A FOSS app for reading Wikipedia pages distraction-free](https://www.reddit.com/r/androiddev/comments/1k1jkyx/wikireader_a_foss_app_for_reading_wikipedia_pages/)
-- [TensorFlow lite](https://www.reddit.com/r/androiddev/comments/1k1jdoo/tensorflow_lite/)
-- [Random guy offered to buy my old Android app for $100 – is this a scam?](https://www.reddit.com/r/androiddev/comments/1k1ifkd/random_guy_offered_to_buy_my_old_android_app_for/)
-- [Why Compose animations have so unfriendly api design?](https://www.reddit.com/r/androiddev/comments/1k1e0jh/why_compose_animations_have_so_unfriendly_api/)
-- [Help to correct app install mistake](https://www.reddit.com/r/androiddev/comments/1k1c0t7/help_to_correct_app_install_mistake/)
-- [How do you currently reply to user reviews on google play? Do you reply manually, use some particular tool or have some other process?](https://www.reddit.com/r/androiddev/comments/1k1bkd3/how_do_you_currently_reply_to_user_reviews_on/)
-- [React Native Isn&#39;t as Popular as You Think](https://www.reddit.com/r/androiddev/comments/1k1729l/react_native_isnt_as_popular_as_you_think/)
+- [i need help looking for a free cloud PC that has enough storage and ram to develop and test AOSP](https://www.reddit.com/r/androiddev/comments/1k3v8va/i_need_help_looking_for_a_free_cloud_pc_that_has/)
+- [Open-sourced an unstyled TabGroup component for Compose](https://www.reddit.com/r/androiddev/comments/1k3nnhz/opensourced_an_unstyled_tabgroup_component_for/)
+- [Suggest a Good free course](https://www.reddit.com/r/androiddev/comments/1k3nmwv/suggest_a_good_free_course/)
+- [Career Advice Needed: Feeling Stagnant After 12 Years in Android Multimedia Frameworks](https://www.reddit.com/r/androiddev/comments/1k3mu9d/career_advice_needed_feeling_stagnant_after_12/)
+- [Trying to prevent ui from stretching on tablets](https://www.reddit.com/r/androiddev/comments/1k3kjt0/trying_to_prevent_ui_from_stretching_on_tablets/)
+- [Trying to prevent ui from stretching on tablets](https://www.reddit.com/r/androiddev/comments/1k3ki4u/trying_to_prevent_ui_from_stretching_on_tablets/)
+- [Play Console&#39;s wants to display my Fullname and legal address](https://www.reddit.com/r/androiddev/comments/1k3jemp/play_consoles_wants_to_display_my_fullname_and/)
+- [Swip Gesture not working](https://www.reddit.com/r/androiddev/comments/1k3iuuw/swip_gesture_not_working/)
+- [Getting &quot;E No adapter attached; skipping layout&quot; on jetpack compose horizontal pager while ui testing](https://www.reddit.com/r/androiddev/comments/1k3i15p/getting_e_no_adapter_attached_skipping_layout_on/)
+- [[Showoff] How I built an Android PDF viewer that’s ~100 KB — with zooming, prefetching, caching, secure viewing](https://www.reddit.com/r/androiddev/comments/1k3er88/showoff_how_i_built_an_android_pdf_viewer_thats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
