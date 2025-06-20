@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ads Match Rate is Heart breaking](https://www.reddit.com/r/androiddev/comments/1lexi25/ads_match_rate_is_heart_breaking/)
-- [Room kotlin android](https://www.reddit.com/r/androiddev/comments/1lewryj/room_kotlin_android/)
-- [Does anyone notice slow builds with the newest versions of android gradle plugin? and also many fails due to ioexception?](https://www.reddit.com/r/androiddev/comments/1lewp5n/does_anyone_notice_slow_builds_with_the_newest/)
-- [Donations](https://www.reddit.com/r/androiddev/comments/1levei2/donations/)
-- [Can a YouTube Ban Affect My Developer Account?](https://www.reddit.com/r/androiddev/comments/1lesn6u/can_a_youtube_ban_affect_my_developer_account/)
-- [Can&#39;t Pay for Google Play Developer Account – Card Errors &lpar;OR_CCR_123 / OR_MIVEM_02&rpar;](https://www.reddit.com/r/androiddev/comments/1les233/cant_pay_for_google_play_developer_account_card/)
-- [Made my own app drawer so i can open app info directly into App Manager by MuntashirAkon](https://www.reddit.com/r/androiddev/comments/1lerc6u/made_my_own_app_drawer_so_i_can_open_app_info/)
-- [Trying to change the track width on a material 3 slider, and also the default padding](https://www.reddit.com/r/androiddev/comments/1leqwct/trying_to_change_the_track_width_on_a_material_3/)
-- [[Pro-Tip] If you intend to make your app paid on the Play Store, do it right at the very start and save yourself a headache.](https://www.reddit.com/r/androiddev/comments/1leqgkf/protip_if_you_intend_to_make_your_app_paid_on_the/)
-- [Is it just me, or does Android development feel limited in terms of real engineering challenges?](https://www.reddit.com/r/androiddev/comments/1leq23h/is_it_just_me_or_does_android_development_feel/)
+- [How to transition to backend role from Android Developer?](https://www.reddit.com/r/androiddev/comments/1lfuymn/how_to_transition_to_backend_role_from_android/)
+- [MBCompass: A featurish, lightweight compass app - fully FOSS and ad-free](https://www.reddit.com/r/androiddev/comments/1lfuori/mbcompass_a_featurish_lightweight_compass_app/)
+- [Gradle Version Conflicts in Android: Why They Happen &lpar;and How to Fix Them Without Losing Your Mind&rpar;](https://www.reddit.com/r/androiddev/comments/1lftfsw/gradle_version_conflicts_in_android_why_they/)
+- [Is android 16 available globally for pixel phones? I received a update for that.](https://www.reddit.com/r/androiddev/comments/1lfm3v3/is_android_16_available_globally_for_pixel_phones/)
+- [All my testers on Closed track can&#39;t review the production release](https://www.reddit.com/r/androiddev/comments/1lflqex/all_my_testers_on_closed_track_cant_review_the/)
+- [Does AdMob have a timeout method?](https://www.reddit.com/r/androiddev/comments/1lfl51o/does_admob_have_a_timeout_method/)
+- [I was wrong, the annoying 12-user Closed Testing rigamarole has actual value.](https://www.reddit.com/r/androiddev/comments/1lfkw8o/i_was_wrong_the_annoying_12user_closed_testing/)
+- [HS](https://www.reddit.com/r/androiddev/comments/1lfkkos/hs/)
+- [trying to sync my kotlin project on meerkat android studio](https://www.reddit.com/r/androiddev/comments/1lfikzv/trying_to_sync_my_kotlin_project_on_meerkat/)
+- [Material Design 3 unclear about spacing between fext fields](https://www.reddit.com/r/androiddev/comments/1lfgzu0/material_design_3_unclear_about_spacing_between/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
