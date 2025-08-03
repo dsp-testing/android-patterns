@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [FileNotFound/ResourceNotFound on static json as asset/raw in a SDK when its added to app&#39;s Dynamic Feature Module](https://www.reddit.com/r/androiddev/comments/1mf7v28/filenotfoundresourcenotfound_on_static_json_as/)
-- [🧩 Minecrack – a classic puzzle reimagined for Android, simple and fast](https://www.reddit.com/r/androiddev/comments/1mf6jcl/minecrack_a_classic_puzzle_reimagined_for_android/)
-- [My app finally got approved on the Play Store after a truly bizarre review process](https://www.reddit.com/r/androiddev/comments/1mf64b8/my_app_finally_got_approved_on_the_play_store/)
-- [Do I need to use kotlin for wear os](https://www.reddit.com/r/androiddev/comments/1mf4tkr/do_i_need_to_use_kotlin_for_wear_os/)
-- [Building my first Android app: offline QR bundles for links, notes &amp; pics](https://www.reddit.com/r/androiddev/comments/1mewo1v/building_my_first_android_app_offline_qr_bundles/)
-- [Package conflict](https://www.reddit.com/r/androiddev/comments/1met33e/package_conflict/)
-- [Should I release my premium game as one app with a free trial or a separate demo app with the main game having an upfront purchase?](https://www.reddit.com/r/androiddev/comments/1met1h9/should_i_release_my_premium_game_as_one_app_with/)
-- [Push notification inconsistent sdk 35](https://www.reddit.com/r/androiddev/comments/1meslba/push_notification_inconsistent_sdk_35/)
-- [My phone app icon is missing can anyone help?](https://www.reddit.com/r/androiddev/comments/1mes5ma/my_phone_app_icon_is_missing_can_anyone_help/)
-- [What do I need to know as a dev about this 16 KB thing?](https://www.reddit.com/r/androiddev/comments/1meqoy4/what_do_i_need_to_know_as_a_dev_about_this_16_kb/)
+- [What&#39;s the best way to bundle a PWA into an APK?](https://www.reddit.com/r/androiddev/comments/1mg4a0p/whats_the_best_way_to_bundle_a_pwa_into_an_apk/)
+- [Some of my Tasker apps](https://www.reddit.com/r/androiddev/comments/1mg39ca/some_of_my_tasker_apps/)
+- [Testing services swap?](https://www.reddit.com/r/androiddev/comments/1mg2qp8/testing_services_swap/)
+- [I accepted a job position as an Android developer, but I don&#39;t know much about it.](https://www.reddit.com/r/androiddev/comments/1mg1foa/i_accepted_a_job_position_as_an_android_developer/)
+- [How do I get my app into production?](https://www.reddit.com/r/androiddev/comments/1mfzdnh/how_do_i_get_my_app_into_production/)
+- [Can anyone explain how much time is needed to fix this error in India? It&#39;s very urgent, please.](https://www.reddit.com/r/androiddev/comments/1mfwg2b/can_anyone_explain_how_much_time_is_needed_to_fix/)
+- [As an Android developer aiming to grow, what areas should I explore to enhance my experience and skill set?](https://www.reddit.com/r/androiddev/comments/1mfvota/as_an_android_developer_aiming_to_grow_what_areas/)
+- [Google changed the review process. My new app took only 20 min, than it was released/in the appstore.](https://www.reddit.com/r/androiddev/comments/1mfpkr8/google_changed_the_review_process_my_new_app_took/)
+- [Java and kotlin](https://www.reddit.com/r/androiddev/comments/1mfpgp0/java_and_kotlin/)
+- [App still &quot;In Review&quot; after Production release – stuck since July 14](https://www.reddit.com/r/androiddev/comments/1mfnlxy/app_still_in_review_after_production_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
