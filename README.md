@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What&#39;s the best way to bundle a PWA into an APK?](https://www.reddit.com/r/androiddev/comments/1mg4a0p/whats_the_best_way_to_bundle_a_pwa_into_an_apk/)
-- [Some of my Tasker apps](https://www.reddit.com/r/androiddev/comments/1mg39ca/some_of_my_tasker_apps/)
-- [Testing services swap?](https://www.reddit.com/r/androiddev/comments/1mg2qp8/testing_services_swap/)
-- [I accepted a job position as an Android developer, but I don&#39;t know much about it.](https://www.reddit.com/r/androiddev/comments/1mg1foa/i_accepted_a_job_position_as_an_android_developer/)
-- [How do I get my app into production?](https://www.reddit.com/r/androiddev/comments/1mfzdnh/how_do_i_get_my_app_into_production/)
-- [Can anyone explain how much time is needed to fix this error in India? It&#39;s very urgent, please.](https://www.reddit.com/r/androiddev/comments/1mfwg2b/can_anyone_explain_how_much_time_is_needed_to_fix/)
-- [As an Android developer aiming to grow, what areas should I explore to enhance my experience and skill set?](https://www.reddit.com/r/androiddev/comments/1mfvota/as_an_android_developer_aiming_to_grow_what_areas/)
-- [Google changed the review process. My new app took only 20 min, than it was released/in the appstore.](https://www.reddit.com/r/androiddev/comments/1mfpkr8/google_changed_the_review_process_my_new_app_took/)
-- [Java and kotlin](https://www.reddit.com/r/androiddev/comments/1mfpgp0/java_and_kotlin/)
-- [App still &quot;In Review&quot; after Production release – stuck since July 14](https://www.reddit.com/r/androiddev/comments/1mfnlxy/app_still_in_review_after_production_release/)
+- [What devices for fastlane frameit?](https://www.reddit.com/r/androiddev/comments/1mgv5sk/what_devices_for_fastlane_frameit/)
+- [3 App Suspensions - Will My Account Be Terminated?](https://www.reddit.com/r/androiddev/comments/1mgtcoe/3_app_suspensions_will_my_account_be_terminated/)
+- [Want to publish your mobile app in Mainland China？](https://www.reddit.com/r/androiddev/comments/1mgrfxr/want_to_publish_your_mobile_app_in_mainland_china/)
+- [Gap between texts](https://www.reddit.com/r/androiddev/comments/1mgqqyc/gap_between_texts/)
+- [Startup Time Optimisation in a Real-World OTT App](https://www.reddit.com/r/androiddev/comments/1mgp5fe/startup_time_optimisation_in_a_realworld_ott_app/)
+- [One good copywriting leads to 1,000 users to download, 100$ revenue in 24hrs.](https://www.reddit.com/r/androiddev/comments/1mgl5nz/one_good_copywriting_leads_to_1000_users_to/)
+- [Why is whatsapp able to send call notifications even when all whatsapp app notifications are turned off?](https://www.reddit.com/r/androiddev/comments/1mgkz86/why_is_whatsapp_able_to_send_call_notifications/)
+- [Urgent: I have acquired level 0 knowledge of compose and now i want to upgrade, could you please help me with the projects i should build](https://www.reddit.com/r/androiddev/comments/1mgjtns/urgent_i_have_acquired_level_0_knowledge_of/)
+- [What do you guys recommend for small or solo developer?](https://www.reddit.com/r/androiddev/comments/1mgi806/what_do_you_guys_recommend_for_small_or_solo/)
+- [Performance of device that costs 100$ or less](https://www.reddit.com/r/androiddev/comments/1mgfq3h/performance_of_device_that_costs_100_or_less/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
