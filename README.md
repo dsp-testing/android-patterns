@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What devices for fastlane frameit?](https://www.reddit.com/r/androiddev/comments/1mgv5sk/what_devices_for_fastlane_frameit/)
-- [3 App Suspensions - Will My Account Be Terminated?](https://www.reddit.com/r/androiddev/comments/1mgtcoe/3_app_suspensions_will_my_account_be_terminated/)
-- [Want to publish your mobile app in Mainland China？](https://www.reddit.com/r/androiddev/comments/1mgrfxr/want_to_publish_your_mobile_app_in_mainland_china/)
-- [Gap between texts](https://www.reddit.com/r/androiddev/comments/1mgqqyc/gap_between_texts/)
-- [Startup Time Optimisation in a Real-World OTT App](https://www.reddit.com/r/androiddev/comments/1mgp5fe/startup_time_optimisation_in_a_realworld_ott_app/)
-- [One good copywriting leads to 1,000 users to download, 100$ revenue in 24hrs.](https://www.reddit.com/r/androiddev/comments/1mgl5nz/one_good_copywriting_leads_to_1000_users_to/)
-- [Why is whatsapp able to send call notifications even when all whatsapp app notifications are turned off?](https://www.reddit.com/r/androiddev/comments/1mgkz86/why_is_whatsapp_able_to_send_call_notifications/)
-- [Urgent: I have acquired level 0 knowledge of compose and now i want to upgrade, could you please help me with the projects i should build](https://www.reddit.com/r/androiddev/comments/1mgjtns/urgent_i_have_acquired_level_0_knowledge_of/)
-- [What do you guys recommend for small or solo developer?](https://www.reddit.com/r/androiddev/comments/1mgi806/what_do_you_guys_recommend_for_small_or_solo/)
-- [Performance of device that costs 100$ or less](https://www.reddit.com/r/androiddev/comments/1mgfq3h/performance_of_device_that_costs_100_or_less/)
+- [Built a metadata scanner that shows users what their phones actually know about them — thoughts?](https://www.reddit.com/r/androiddev/comments/1mhv86k/built_a_metadata_scanner_that_shows_users_what/)
+- [Dun &amp; Bradstreet sign in is broken?](https://www.reddit.com/r/androiddev/comments/1mht8co/dun_bradstreet_sign_in_is_broken/)
+- [Why is Google punishing me for making my app better?](https://www.reddit.com/r/androiddev/comments/1mht7zm/why_is_google_punishing_me_for_making_my_app/)
+- [What to do after finishing the Android Basics with Compose course](https://www.reddit.com/r/androiddev/comments/1mhrtr2/what_to_do_after_finishing_the_android_basics/)
+- [Retrofit Internals: How service.create converts a simple interface to API call](https://www.reddit.com/r/androiddev/comments/1mhqxii/retrofit_internals_how_servicecreate_converts_a/)
+- [How to open an APK and even though its not compatible?](https://www.reddit.com/r/androiddev/comments/1mhqjh1/how_to_open_an_apk_and_even_though_its_not/)
+- [Droid Dex: Android Device Performance Classification](https://www.reddit.com/r/androiddev/comments/1mhqho7/droid_dex_android_device_performance/)
+- [Are these fair senior Android interview questions?](https://www.reddit.com/r/androiddev/comments/1mhpldu/are_these_fair_senior_android_interview_questions/)
+- [Android background service](https://www.reddit.com/r/androiddev/comments/1mhn0zp/android_background_service/)
+- [[Guide] How to Measure Conversion Rate for On-boarding Flows](https://www.reddit.com/r/androiddev/comments/1mhmvg6/guide_how_to_measure_conversion_rate_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
