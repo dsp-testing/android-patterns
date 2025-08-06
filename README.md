@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Built a metadata scanner that shows users what their phones actually know about them — thoughts?](https://www.reddit.com/r/androiddev/comments/1mhv86k/built_a_metadata_scanner_that_shows_users_what/)
-- [Dun &amp; Bradstreet sign in is broken?](https://www.reddit.com/r/androiddev/comments/1mht8co/dun_bradstreet_sign_in_is_broken/)
-- [Why is Google punishing me for making my app better?](https://www.reddit.com/r/androiddev/comments/1mht7zm/why_is_google_punishing_me_for_making_my_app/)
-- [What to do after finishing the Android Basics with Compose course](https://www.reddit.com/r/androiddev/comments/1mhrtr2/what_to_do_after_finishing_the_android_basics/)
-- [Retrofit Internals: How service.create converts a simple interface to API call](https://www.reddit.com/r/androiddev/comments/1mhqxii/retrofit_internals_how_servicecreate_converts_a/)
-- [How to open an APK and even though its not compatible?](https://www.reddit.com/r/androiddev/comments/1mhqjh1/how_to_open_an_apk_and_even_though_its_not/)
-- [Droid Dex: Android Device Performance Classification](https://www.reddit.com/r/androiddev/comments/1mhqho7/droid_dex_android_device_performance/)
-- [Are these fair senior Android interview questions?](https://www.reddit.com/r/androiddev/comments/1mhpldu/are_these_fair_senior_android_interview_questions/)
-- [Android background service](https://www.reddit.com/r/androiddev/comments/1mhn0zp/android_background_service/)
-- [[Guide] How to Measure Conversion Rate for On-boarding Flows](https://www.reddit.com/r/androiddev/comments/1mhmvg6/guide_how_to_measure_conversion_rate_for/)
+- [SoundPool silently fails on modern Android — trying to restore effects in legacy game &lpar;need Frida/hooking help&rpar;](https://www.reddit.com/r/androiddev/comments/1miq5o6/soundpool_silently_fails_on_modern_android_trying/)
+- [Anyone want to be a closed beta tester for my new checklist app?](https://www.reddit.com/r/androiddev/comments/1mio70u/anyone_want_to_be_a_closed_beta_tester_for_my_new/)
+- [How to get started making apps for android 4.2.2?](https://www.reddit.com/r/androiddev/comments/1mils2s/how_to_get_started_making_apps_for_android_422/)
+- [New Material Design 3 Video Player](https://www.reddit.com/r/androiddev/comments/1mijcvl/new_material_design_3_video_player/)
+- [Firestore question](https://www.reddit.com/r/androiddev/comments/1mijcgz/firestore_question/)
+- [Does anyone remember Puzzle Craft 2, polish game which was the best mobile game at the time and it still is the best game, do you know that game?](https://www.reddit.com/r/androiddev/comments/1miibei/does_anyone_remember_puzzle_craft_2_polish_game/)
+- [How do you visualise android bigquery events?](https://www.reddit.com/r/androiddev/comments/1migtr5/how_do_you_visualise_android_bigquery_events/)
+- [Flutter to Kotlin multi platform widget translation guide](https://www.reddit.com/r/androiddev/comments/1mifhn1/flutter_to_kotlin_multi_platform_widget/)
+- [looking for an app developer](https://www.reddit.com/r/androiddev/comments/1mielba/looking_for_an_app_developer/)
+- [open source project](https://www.reddit.com/r/androiddev/comments/1mic76u/open_source_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
