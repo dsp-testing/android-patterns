@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [SoundPool silently fails on modern Android — trying to restore effects in legacy game &lpar;need Frida/hooking help&rpar;](https://www.reddit.com/r/androiddev/comments/1miq5o6/soundpool_silently_fails_on_modern_android_trying/)
-- [Anyone want to be a closed beta tester for my new checklist app?](https://www.reddit.com/r/androiddev/comments/1mio70u/anyone_want_to_be_a_closed_beta_tester_for_my_new/)
-- [How to get started making apps for android 4.2.2?](https://www.reddit.com/r/androiddev/comments/1mils2s/how_to_get_started_making_apps_for_android_422/)
-- [New Material Design 3 Video Player](https://www.reddit.com/r/androiddev/comments/1mijcvl/new_material_design_3_video_player/)
-- [Firestore question](https://www.reddit.com/r/androiddev/comments/1mijcgz/firestore_question/)
-- [Does anyone remember Puzzle Craft 2, polish game which was the best mobile game at the time and it still is the best game, do you know that game?](https://www.reddit.com/r/androiddev/comments/1miibei/does_anyone_remember_puzzle_craft_2_polish_game/)
-- [How do you visualise android bigquery events?](https://www.reddit.com/r/androiddev/comments/1migtr5/how_do_you_visualise_android_bigquery_events/)
-- [Flutter to Kotlin multi platform widget translation guide](https://www.reddit.com/r/androiddev/comments/1mifhn1/flutter_to_kotlin_multi_platform_widget/)
-- [looking for an app developer](https://www.reddit.com/r/androiddev/comments/1mielba/looking_for_an_app_developer/)
-- [open source project](https://www.reddit.com/r/androiddev/comments/1mic76u/open_source_project/)
+- [What does your CI/CD Pipeline look like?](https://www.reddit.com/r/androiddev/comments/1mjllue/what_does_your_cicd_pipeline_look_like/)
+- [Illnesses or Conditions Among Programmers](https://www.reddit.com/r/androiddev/comments/1mjl242/illnesses_or_conditions_among_programmers/)
+- [I don&#39;t know which of these is more ridiculous](https://www.reddit.com/r/androiddev/comments/1mjkap5/i_dont_know_which_of_these_is_more_ridiculous/)
+- [Are there any cheap &lpar;legal&rpar; ways to avoid having your home address public on Play Store as an indie dev?](https://www.reddit.com/r/androiddev/comments/1mjinob/are_there_any_cheap_legal_ways_to_avoid_having/)
+- [Laptop that can cope with modern devices in emulation](https://www.reddit.com/r/androiddev/comments/1mjev2q/laptop_that_can_cope_with_modern_devices_in/)
+- [Get Early Access Before Anyone Else!](https://www.reddit.com/r/androiddev/comments/1mjeu9r/get_early_access_before_anyone_else/)
+- [I created a free, modern Android project template to save time on setup. Looking for feedback!](https://www.reddit.com/r/androiddev/comments/1mjduea/i_created_a_free_modern_android_project_template/)
+- [Android App Proposal : Smart Extractor of Official Download URLs for Installed Apps](https://www.reddit.com/r/androiddev/comments/1mjc6io/android_app_proposal_smart_extractor_of_official/)
+- [Sharing and distributing AAR files!](https://www.reddit.com/r/androiddev/comments/1mjbg1i/sharing_and_distributing_aar_files/)
+- [App widget responsiveness](https://www.reddit.com/r/androiddev/comments/1mjaxrj/app_widget_responsiveness/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
