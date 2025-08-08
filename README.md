@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What does your CI/CD Pipeline look like?](https://www.reddit.com/r/androiddev/comments/1mjllue/what_does_your_cicd_pipeline_look_like/)
-- [Illnesses or Conditions Among Programmers](https://www.reddit.com/r/androiddev/comments/1mjl242/illnesses_or_conditions_among_programmers/)
-- [I don&#39;t know which of these is more ridiculous](https://www.reddit.com/r/androiddev/comments/1mjkap5/i_dont_know_which_of_these_is_more_ridiculous/)
-- [Are there any cheap &lpar;legal&rpar; ways to avoid having your home address public on Play Store as an indie dev?](https://www.reddit.com/r/androiddev/comments/1mjinob/are_there_any_cheap_legal_ways_to_avoid_having/)
-- [Laptop that can cope with modern devices in emulation](https://www.reddit.com/r/androiddev/comments/1mjev2q/laptop_that_can_cope_with_modern_devices_in/)
-- [Get Early Access Before Anyone Else!](https://www.reddit.com/r/androiddev/comments/1mjeu9r/get_early_access_before_anyone_else/)
-- [I created a free, modern Android project template to save time on setup. Looking for feedback!](https://www.reddit.com/r/androiddev/comments/1mjduea/i_created_a_free_modern_android_project_template/)
-- [Android App Proposal : Smart Extractor of Official Download URLs for Installed Apps](https://www.reddit.com/r/androiddev/comments/1mjc6io/android_app_proposal_smart_extractor_of_official/)
-- [Sharing and distributing AAR files!](https://www.reddit.com/r/androiddev/comments/1mjbg1i/sharing_and_distributing_aar_files/)
-- [App widget responsiveness](https://www.reddit.com/r/androiddev/comments/1mjaxrj/app_widget_responsiveness/)
+- [Best tool for creating Android apps with AI](https://www.reddit.com/r/androiddev/comments/1mkek1n/best_tool_for_creating_android_apps_with_ai/)
+- [5 computers, 5 monitors, all needed to study Android source code](https://www.reddit.com/r/androiddev/comments/1mkd3gh/5_computers_5_monitors_all_needed_to_study/)
+- [Stevdza-San tutorial on automated test writing with AI](https://www.reddit.com/r/androiddev/comments/1mkcn7o/stevdzasan_tutorial_on_automated_test_writing/)
+- [Unable to test unpublished app](https://www.reddit.com/r/androiddev/comments/1mk9nu0/unable_to_test_unpublished_app/)
+- [Is this what you do to perform keyboard handling in API 35?](https://www.reddit.com/r/androiddev/comments/1mk91vg/is_this_what_you_do_to_perform_keyboard_handling/)
+- [Sending lots of Messages using Messenger/Handler API](https://www.reddit.com/r/androiddev/comments/1mk89gi/sending_lots_of_messages_using_messengerhandler/)
+- [How do apps like Skool/Whop collect digital payments in-app without Play / App Store billing?](https://www.reddit.com/r/androiddev/comments/1mk7h2q/how_do_apps_like_skoolwhop_collect_digital/)
+- [What kind of scam is this?](https://www.reddit.com/r/androiddev/comments/1mk4t72/what_kind_of_scam_is_this/)
+- [NEW LAZY FEATURE REQUEST *UNOFFICIAL* - Copy Option when pressing SHARE](https://www.reddit.com/r/androiddev/comments/1mk34io/new_lazy_feature_request_unofficial_copy_option/)
+- [Delay in Receiving DUNS Number from Dun &amp; Bradstreet India – Anyone Faced Similar Issue?](https://www.reddit.com/r/androiddev/comments/1mjynky/delay_in_receiving_duns_number_from_dun/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
