@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What default basic moods makes sense to add for daily entries?](https://www.reddit.com/r/androiddev/comments/1mlbr1d/what_default_basic_moods_makes_sense_to_add_for/)
-- [Android Dev discord?](https://www.reddit.com/r/androiddev/comments/1mlappi/android_dev_discord/)
-- [Landscape lockscreen update please ?](https://www.reddit.com/r/androiddev/comments/1ml6p45/landscape_lockscreen_update_please/)
-- [How do I patch overlay permission app](https://www.reddit.com/r/androiddev/comments/1ml6k99/how_do_i_patch_overlay_permission_app/)
-- [Integrating Revenue Cat into our Kotlin Multi platform app, Affirmi. Any tips for a smooth setup](https://www.reddit.com/r/androiddev/comments/1ml6hyj/integrating_revenue_cat_into_our_kotlin_multi/)
-- [USB debug cable recommendation](https://www.reddit.com/r/androiddev/comments/1ml5fqi/usb_debug_cable_recommendation/)
-- [cheapest phone for dev related stuff like running own apps, need sms](https://www.reddit.com/r/androiddev/comments/1ml4j09/cheapest_phone_for_dev_related_stuff_like_running/)
-- [App Localisation Check: Du for German, Vy for Czech?](https://www.reddit.com/r/androiddev/comments/1ml49aq/app_localisation_check_du_for_german_vy_for_czech/)
-- [API 35 Keyboard Handling — Losing Auto-Resize &amp; Scroll-to-Cursor](https://www.reddit.com/r/androiddev/comments/1ml3cti/api_35_keyboard_handling_losing_autoresize/)
-- [Looking for someone to build Android projects with &lpar;intermediate learners&rpar;](https://www.reddit.com/r/androiddev/comments/1ml14o3/looking_for_someone_to_build_android_projects/)
+- [Google Play Console – “Unexpected error” with code &lpar;416BD88F&rpar; on all browsers](https://www.reddit.com/r/androiddev/comments/1mm3ley/google_play_console_unexpected_error_with_code/)
+- [Persistent Windows File Lock: react-native-background-fetch/android/build during Gradle Clean](https://www.reddit.com/r/androiddev/comments/1mm3cxg/persistent_windows_file_lock/)
+- [Just released SwiftUI like Mesh Gradients for Android](https://www.reddit.com/r/androiddev/comments/1mm0033/just_released_swiftui_like_mesh_gradients_for/)
+- [Impossible to change prefix for folder in .../java or change app name](https://www.reddit.com/r/androiddev/comments/1mlzpc1/impossible_to_change_prefix_for_folder_in_java_or/)
+- [Need project ideas to showcase modern Android skills](https://www.reddit.com/r/androiddev/comments/1mly71w/need_project_ideas_to_showcase_modern_android/)
+- [I benchmarked my app against Splitwise and Venmo. It’s 3x faster and reached 1.6k users](https://www.reddit.com/r/androiddev/comments/1mlxzhj/i_benchmarked_my_app_against_splitwise_and_venmo/)
+- [I&#39;m 15 and I want to start developing apps](https://www.reddit.com/r/androiddev/comments/1mlwpl4/im_15_and_i_want_to_start_developing_apps/)
+- [Jobs in Android dev](https://www.reddit.com/r/androiddev/comments/1mluz46/jobs_in_android_dev/)
+- [Seeking Career Guidance](https://www.reddit.com/r/androiddev/comments/1mlui5n/seeking_career_guidance/)
+- [Finding Network in a haystack](https://www.reddit.com/r/androiddev/comments/1mlsuul/finding_network_in_a_haystack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
