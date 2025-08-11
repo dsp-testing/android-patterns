@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play Console – “Unexpected error” with code &lpar;416BD88F&rpar; on all browsers](https://www.reddit.com/r/androiddev/comments/1mm3ley/google_play_console_unexpected_error_with_code/)
-- [Persistent Windows File Lock: react-native-background-fetch/android/build during Gradle Clean](https://www.reddit.com/r/androiddev/comments/1mm3cxg/persistent_windows_file_lock/)
-- [Just released SwiftUI like Mesh Gradients for Android](https://www.reddit.com/r/androiddev/comments/1mm0033/just_released_swiftui_like_mesh_gradients_for/)
-- [Impossible to change prefix for folder in .../java or change app name](https://www.reddit.com/r/androiddev/comments/1mlzpc1/impossible_to_change_prefix_for_folder_in_java_or/)
-- [Need project ideas to showcase modern Android skills](https://www.reddit.com/r/androiddev/comments/1mly71w/need_project_ideas_to_showcase_modern_android/)
-- [I benchmarked my app against Splitwise and Venmo. It’s 3x faster and reached 1.6k users](https://www.reddit.com/r/androiddev/comments/1mlxzhj/i_benchmarked_my_app_against_splitwise_and_venmo/)
-- [I&#39;m 15 and I want to start developing apps](https://www.reddit.com/r/androiddev/comments/1mlwpl4/im_15_and_i_want_to_start_developing_apps/)
-- [Jobs in Android dev](https://www.reddit.com/r/androiddev/comments/1mluz46/jobs_in_android_dev/)
-- [Seeking Career Guidance](https://www.reddit.com/r/androiddev/comments/1mlui5n/seeking_career_guidance/)
-- [Finding Network in a haystack](https://www.reddit.com/r/androiddev/comments/1mlsuul/finding_network_in_a_haystack/)
+- [Introducing Axer](https://www.reddit.com/r/androiddev/comments/1mmtzra/introducing_axer/)
+- [Need AI related advice](https://www.reddit.com/r/androiddev/comments/1mmtubr/need_ai_related_advice/)
+- [Trying to learn Kotlin/Android Studio - need help!](https://www.reddit.com/r/androiddev/comments/1mmtou4/trying_to_learn_kotlinandroid_studio_need_help/)
+- [We’ve got 400k downloads on our game… but subs are way lower than expected. What would you do?](https://www.reddit.com/r/androiddev/comments/1mmr8jq/weve_got_400k_downloads_on_our_game_but_subs_are/)
+- [Advice needed](https://www.reddit.com/r/androiddev/comments/1mmqvcb/advice_needed/)
+- [Keyboard customization / How do I remove this black screen?](https://www.reddit.com/r/androiddev/comments/1mmqrsn/keyboard_customization_how_do_i_remove_this_black/)
+- [Updated my CV based on your feedback. Should I start applying with this?](https://www.reddit.com/r/androiddev/comments/1mmmxb0/updated_my_cv_based_on_your_feedback_should_i/)
+- [Spring Boot or continue in dev?](https://www.reddit.com/r/androiddev/comments/1mmlcva/spring_boot_or_continue_in_dev/)
+- [Seeking expert developer &amp; UX input on my side project — an interactive nutrition knowledge platform I’ve been working on.](https://www.reddit.com/r/androiddev/comments/1mmi71v/seeking_expert_developer_ux_input_on_my_side/)
+- [How do I view custom 360 degree panorama images?](https://www.reddit.com/r/androiddev/comments/1mmge5m/how_do_i_view_custom_360_degree_panorama_images/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
