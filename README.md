@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [qwen-3-coder-480b as an android studio coding agent](https://www.reddit.com/r/androiddev/comments/1moplnu/qwen3coder480b_as_an_android_studio_coding_agent/)
-- [InstaVerse | Chat in Any Language. Instantly.](https://www.reddit.com/r/androiddev/comments/1mope4h/instaverse_chat_in_any_language_instantly/)
-- [Made a Google Calendar Clone in Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1mokds4/made_a_google_calendar_clone_in_compose/)
-- [Tracing the AOSP code is making me want to cry](https://www.reddit.com/r/androiddev/comments/1moihbq/tracing_the_aosp_code_is_making_me_want_to_cry/)
-- [Can I connect a physical smartwatch through ADB to a virtualised phone on android studio running in the same wi-fi network &lpar;my device network&rpar;?](https://www.reddit.com/r/androiddev/comments/1moi4bq/can_i_connect_a_physical_smartwatch_through_adb/)
-- [Why is Android development with Kotlin and Jetpack Compose such a nightmare? Am I missing a simpler approach?](https://www.reddit.com/r/androiddev/comments/1moi2g8/why_is_android_development_with_kotlin_and/)
-- [Build a particle animation for a timer app in Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1mohjyb/build_a_particle_animation_for_a_timer_app_in/)
-- [Why doesn&#39;t a single app does this?](https://www.reddit.com/r/androiddev/comments/1mogjoo/why_doesnt_a_single_app_does_this/)
-- [We&#39;re Hosting an AMA for Android Devs!](https://www.reddit.com/r/androiddev/comments/1moec9f/were_hosting_an_ama_for_android_devs/)
-- [What software is used by &quot;phone farms&quot; to control multiple phones from PC](https://www.reddit.com/r/androiddev/comments/1mobss5/what_software_is_used_by_phone_farms_to_control/)
+- [Letters launcher alternatives [keyboard based launcher]?](https://www.reddit.com/r/androiddev/comments/1mpl7fj/letters_launcher_alternatives_keyboard_based/)
+- [I got a warning for my app to fix issues, otherwise removal. So I fixed, but the warning stays.](https://www.reddit.com/r/androiddev/comments/1mpjiqr/i_got_a_warning_for_my_app_to_fix_issues/)
+- [Feeling Lost with Android Logs - Need Advice on Frameworks and Analysis](https://www.reddit.com/r/androiddev/comments/1mpgpbl/feeling_lost_with_android_logs_need_advice_on/)
+- [Seeking Experienced Android Developers &lpar;US, EU/UK&rpar; for a 30-Minute Study on Memory Optimization &lpar;Honorarium Offered&rpar;](https://www.reddit.com/r/androiddev/comments/1mpcy92/seeking_experienced_android_developers_us_euuk/)
+- [keyboard with copy and paste buttons](https://www.reddit.com/r/androiddev/comments/1mp8n6s/keyboard_with_copy_and_paste_buttons/)
+- [Android developer job interview - Prep partner - EST timezone](https://www.reddit.com/r/androiddev/comments/1mp7gkx/android_developer_job_interview_prep_partner_est/)
+- [Ripped off by Bolt.New, looking for alternatives](https://www.reddit.com/r/androiddev/comments/1mp67oe/ripped_off_by_boltnew_looking_for_alternatives/)
+- [looking for a patner in app development](https://www.reddit.com/r/androiddev/comments/1mp4oio/looking_for_a_patner_in_app_development/)
+- [Quick research on challenges Android developers face](https://www.reddit.com/r/androiddev/comments/1mp4chm/quick_research_on_challenges_android_developers/)
+- [Best Practice for Edge-to-Edge Layout in API 35 Landscape Mode](https://www.reddit.com/r/androiddev/comments/1mp3dxb/best_practice_for_edgetoedge_layout_in_api_35/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
