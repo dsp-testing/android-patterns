@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Best way to bring information over to another screen/Activity](https://www.reddit.com/r/androiddev/comments/1ms76jj/best_way_to_bring_information_over_to_another/)
-- [Is there a way to side load apps on wearOS over Bluetooth](https://www.reddit.com/r/androiddev/comments/1ms4ws2/is_there_a_way_to_side_load_apps_on_wearos_over/)
-- [Need some help](https://www.reddit.com/r/androiddev/comments/1ms2kc0/need_some_help/)
-- [The Native vs. Cross-Platform Dilemma: Why Kotlin Multiplatform &lpar;KMP&rpar; is a Game-Changer](https://www.reddit.com/r/androiddev/comments/1mryre3/the_native_vs_crossplatform_dilemma_why_kotlin/)
-- [Dev Account Termination Scam](https://www.reddit.com/r/androiddev/comments/1mrwxed/dev_account_termination_scam/)
-- [Hiring: App dev to debug, optimize &amp; deploy — Paid, Remote OK](https://www.reddit.com/r/androiddev/comments/1mrvyrr/hiring_app_dev_to_debug_optimize_deploy_paid/)
-- [Why Android Choose Java serialization?](https://www.reddit.com/r/androiddev/comments/1mrqny0/why_android_choose_java_serialization/)
-- [App Monetization Idea for Apps?](https://www.reddit.com/r/androiddev/comments/1mrq7bf/app_monetization_idea_for_apps/)
-- [Beyond launch + collect: coroutine &amp; flow internals for serious Kotlin devs](https://www.reddit.com/r/androiddev/comments/1mrouxk/beyond_launch_collect_coroutine_flow_internals/)
-- [Beyond launch + collect: coroutine &amp; flow internals for serious Kotlin devs](https://www.reddit.com/r/androiddev/comments/1mrou9h/beyond_launch_collect_coroutine_flow_internals/)
+- [Android Studio Narwhal freezes constantly](https://www.reddit.com/r/androiddev/comments/1mt8b5v/android_studio_narwhal_freezes_constantly/)
+- [Any book recommendations for Android devs with some experience?](https://www.reddit.com/r/androiddev/comments/1mt6lk9/any_book_recommendations_for_android_devs_with/)
+- [Pro 9 XL vs Pro 10 XL Benchmark](https://www.reddit.com/r/androiddev/comments/1mt3j2a/pro_9_xl_vs_pro_10_xl_benchmark/)
+- [How to access developer menu from a device not showing anyhow](https://www.reddit.com/r/androiddev/comments/1mt2gbx/how_to_access_developer_menu_from_a_device_not/)
+- [Need help regarding google play console appeal](https://www.reddit.com/r/androiddev/comments/1msy3kn/need_help_regarding_google_play_console_appeal/)
+- [How does buying someone&#39;s play console make sense for both parties involved?](https://www.reddit.com/r/androiddev/comments/1msxew8/how_does_buying_someones_play_console_make_sense/)
+- [How can you get 12 tester to start publishing on production?](https://www.reddit.com/r/androiddev/comments/1mswsvw/how_can_you_get_12_tester_to_start_publishing_on/)
+- [My 8 Years Android Journey as a Student. Finally My App is a live!](https://www.reddit.com/r/androiddev/comments/1mswpk2/my_8_years_android_journey_as_a_student_finally/)
+- [Need help with PlayStore app check](https://www.reddit.com/r/androiddev/comments/1msvzjo/need_help_with_playstore_app_check/)
+- [Is verifying the checksum for the gradle wrapper jar file and manually reviewing all .gradle files sufficient to ensure that building an app won&#39;t execute any malicious code?](https://www.reddit.com/r/androiddev/comments/1mstxyk/is_verifying_the_checksum_for_the_gradle_wrapper/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
