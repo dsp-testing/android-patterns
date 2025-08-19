@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio Narwhal freezes constantly](https://www.reddit.com/r/androiddev/comments/1mt8b5v/android_studio_narwhal_freezes_constantly/)
-- [Any book recommendations for Android devs with some experience?](https://www.reddit.com/r/androiddev/comments/1mt6lk9/any_book_recommendations_for_android_devs_with/)
-- [Pro 9 XL vs Pro 10 XL Benchmark](https://www.reddit.com/r/androiddev/comments/1mt3j2a/pro_9_xl_vs_pro_10_xl_benchmark/)
-- [How to access developer menu from a device not showing anyhow](https://www.reddit.com/r/androiddev/comments/1mt2gbx/how_to_access_developer_menu_from_a_device_not/)
-- [Need help regarding google play console appeal](https://www.reddit.com/r/androiddev/comments/1msy3kn/need_help_regarding_google_play_console_appeal/)
-- [How does buying someone&#39;s play console make sense for both parties involved?](https://www.reddit.com/r/androiddev/comments/1msxew8/how_does_buying_someones_play_console_make_sense/)
-- [How can you get 12 tester to start publishing on production?](https://www.reddit.com/r/androiddev/comments/1mswsvw/how_can_you_get_12_tester_to_start_publishing_on/)
-- [My 8 Years Android Journey as a Student. Finally My App is a live!](https://www.reddit.com/r/androiddev/comments/1mswpk2/my_8_years_android_journey_as_a_student_finally/)
-- [Need help with PlayStore app check](https://www.reddit.com/r/androiddev/comments/1msvzjo/need_help_with_playstore_app_check/)
-- [Is verifying the checksum for the gradle wrapper jar file and manually reviewing all .gradle files sufficient to ensure that building an app won&#39;t execute any malicious code?](https://www.reddit.com/r/androiddev/comments/1mstxyk/is_verifying_the_checksum_for_the_gradle_wrapper/)
+- [Snake 97 - Modern Prototype &lpar;need your feedback!&rpar;](https://www.reddit.com/r/androiddev/comments/1mu3kej/snake_97_modern_prototype_need_your_feedback/)
+- [Manually Enable HBM &lpar;High Brightness Mode&rpar;](https://www.reddit.com/r/androiddev/comments/1mu1fpt/manually_enable_hbm_high_brightness_mode/)
+- [Suggestions needed for my first clock app!!](https://www.reddit.com/r/androiddev/comments/1mu0heb/suggestions_needed_for_my_first_clock_app/)
+- [hi i just need a little insight](https://www.reddit.com/r/androiddev/comments/1mtztpr/hi_i_just_need_a_little_insight/)
+- [Incredibly confused after changing my play store account from individual to business](https://www.reddit.com/r/androiddev/comments/1mtz2g1/incredibly_confused_after_changing_my_play_store/)
+- [Dynamic home screen widget?](https://www.reddit.com/r/androiddev/comments/1mtyt1j/dynamic_home_screen_widget/)
+- [MMI Complete](https://www.reddit.com/r/androiddev/comments/1mtx0lg/mmi_complete/)
+- [LAN &lpar;p2p&rpar; networking in android](https://www.reddit.com/r/androiddev/comments/1mtwx4z/lan_p2p_networking_in_android/)
+- [Playstore took my gamw down citing there&#39;s no close button on Rewarded ads after 5 secs](https://www.reddit.com/r/androiddev/comments/1mtwoew/playstore_took_my_gamw_down_citing_theres_no/)
+- [App developers new ideaa](https://www.reddit.com/r/androiddev/comments/1mtvq7d/app_developers_new_ideaa/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
