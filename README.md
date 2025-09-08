@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Fashion AI application - Test for Test](https://www.reddit.com/r/androiddev/comments/1n8pvs5/fashion_ai_application_test_for_test/)
-- [MovieSphere - A movie discovery app with a Gemini-powered AI chatbot](https://www.reddit.com/r/androiddev/comments/1n8npac/moviesphere_a_movie_discovery_app_with_a/)
-- [Can I convert my Google Play Individual account to Organization, or do I still need to create a new account?](https://www.reddit.com/r/androiddev/comments/1n8n4gv/can_i_convert_my_google_play_individual_account/)
-- [Internal testing loop with Advertising ID on Android 13](https://www.reddit.com/r/androiddev/comments/1n8mv51/internal_testing_loop_with_advertising_id_on/)
-- [Perplexity Pro 1 Year Subscription $10](https://www.reddit.com/r/androiddev/comments/1n8lcom/perplexity_pro_1_year_subscription_10/)
-- [For beginners android developers](https://www.reddit.com/r/androiddev/comments/1n8lbfz/for_beginners_android_developers/)
-- [On the structural problems which prevent Android from being responsive to developers and users &lpar;Sept 3, 2025&rpar;](https://www.reddit.com/r/androiddev/comments/1n8jp6g/on_the_structural_problems_which_prevent_android/)
-- [You want to promote your game/app?](https://www.reddit.com/r/androiddev/comments/1n8jixf/you_want_to_promote_your_gameapp/)
-- [Android Studio Narwhal 4 Feature Drop | 2025.1.4 Canary 4 now available](https://www.reddit.com/r/androiddev/comments/1n8fqno/android_studio_narwhal_4_feature_drop_202514/)
-- [Need Advice: Creating Google Play Dev Account as a Foreign Student &lpar;Bangladeshi in Malaysia&rpar;](https://www.reddit.com/r/androiddev/comments/1n8emjf/need_advice_creating_google_play_dev_account_as_a/)
+- [Yikes! APK error received but not using APK files! Please help!](https://www.reddit.com/r/androiddev/comments/1nb9xzw/yikes_apk_error_received_but_not_using_apk_files/)
+- [Max heap size on average / above-average phones ?](https://www.reddit.com/r/androiddev/comments/1nb6b9d/max_heap_size_on_average_aboveaverage_phones/)
+- [Graphene developer calls out Google for their recent actions](https://www.reddit.com/r/androiddev/comments/1nb1yss/graphene_developer_calls_out_google_for_their/)
+- [i build a open source video calling lib for android](https://www.reddit.com/r/androiddev/comments/1nb05ix/i_build_a_open_source_video_calling_lib_for/)
+- [RoomDatabase has no method &quot;runInTransaction&quot; on desktop](https://www.reddit.com/r/androiddev/comments/1nawrik/roomdatabase_has_no_method_runintransaction_on/)
+- [Which SD processors should be capable of Android Terminal in the future?](https://www.reddit.com/r/androiddev/comments/1nav814/which_sd_processors_should_be_capable_of_android/)
+- [traditional android java/kotlin+XML vs kotlin jetpack compose](https://www.reddit.com/r/androiddev/comments/1nauh7f/traditional_android_javakotlinxml_vs_kotlin/)
+- [Why does building simple SQLite forms in Android still feel so painful? How I tryed to resolve it](https://www.reddit.com/r/androiddev/comments/1naqt6r/why_does_building_simple_sqlite_forms_in_android/)
+- [Junior Android Dev Overwhelmed by Huge Codebase — Am I Alone?](https://www.reddit.com/r/androiddev/comments/1naqmji/junior_android_dev_overwhelmed_by_huge_codebase/)
+- [Api costing of gpt 5 mini](https://www.reddit.com/r/androiddev/comments/1napowq/api_costing_of_gpt_5_mini/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
