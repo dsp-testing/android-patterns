@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to get testers without Account termination?](https://www.reddit.com/r/androiddev/comments/1ndpkdp/how_to_get_testers_without_account_termination/)
-- [🚀 ToolNeuron BETA-4 is live!](https://www.reddit.com/r/androiddev/comments/1ndozs8/toolneuron_beta4_is_live/)
-- [Made my very first game can you try my math based game ?](https://www.reddit.com/r/androiddev/comments/1ndnj1b/made_my_very_first_game_can_you_try_my_math_based/)
-- [Pricing](https://www.reddit.com/r/androiddev/comments/1ndlwp9/pricing/)
-- [How to notify my app users through notifications?](https://www.reddit.com/r/androiddev/comments/1ndlr9f/how_to_notify_my_app_users_through_notifications/)
-- [Can I write this to my boss?](https://www.reddit.com/r/androiddev/comments/1ndkkn2/can_i_write_this_to_my_boss/)
-- [Tech](https://www.reddit.com/r/androiddev/comments/1ndjww2/tech/)
-- [Play Integrity API issue](https://www.reddit.com/r/androiddev/comments/1ndht21/play_integrity_api_issue/)
-- [🧱 Breaking the Monolith: A Practical, Step-by-Step Guide to Modularizing Your Android App — Part 3](https://www.reddit.com/r/androiddev/comments/1ndgdfa/breaking_the_monolith_a_practical_stepbystep/)
-- [Introducing Shaded: A Jetpack Compose Modifier for blurring to bring down required API level down to API 24 with the same look](https://www.reddit.com/r/androiddev/comments/1ndgach/introducing_shaded_a_jetpack_compose_modifier_for/)
+- [Been working on a math&lpar;s&rpar; app for my Nephew](https://www.reddit.com/r/androiddev/comments/1nep5q7/been_working_on_a_maths_app_for_my_nephew/)
+- [[APP][8.0+] Cosmo Screen &amp; Image/Manga Translator. An app to translate your screen, game, comics, etc.](https://www.reddit.com/r/androiddev/comments/1neok7t/app80_cosmo_screen_imagemanga_translator_an_app/)
+- [File a case against google side loading apk ban](https://www.reddit.com/r/androiddev/comments/1nek5ih/file_a_case_against_google_side_loading_apk_ban/)
+- [Pixel 10 WebADB](https://www.reddit.com/r/androiddev/comments/1nek1vc/pixel_10_webadb/)
+- [Understanding the Structure of Jetpack Compose &lpar;Compiler, Runtime, UI&rpar;](https://www.reddit.com/r/androiddev/comments/1negpvm/understanding_the_structure_of_jetpack_compose/)
+- [MongoDB integration](https://www.reddit.com/r/androiddev/comments/1negfk8/mongodb_integration/)
+- [Does someone know which app this is ?com.dywkwaplusapp.world](https://www.reddit.com/r/androiddev/comments/1nefhup/does_someone_know_which_app_this_is/)
+- [Third Party Libraries](https://www.reddit.com/r/androiddev/comments/1neez6q/third_party_libraries/)
+- [Will updating my bundle reset the closed testing countdown?](https://www.reddit.com/r/androiddev/comments/1nedr9h/will_updating_my_bundle_reset_the_closed_testing/)
+- [My app idea worked in iOS! Copy it in Android](https://www.reddit.com/r/androiddev/comments/1nec91j/my_app_idea_worked_in_ios_copy_it_in_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
