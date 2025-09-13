@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Been working on a math&lpar;s&rpar; app for my Nephew](https://www.reddit.com/r/androiddev/comments/1nep5q7/been_working_on_a_maths_app_for_my_nephew/)
-- [[APP][8.0+] Cosmo Screen &amp; Image/Manga Translator. An app to translate your screen, game, comics, etc.](https://www.reddit.com/r/androiddev/comments/1neok7t/app80_cosmo_screen_imagemanga_translator_an_app/)
-- [File a case against google side loading apk ban](https://www.reddit.com/r/androiddev/comments/1nek5ih/file_a_case_against_google_side_loading_apk_ban/)
-- [Pixel 10 WebADB](https://www.reddit.com/r/androiddev/comments/1nek1vc/pixel_10_webadb/)
-- [Understanding the Structure of Jetpack Compose &lpar;Compiler, Runtime, UI&rpar;](https://www.reddit.com/r/androiddev/comments/1negpvm/understanding_the_structure_of_jetpack_compose/)
-- [MongoDB integration](https://www.reddit.com/r/androiddev/comments/1negfk8/mongodb_integration/)
-- [Does someone know which app this is ?com.dywkwaplusapp.world](https://www.reddit.com/r/androiddev/comments/1nefhup/does_someone_know_which_app_this_is/)
-- [Third Party Libraries](https://www.reddit.com/r/androiddev/comments/1neez6q/third_party_libraries/)
-- [Will updating my bundle reset the closed testing countdown?](https://www.reddit.com/r/androiddev/comments/1nedr9h/will_updating_my_bundle_reset_the_closed_testing/)
-- [My app idea worked in iOS! Copy it in Android](https://www.reddit.com/r/androiddev/comments/1nec91j/my_app_idea_worked_in_ios_copy_it_in_android/)
+- [WTF is 16 KB page size compatibility?](https://www.reddit.com/r/androiddev/comments/1nfhchn/wtf_is_16_kb_page_size_compatibility/)
+- [Shipping anonymous mood-matching chats &lpar;no accounts&rpar; - how we handled abuse, data safety, and in-app review](https://www.reddit.com/r/androiddev/comments/1nfg6c6/shipping_anonymous_moodmatching_chats_no_accounts/)
+- [Navigation SDK, I miss the XML definition where I could see all the routes](https://www.reddit.com/r/androiddev/comments/1nfbm3z/navigation_sdk_i_miss_the_xml_definition_where_i/)
+- [Can&#39;t get B2B retail management app approved](https://www.reddit.com/r/androiddev/comments/1nfaz7v/cant_get_b2b_retail_management_app_approved/)
+- [Creating a motivational battery for ios and android](https://www.reddit.com/r/androiddev/comments/1nfajyv/creating_a_motivational_battery_for_ios_and/)
+- [Creating an motivation battery app with affirmation](https://www.reddit.com/r/androiddev/comments/1nf92jj/creating_an_motivation_battery_app_with/)
+- [Android Emulator Crashes when starting the VM](https://www.reddit.com/r/androiddev/comments/1nf8yrw/android_emulator_crashes_when_starting_the_vm/)
+- [How are users with no &quot;app version code&quot; and no &quot;app version name&quot; able to leave 1 star 1 word reviews? Aren&#39;t these bots which should be removed?](https://www.reddit.com/r/androiddev/comments/1nf8wv9/how_are_users_with_no_app_version_code_and_no_app/)
+- [How good is Gemini?](https://www.reddit.com/r/androiddev/comments/1nf7iaj/how_good_is_gemini/)
+- [help starting on android](https://www.reddit.com/r/androiddev/comments/1nf5elp/help_starting_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
