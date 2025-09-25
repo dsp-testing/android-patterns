@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [git follow](https://www.reddit.com/r/androiddev/comments/1noxll7/git_follow/)
-- [No-code Android HTTP server builder. Create dynamic servers instantly, host websites, share files across networks, and trigger device actions remotely](https://www.reddit.com/r/androiddev/comments/1nox39h/nocode_android_http_server_builder_create_dynamic/)
-- [Play noob problems](https://www.reddit.com/r/androiddev/comments/1nos7pw/play_noob_problems/)
-- [Backend choice for android](https://www.reddit.com/r/androiddev/comments/1noqdzu/backend_choice_for_android/)
-- [Why Kotlin , Jetpack Has Less Job Opportunities As Compared to Flutter and React Native](https://www.reddit.com/r/androiddev/comments/1nopr2v/why_kotlin_jetpack_has_less_job_opportunities_as/)
-- [Mobile Application Developer and Salesforce Developer](https://www.reddit.com/r/androiddev/comments/1noople/mobile_application_developer_and_salesforce/)
-- [Google OAuth app verification stuck for 3+ weeks – any way to follow up?](https://www.reddit.com/r/androiddev/comments/1non0ow/google_oauth_app_verification_stuck_for_3_weeks/)
-- [transfer cloned whatsapp to work profile along with appdata](https://www.reddit.com/r/androiddev/comments/1nolezn/transfer_cloned_whatsapp_to_work_profile_along/)
-- [Help me out! How to generate fake calls logs data in virtual device?](https://www.reddit.com/r/androiddev/comments/1noj737/help_me_out_how_to_generate_fake_calls_logs_data/)
-- [Google Developer Verification Policy and the DMA | F-Droid - Free and Open Source Android App Repository](https://www.reddit.com/r/androiddev/comments/1nohthx/google_developer_verification_policy_and_the_dma/)
+- [Error show](https://www.reddit.com/r/androiddev/comments/1nps9h2/error_show/)
+- [Is the Google maps Android SDK free?](https://www.reddit.com/r/androiddev/comments/1npr7wy/is_the_google_maps_android_sdk_free/)
+- [Challenges Complying with Android 15 Foreground Service Limits – How to Get Notified During Timeout?](https://www.reddit.com/r/androiddev/comments/1npmota/challenges_complying_with_android_15_foreground/)
+- [Ble payloads](https://www.reddit.com/r/androiddev/comments/1npmm9b/ble_payloads/)
+- [ADB not working via VPN](https://www.reddit.com/r/androiddev/comments/1npl0rd/adb_not_working_via_vpn/)
+- [Translate your Android XML Files in Seconds](https://www.reddit.com/r/androiddev/comments/1npjgyr/translate_your_android_xml_files_in_seconds/)
+- [Keynote - The Future of Android...And How to Prepare For It | droidcon Berlin 2025](https://www.reddit.com/r/androiddev/comments/1npi8tu/keynote_the_future_of_androidand_how_to_prepare/)
+- [[Rant] Android Testing is horrible](https://www.reddit.com/r/androiddev/comments/1nph4uv/rant_android_testing_is_horrible/)
+- [Do android apps need to migrate to Recaptcha Enterprise away from SafetyNet recaptcha?](https://www.reddit.com/r/androiddev/comments/1npgz6e/do_android_apps_need_to_migrate_to_recaptcha/)
+- [In-app products](https://www.reddit.com/r/androiddev/comments/1npgceg/inapp_products/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
