@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [JetBrains to enable data sharing by default](https://www.reddit.com/r/androiddev/comments/1nwen6v/jetbrains_to_enable_data_sharing_by_default/)
-- [Anybody here tried Kotzilla on their project?](https://www.reddit.com/r/androiddev/comments/1nwegze/anybody_here_tried_kotzilla_on_their_project/)
-- [Got an Android app development question? Ask away! October 2025 edition](https://www.reddit.com/r/androiddev/comments/1nwclr0/got_an_android_app_development_question_ask_away/)
-- [To QR or not to QR?](https://www.reddit.com/r/androiddev/comments/1nwbly2/to_qr_or_not_to_qr/)
-- [Jetpack Compose vs XML + Java: Best Choice for Long-Term Android Development?](https://www.reddit.com/r/androiddev/comments/1nwaegr/jetpack_compose_vs_xml_java_best_choice_for/)
-- [how do I reset the float value](https://www.reddit.com/r/androiddev/comments/1nw6ffx/how_do_i_reset_the_float_value/)
-- [MongoDB Device Sync EOL](https://www.reddit.com/r/androiddev/comments/1nw3pwp/mongodb_device_sync_eol/)
-- [Release build crashes instantly &lpar;ClassNotFoundException for MainActivity&rpar; — worked fine in debug](https://www.reddit.com/r/androiddev/comments/1nw2wke/release_build_crashes_instantly/)
-- [Google defends Android&#39;s controversial sideloading policy](https://www.reddit.com/r/androiddev/comments/1nw28wu/google_defends_androids_controversial_sideloading/)
-- [[Release] Deepr v1.0.13: My open-source Android link/deeplink manager now supports cross-device link management!](https://www.reddit.com/r/androiddev/comments/1nw1maq/release_deepr_v1013_my_opensource_android/)
+- [Play Store Console cannot test the app](https://www.reddit.com/r/androiddev/comments/1nxgg31/play_store_console_cannot_test_the_app/)
+- [Foreground Service Question](https://www.reddit.com/r/androiddev/comments/1nxf35k/foreground_service_question/)
+- [Scrcpy Rotation/Display Issue](https://www.reddit.com/r/androiddev/comments/1nxe3sq/scrcpy_rotationdisplay_issue/)
+- [Is there a way to test ios app in windows](https://www.reddit.com/r/androiddev/comments/1nx95ds/is_there_a_way_to_test_ios_app_in_windows/)
+- [Tutorial to develop an app](https://www.reddit.com/r/androiddev/comments/1nx8r20/tutorial_to_develop_an_app/)
+- [Feedback wanted: features you’d love in a list + expense tracking app](https://www.reddit.com/r/androiddev/comments/1nx7836/feedback_wanted_features_youd_love_in_a_list/)
+- [Struggling to get downloads for my new habit tracker app – any advice?](https://www.reddit.com/r/androiddev/comments/1nx6sr3/struggling_to_get_downloads_for_my_new_habit/)
+- [Is this a scam?](https://www.reddit.com/r/androiddev/comments/1nx5v01/is_this_a_scam/)
+- [Some good laptop suggestions](https://www.reddit.com/r/androiddev/comments/1nx5kwq/some_good_laptop_suggestions/)
+- [Building a RESTful API with Quarkus: Step-by-Step Guide](https://www.reddit.com/r/androiddev/comments/1nx5g49/building_a_restful_api_with_quarkus_stepbystep/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
