@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MCalc Utility App Testing](https://www.reddit.com/r/androiddev/comments/1ny4m1r/mcalc_utility_app_testing/)
+- [Issue with Share Preview Image on Google Play Store](https://www.reddit.com/r/androiddev/comments/1ny1wyg/issue_with_share_preview_image_on_google_play/)
+- [IAP not supported for my country in Play Console — any workarounds?](https://www.reddit.com/r/androiddev/comments/1nxvgmn/iap_not_supported_for_my_country_in_play_console/)
+- [Tell me how am I being outranked by my peer group](https://www.reddit.com/r/androiddev/comments/1nxr3z8/tell_me_how_am_i_being_outranked_by_my_peer_group/)
+- [How can i make mod?](https://www.reddit.com/r/androiddev/comments/1nxpsry/how_can_i_make_mod/)
+- [Music app](https://www.reddit.com/r/androiddev/comments/1nxmkf2/music_app/)
 - [Play Store Console cannot test the app](https://www.reddit.com/r/androiddev/comments/1nxgg31/play_store_console_cannot_test_the_app/)
 - [Foreground Service Question](https://www.reddit.com/r/androiddev/comments/1nxf35k/foreground_service_question/)
 - [Scrcpy Rotation/Display Issue](https://www.reddit.com/r/androiddev/comments/1nxe3sq/scrcpy_rotationdisplay_issue/)
-- [Is there a way to test ios app in windows](https://www.reddit.com/r/androiddev/comments/1nx95ds/is_there_a_way_to_test_ios_app_in_windows/)
 - [Tutorial to develop an app](https://www.reddit.com/r/androiddev/comments/1nx8r20/tutorial_to_develop_an_app/)
-- [Feedback wanted: features you’d love in a list + expense tracking app](https://www.reddit.com/r/androiddev/comments/1nx7836/feedback_wanted_features_youd_love_in_a_list/)
-- [Struggling to get downloads for my new habit tracker app – any advice?](https://www.reddit.com/r/androiddev/comments/1nx6sr3/struggling_to_get_downloads_for_my_new_habit/)
-- [Is this a scam?](https://www.reddit.com/r/androiddev/comments/1nx5v01/is_this_a_scam/)
-- [Some good laptop suggestions](https://www.reddit.com/r/androiddev/comments/1nx5kwq/some_good_laptop_suggestions/)
-- [Building a RESTful API with Quarkus: Step-by-Step Guide](https://www.reddit.com/r/androiddev/comments/1nx5g49/building_a_restful_api_with_quarkus_stepbystep/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
