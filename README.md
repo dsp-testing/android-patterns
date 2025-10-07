@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [MCP Server for Android UI Analysis](https://www.reddit.com/r/androiddev/comments/1nyyxkb/mcp_server_for_android_ui_analysis/)
-- [Added taste tracking + grind recommendations to my shot timer app](https://www.reddit.com/r/androiddev/comments/1nyyeds/added_taste_tracking_grind_recommendations_to_my/)
-- [How to promote free app with zero budget](https://www.reddit.com/r/androiddev/comments/1nyxqzs/how_to_promote_free_app_with_zero_budget/)
-- [Registering google play developer account based on UK company, but i dont live there](https://www.reddit.com/r/androiddev/comments/1nywdn2/registering_google_play_developer_account_based/)
-- [App developer needed. From UK only. Creating travel app. Message me.](https://www.reddit.com/r/androiddev/comments/1nyv6vv/app_developer_needed_from_uk_only_creating_travel/)
-- [Android Studio Bug - Running the App Does Not Show UI Changes](https://www.reddit.com/r/androiddev/comments/1nymisl/android_studio_bug_running_the_app_does_not_show/)
-- [Are these good metrics for production, what is a good baseline generally?](https://www.reddit.com/r/androiddev/comments/1nymhn7/are_these_good_metrics_for_production_what_is_a/)
-- [Changes to Developer tools not being saved](https://www.reddit.com/r/androiddev/comments/1nymdul/changes_to_developer_tools_not_being_saved/)
-- [Kotlin android dev without Android studio](https://www.reddit.com/r/androiddev/comments/1nylvmp/kotlin_android_dev_without_android_studio/)
-- [📦 I built an Android app to solve my product expiry tracking nightmare - would love your feedback!](https://www.reddit.com/r/androiddev/comments/1nylnfh/i_built_an_android_app_to_solve_my_product_expiry/)
+- [Alternative work](https://www.reddit.com/r/androiddev/comments/1o003h1/alternative_work/)
+- [Fixing Common Android Studio Errors: Timeless Troubleshooting Patterns](https://www.reddit.com/r/androiddev/comments/1nzywtw/fixing_common_android_studio_errors_timeless/)
+- [For those who write interactive ads, what is involved?](https://www.reddit.com/r/androiddev/comments/1nzsk8v/for_those_who_write_interactive_ads_what_is/)
+- [🌀 Real-time mathematical art with AGSL shader](https://www.reddit.com/r/androiddev/comments/1nzrzvv/realtime_mathematical_art_with_agsl_shader/)
+- [Trying to find a recipe scrapper library](https://www.reddit.com/r/androiddev/comments/1nzobn4/trying_to_find_a_recipe_scrapper_library/)
+- [Interesting Android Apps: October 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1nzlniz/interesting_android_apps_october_2025_showcase/)
+- [what&#39;s the procedure to upload an in-app purchase product app?](https://www.reddit.com/r/androiddev/comments/1nzkf82/whats_the_procedure_to_upload_an_inapp_purchase/)
+- [How do you take a solo project from “it works” to “it grows”?](https://www.reddit.com/r/androiddev/comments/1nzj7kh/how_do_you_take_a_solo_project_from_it_works_to/)
+- [software para reiniciar celular](https://www.reddit.com/r/androiddev/comments/1nzi8g9/software_para_reiniciar_celular/)
+- [Understanding SupervisorJob in Kotlin Coroutines](https://www.reddit.com/r/androiddev/comments/1nzcysc/understanding_supervisorjob_in_kotlin_coroutines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
