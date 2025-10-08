@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Alternative work](https://www.reddit.com/r/androiddev/comments/1o003h1/alternative_work/)
-- [Fixing Common Android Studio Errors: Timeless Troubleshooting Patterns](https://www.reddit.com/r/androiddev/comments/1nzywtw/fixing_common_android_studio_errors_timeless/)
-- [For those who write interactive ads, what is involved?](https://www.reddit.com/r/androiddev/comments/1nzsk8v/for_those_who_write_interactive_ads_what_is/)
-- [🌀 Real-time mathematical art with AGSL shader](https://www.reddit.com/r/androiddev/comments/1nzrzvv/realtime_mathematical_art_with_agsl_shader/)
-- [Trying to find a recipe scrapper library](https://www.reddit.com/r/androiddev/comments/1nzobn4/trying_to_find_a_recipe_scrapper_library/)
-- [Interesting Android Apps: October 2025 Showcase](https://www.reddit.com/r/androiddev/comments/1nzlniz/interesting_android_apps_october_2025_showcase/)
-- [what&#39;s the procedure to upload an in-app purchase product app?](https://www.reddit.com/r/androiddev/comments/1nzkf82/whats_the_procedure_to_upload_an_inapp_purchase/)
-- [How do you take a solo project from “it works” to “it grows”?](https://www.reddit.com/r/androiddev/comments/1nzj7kh/how_do_you_take_a_solo_project_from_it_works_to/)
-- [software para reiniciar celular](https://www.reddit.com/r/androiddev/comments/1nzi8g9/software_para_reiniciar_celular/)
-- [Understanding SupervisorJob in Kotlin Coroutines](https://www.reddit.com/r/androiddev/comments/1nzcysc/understanding_supervisorjob_in_kotlin_coroutines/)
+- [Twa and lifecycle android](https://www.reddit.com/r/androiddev/comments/1o0wa8n/twa_and_lifecycle_android/)
+- [File system query bug](https://www.reddit.com/r/androiddev/comments/1o0w2ai/file_system_query_bug/)
+- [Random Sound](https://www.reddit.com/r/androiddev/comments/1o0unyz/random_sound/)
+- [Meta mediation with admob](https://www.reddit.com/r/androiddev/comments/1o0n70r/meta_mediation_with_admob/)
+- [Hiring a Lead Mobile Developer for Health Tech startup](https://www.reddit.com/r/androiddev/comments/1o0ieme/hiring_a_lead_mobile_developer_for_health_tech/)
+- [Open source Lawnchair adds app drawer folders and dock widgets](https://www.reddit.com/r/androiddev/comments/1o0h9gd/open_source_lawnchair_adds_app_drawer_folders_and/)
+- [Anyone played around with the new &quot;App Function&quot; thing in Android 16?](https://www.reddit.com/r/androiddev/comments/1o0e9u8/anyone_played_around_with_the_new_app_function/)
+- [Automation of App deployment](https://www.reddit.com/r/androiddev/comments/1o0aopc/automation_of_app_deployment/)
+- [📚 A comprehensive study of how the Compose compiler determines type stability for recomposition optimization.](https://www.reddit.com/r/androiddev/comments/1o0ajt0/a_comprehensive_study_of_how_the_compose_compiler/)
+- [what&#39;s the process to upload an in-app purchase product app?](https://www.reddit.com/r/androiddev/comments/1o0ajf5/whats_the_process_to_upload_an_inapp_purchase/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
