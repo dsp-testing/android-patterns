@@ -19503,7 +19503,7 @@ function registerAsciinemaPlayerElement() {
   };
 
   function Ni(a) {
-    return [v.h('"'), v.h(a.replace(RegExp('[\\\\"\b\f\n\r\t]', "g"), function (a) {
+    return [v.h('"'), v.h(a.replace(RegExp('[\\\\\\"\b\f\n\r\t]', "g"), function (a) {
       return Mi[a]
     })), v.h('"')].join("")
   }
