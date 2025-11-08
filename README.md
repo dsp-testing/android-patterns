@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Random adb connection attempt](https://www.reddit.com/r/androiddev/comments/1oqgnai/random_adb_connection_attempt/)
-- [Is it enough to set minifyEnabled to true inside the app module?](https://www.reddit.com/r/androiddev/comments/1oqf59i/is_it_enough_to_set_minifyenabled_to_true_inside/)
-- [nice QOL feature when you forget that one ADB command](https://www.reddit.com/r/androiddev/comments/1oqeaau/nice_qol_feature_when_you_forget_that_one_adb/)
-- [Experiment: Replacing Clang with GCC in the NDK](https://www.reddit.com/r/androiddev/comments/1oqe15d/experiment_replacing_clang_with_gcc_in_the_ndk/)
-- [How to test our app in Samsung Remote Test Lab?](https://www.reddit.com/r/androiddev/comments/1oq8nzb/how_to_test_our_app_in_samsung_remote_test_lab/)
-- [Turning SmartScan into a System-Wide Embedding Platform via AIDL Services](https://www.reddit.com/r/androiddev/comments/1oq4wyf/turning_smartscan_into_a_systemwide_embedding/)
-- [How do folks here keep yourself motivated?](https://www.reddit.com/r/androiddev/comments/1oq2kgk/how_do_folks_here_keep_yourself_motivated/)
-- [Application to make and share &#39;Santini&#39;](https://www.reddit.com/r/androiddev/comments/1oq2fqj/application_to_make_and_share_santini/)
-- [Looking for teammates for an open-source MVP: Delimo – a platform for sharing items &lpar; Android&rpar;](https://www.reddit.com/r/androiddev/comments/1oq016o/looking_for_teammates_for_an_opensource_mvp/)
-- [free, open-source file scanner](https://www.reddit.com/r/androiddev/comments/1opv7xk/free_opensource_file_scanner/)
+- [kotlinx.datetime: Localized DayOfWeek and Month names](https://www.reddit.com/r/androiddev/comments/1or89rk/kotlinxdatetime_localized_dayofweek_and_month/)
+- [How come this visualization doesn&#39;t show the build.gradle file for the module?](https://www.reddit.com/r/androiddev/comments/1oqzrum/how_come_this_visualization_doesnt_show_the/)
+- [Should I be crying or laughing?](https://www.reddit.com/r/androiddev/comments/1oqzq9p/should_i_be_crying_or_laughing/)
+- [Ultimate Tool for Making Beautiful Device Mockups &amp; Screenshots](https://www.reddit.com/r/androiddev/comments/1oqysf8/ultimate_tool_for_making_beautiful_device_mockups/)
+- [Google Play Console Getting Overly Convoluted](https://www.reddit.com/r/androiddev/comments/1oqwnyf/google_play_console_getting_overly_convoluted/)
+- [Android studio for windows on arm](https://www.reddit.com/r/androiddev/comments/1oqskl5/android_studio_for_windows_on_arm/)
+- [Out of the loop - is MVVM still the architecture pattern?](https://www.reddit.com/r/androiddev/comments/1oqrbb4/out_of_the_loop_is_mvvm_still_the_architecture/)
+- [Measuring Lateral Distance](https://www.reddit.com/r/androiddev/comments/1oqpwdz/measuring_lateral_distance/)
+- [Firebase distribution pops to uninstall and then install instead of update](https://www.reddit.com/r/androiddev/comments/1oqmqs5/firebase_distribution_pops_to_uninstall_and_then/)
+- [Could someone tell me if this build is normal?](https://www.reddit.com/r/androiddev/comments/1oqlnbs/could_someone_tell_me_if_this_build_is_normal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
