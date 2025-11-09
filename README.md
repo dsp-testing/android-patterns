@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [kotlinx.datetime: Localized DayOfWeek and Month names](https://www.reddit.com/r/androiddev/comments/1or89rk/kotlinxdatetime_localized_dayofweek_and_month/)
-- [How come this visualization doesn&#39;t show the build.gradle file for the module?](https://www.reddit.com/r/androiddev/comments/1oqzrum/how_come_this_visualization_doesnt_show_the/)
-- [Should I be crying or laughing?](https://www.reddit.com/r/androiddev/comments/1oqzq9p/should_i_be_crying_or_laughing/)
-- [Ultimate Tool for Making Beautiful Device Mockups &amp; Screenshots](https://www.reddit.com/r/androiddev/comments/1oqysf8/ultimate_tool_for_making_beautiful_device_mockups/)
-- [Google Play Console Getting Overly Convoluted](https://www.reddit.com/r/androiddev/comments/1oqwnyf/google_play_console_getting_overly_convoluted/)
-- [Android studio for windows on arm](https://www.reddit.com/r/androiddev/comments/1oqskl5/android_studio_for_windows_on_arm/)
-- [Out of the loop - is MVVM still the architecture pattern?](https://www.reddit.com/r/androiddev/comments/1oqrbb4/out_of_the_loop_is_mvvm_still_the_architecture/)
-- [Measuring Lateral Distance](https://www.reddit.com/r/androiddev/comments/1oqpwdz/measuring_lateral_distance/)
-- [Firebase distribution pops to uninstall and then install instead of update](https://www.reddit.com/r/androiddev/comments/1oqmqs5/firebase_distribution_pops_to_uninstall_and_then/)
-- [Could someone tell me if this build is normal?](https://www.reddit.com/r/androiddev/comments/1oqlnbs/could_someone_tell_me_if_this_build_is_normal/)
+- [Millionaire City APK not working properly](https://www.reddit.com/r/androiddev/comments/1os4d7w/millionaire_city_apk_not_working_properly/)
+- [Is there a way to give AdAway permission to edit the host file without root](https://www.reddit.com/r/androiddev/comments/1os34k9/is_there_a_way_to_give_adaway_permission_to_edit/)
+- [Google Play’s new “discount offers” will charge higher prices in older app versions](https://www.reddit.com/r/androiddev/comments/1os2p0q/google_plays_new_discount_offers_will_charge/)
+- [What could cause such a large drop in total installs?](https://www.reddit.com/r/androiddev/comments/1orxu6p/what_could_cause_such_a_large_drop_in_total/)
+- [Manage external storage permission.](https://www.reddit.com/r/androiddev/comments/1orwqmw/manage_external_storage_permission/)
+- [How much do android apps really make?](https://www.reddit.com/r/androiddev/comments/1orw6fn/how_much_do_android_apps_really_make/)
+- [Galaxy S24 - keyboard lags only in a specific whatsapp group &lpar;all typing suggestions disabled&rpar;](https://www.reddit.com/r/androiddev/comments/1ortt8v/galaxy_s24_keyboard_lags_only_in_a_specific/)
+- [Is this a mistake from Google Play Console?](https://www.reddit.com/r/androiddev/comments/1orsfol/is_this_a_mistake_from_google_play_console/)
+- [How do you track your app’s Google Play ranking? I built a small tool to automate it](https://www.reddit.com/r/androiddev/comments/1orpy0o/how_do_you_track_your_apps_google_play_ranking_i/)
+- [My total installs suddenly drops, why?](https://www.reddit.com/r/androiddev/comments/1orpjme/my_total_installs_suddenly_drops_why/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
