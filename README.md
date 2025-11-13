@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Developer Verification Discourse](https://www.reddit.com/r/androiddev/comments/1ourtmk/android_developer_verification_discourse/)
-- [Material You 3 in WhatsApp](https://www.reddit.com/r/androiddev/comments/1ourivf/material_you_3_in_whatsapp/)
-- [Need advice on what to do next.](https://www.reddit.com/r/androiddev/comments/1ouqnql/need_advice_on_what_to_do_next/)
-- [Será que ninguém fez isso?](https://www.reddit.com/r/androiddev/comments/1oupoe6/será_que_ninguém_fez_isso/)
-- [Google Play, EU distribution and &quot;unjustified geo blocking&quot;](https://www.reddit.com/r/androiddev/comments/1oumutj/google_play_eu_distribution_and_unjustified_geo/)
-- [*Urgent* | Do i need to go through the 14 days testing phase again if i want to publish a new app?](https://www.reddit.com/r/androiddev/comments/1ouj3k2/urgent_do_i_need_to_go_through_the_14_days/)
-- [Need advice on backend structure for my dating app &lpar;Supabase vs Firebase vs mixed setup&rpar;](https://www.reddit.com/r/androiddev/comments/1ouhg94/need_advice_on_backend_structure_for_my_dating/)
-- [Idea to widget](https://www.reddit.com/r/androiddev/comments/1ougjxr/idea_to_widget/)
-- [Hiring Android Developers &lpar;2–4 yrs&rpar; – Full-time On-site in Mumbai &lpar;Andheri&rpar;](https://www.reddit.com/r/androiddev/comments/1oufp5x/hiring_android_developers_24_yrs_fulltime_onsite/)
-- [How to Keep Android Open](https://www.reddit.com/r/androiddev/comments/1oufaa8/how_to_keep_android_open/)
+- [UWB Inaccessible to Developers](https://www.reddit.com/r/androiddev/comments/1ovnq9e/uwb_inaccessible_to_developers/)
+- [What&#39;s your favorite AI autocomplete for Android Studio?](https://www.reddit.com/r/androiddev/comments/1ovni2z/whats_your_favorite_ai_autocomplete_for_android/)
+- [[Help] - Retrieving media metadata](https://www.reddit.com/r/androiddev/comments/1ovhyc7/help_retrieving_media_metadata/)
+- [Google developer console for rent](https://www.reddit.com/r/androiddev/comments/1ovhxxh/google_developer_console_for_rent/)
+- [What the heck is an LLD interview for mobile?](https://www.reddit.com/r/androiddev/comments/1ovfuif/what_the_heck_is_an_lld_interview_for_mobile/)
+- [Detecting 3 quick headset button presses in Android without blocking media controls](https://www.reddit.com/r/androiddev/comments/1ovf51m/detecting_3_quick_headset_button_presses_in/)
+- [Seeking early feedback for an open-source mobile IDE](https://www.reddit.com/r/androiddev/comments/1oveiei/seeking_early_feedback_for_an_opensource_mobile/)
+- [From ExoPlayer2 to Media3: Lessons from a Full Playback Rewrite](https://www.reddit.com/r/androiddev/comments/1ovdq9n/from_exoplayer2_to_media3_lessons_from_a_full/)
+- [Deploy Debian, Ubuntu, Kali and Alpine on Your Phone with Privileges via Shizuku/ADB to Bypass Android Restrictions](https://www.reddit.com/r/androiddev/comments/1ovctkc/deploy_debian_ubuntu_kali_and_alpine_on_your/)
+- [I removed an entire module from my library for v2.0 and users actually thanked me](https://www.reddit.com/r/androiddev/comments/1ovc7ud/i_removed_an_entire_module_from_my_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
