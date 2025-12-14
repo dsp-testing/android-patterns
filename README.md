@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Developers Blog: Enhancing Android security: Stop malware from snooping on your app data](https://www.reddit.com/r/androiddev/comments/1pkbvgc/android_developers_blog_enhancing_android/)
-- [From PyTorch to Shipping local AI on Android](https://www.reddit.com/r/androiddev/comments/1pk5flh/from_pytorch_to_shipping_local_ai_on_android/)
-- [Need help with auth sha key](https://www.reddit.com/r/androiddev/comments/1pk2es4/need_help_with_auth_sha_key/)
-- [Translating your Android app? I built a tool that handles 80+ languages and validates XML, plurals &amp; placeholders](https://www.reddit.com/r/androiddev/comments/1pk1nps/translating_your_android_app_i_built_a_tool_that/)
-- [Problem with icons, please help.](https://www.reddit.com/r/androiddev/comments/1pk1icc/problem_with_icons_please_help/)
-- [Expo vs Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1pk0qmm/expo_vs_jetpack_compose/)
-- [Android Studio Otter 3 Feature Drop | 2025.2.3 Canary 5 now available](https://www.reddit.com/r/androiddev/comments/1pjzl6g/android_studio_otter_3_feature_drop_202523_canary/)
-- [Looking for feedback on my Android Developer CV](https://www.reddit.com/r/androiddev/comments/1pjzgyb/looking_for_feedback_on_my_android_developer_cv/)
-- [What are Room best practices? I&#39;m pretty confused!](https://www.reddit.com/r/androiddev/comments/1pjy0wj/what_are_room_best_practices_im_pretty_confused/)
-- [I got tired of the Android Studio Network Profiler flaking out](https://www.reddit.com/r/androiddev/comments/1pju0cc/i_got_tired_of_the_android_studio_network/)
+- [One UI 8.5 Now Live: Full List of Samsung Phones Under Testing](https://www.reddit.com/r/androiddev/comments/1pm17ie/one_ui_85_now_live_full_list_of_samsung_phones/)
+- [Not sure how to architect my data in the app, anyone who did something similar and have the recommendation?](https://www.reddit.com/r/androiddev/comments/1pm0qk0/not_sure_how_to_architect_my_data_in_the_app/)
+- [App stops send notifications after an update](https://www.reddit.com/r/androiddev/comments/1plx5z0/app_stops_send_notifications_after_an_update/)
+- [Does anyone use SoX Sound eXchange and successfully add support for 16 KB page sizes?](https://www.reddit.com/r/androiddev/comments/1plunsb/does_anyone_use_sox_sound_exchange_and/)
+- [Has any transferred their apps from an organization account to individual?](https://www.reddit.com/r/androiddev/comments/1plngo5/has_any_transferred_their_apps_from_an/)
+- [What’s the Best and Most Cost-Effective Database for a Cross-Platform Mobile App With a Web Backend?](https://www.reddit.com/r/androiddev/comments/1plmzy0/whats_the_best_and_most_costeffective_database/)
+- [One UI 8.5 Now Live: Full List of Samsung Phones Under Testing](https://www.reddit.com/r/androiddev/comments/1plm2tc/one_ui_85_now_live_full_list_of_samsung_phones/)
+- [Is it possible to unlock the Soyes XS19 Pro with fingerprint? &lpar;Any real solution?&rpar;](https://www.reddit.com/r/androiddev/comments/1pllp1w/is_it_possible_to_unlock_the_soyes_xs19_pro_with/)
+- [2 weeks holidays - side project](https://www.reddit.com/r/androiddev/comments/1plldfn/2_weeks_holidays_side_project/)
+- [Need Play Store Policy Advice for Local Payments &lpar;Algeria - CCP&rpar;](https://www.reddit.com/r/androiddev/comments/1plkzgs/need_play_store_policy_advice_for_local_payments/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
