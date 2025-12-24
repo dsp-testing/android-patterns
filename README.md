@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Not exactly a development issue but I get this stupid glitch on every other phone on the play store.](https://www.reddit.com/r/androiddev/comments/1ptc13m/not_exactly_a_development_issue_but_i_get_this/)
-- [How can I get access to Work Profile to add the option to my launcher app.](https://www.reddit.com/r/androiddev/comments/1ptbjhr/how_can_i_get_access_to_work_profile_to_add_the/)
-- [KryVentaApp vs adobe scan vs CamScanner/oken vs AI scanner . Ultimate Battle results](https://www.reddit.com/r/androiddev/comments/1pt9ip2/kryventaapp_vs_adobe_scan_vs_camscanneroken_vs_ai/)
-- [Need to auto test app](https://www.reddit.com/r/androiddev/comments/1pt8c6e/need_to_auto_test_app/)
-- [I need a website template for app portfolio](https://www.reddit.com/r/androiddev/comments/1pt74vn/i_need_a_website_template_for_app_portfolio/)
-- [Can&#39;t use Deliveroo Driver because of Android Debug Bridge](https://www.reddit.com/r/androiddev/comments/1pt6oj4/cant_use_deliveroo_driver_because_of_android/)
-- [Weekend project, live on Play Store. Roast my AI image generator UX](https://www.reddit.com/r/androiddev/comments/1pt6945/weekend_project_live_on_play_store_roast_my_ai/)
-- [Use a self-made watch face without Google play](https://www.reddit.com/r/androiddev/comments/1pt67oz/use_a_selfmade_watch_face_without_google_play/)
-- [Library modules need the androidTest source set to run Compose previews on device](https://www.reddit.com/r/androiddev/comments/1pt3xxv/library_modules_need_the_androidtest_source_set/)
-- [Build-In Gemini AI](https://www.reddit.com/r/androiddev/comments/1pt26so/buildin_gemini_ai/)
+- [Android Studio ISSUE &quot;sourceset with name main not found android studio&quot; SOLUTION - HOW TO DOWNLOAD OLD VERSIONS OF ANDROID STUDIO](https://www.reddit.com/r/androiddev/comments/1pu8t1r/android_studio_issue_sourceset_with_name_main_not/)
+- [PWA assetlink.json question](https://www.reddit.com/r/androiddev/comments/1pu5c1a/pwa_assetlinkjson_question/)
+- [I built a Sports API &lpar;Football live, more sports coming&rpar; looking for feedback, use cases &amp; collaborators](https://www.reddit.com/r/androiddev/comments/1pu35dz/i_built_a_sports_api_football_live_more_sports/)
+- [Do you built APP for Android only?](https://www.reddit.com/r/androiddev/comments/1pu2yh0/do_you_built_app_for_android_only/)
+- [Android Studio Otter 2 Feature Drop | 2025.2.2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1pu20ur/android_studio_otter_2_feature_drop_202522_patch/)
+- [What AI tools/workflows you do use in android dev day2 day?](https://www.reddit.com/r/androiddev/comments/1ptzwnb/what_ai_toolsworkflows_you_do_use_in_android_dev/)
+- [My open source app is removed for foreground service violation 6 months post publishing, need clarification if anyone else is in the same boat.](https://www.reddit.com/r/androiddev/comments/1ptziqb/my_open_source_app_is_removed_for_foreground/)
+- [Antigravity, Android Studio. Do I need both or just Studio?](https://www.reddit.com/r/androiddev/comments/1ptua3i/antigravity_android_studio_do_i_need_both_or_just/)
+- [Best platforms to build on?](https://www.reddit.com/r/androiddev/comments/1ptochs/best_platforms_to_build_on/)
+- [Can I get organic traffic from Google Play?](https://www.reddit.com/r/androiddev/comments/1ptk56d/can_i_get_organic_traffic_from_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
