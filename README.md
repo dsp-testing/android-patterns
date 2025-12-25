@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Studio ISSUE &quot;sourceset with name main not found android studio&quot; SOLUTION - HOW TO DOWNLOAD OLD VERSIONS OF ANDROID STUDIO](https://www.reddit.com/r/androiddev/comments/1pu8t1r/android_studio_issue_sourceset_with_name_main_not/)
-- [PWA assetlink.json question](https://www.reddit.com/r/androiddev/comments/1pu5c1a/pwa_assetlinkjson_question/)
-- [I built a Sports API &lpar;Football live, more sports coming&rpar; looking for feedback, use cases &amp; collaborators](https://www.reddit.com/r/androiddev/comments/1pu35dz/i_built_a_sports_api_football_live_more_sports/)
-- [Do you built APP for Android only?](https://www.reddit.com/r/androiddev/comments/1pu2yh0/do_you_built_app_for_android_only/)
-- [Android Studio Otter 2 Feature Drop | 2025.2.2 Patch 1 now available](https://www.reddit.com/r/androiddev/comments/1pu20ur/android_studio_otter_2_feature_drop_202522_patch/)
-- [What AI tools/workflows you do use in android dev day2 day?](https://www.reddit.com/r/androiddev/comments/1ptzwnb/what_ai_toolsworkflows_you_do_use_in_android_dev/)
-- [My open source app is removed for foreground service violation 6 months post publishing, need clarification if anyone else is in the same boat.](https://www.reddit.com/r/androiddev/comments/1ptziqb/my_open_source_app_is_removed_for_foreground/)
-- [Antigravity, Android Studio. Do I need both or just Studio?](https://www.reddit.com/r/androiddev/comments/1ptua3i/antigravity_android_studio_do_i_need_both_or_just/)
-- [Best platforms to build on?](https://www.reddit.com/r/androiddev/comments/1ptochs/best_platforms_to_build_on/)
-- [Can I get organic traffic from Google Play?](https://www.reddit.com/r/androiddev/comments/1ptk56d/can_i_get_organic_traffic_from_google_play/)
+- [I&#39;m converting my paid app to free and want to grant premium access to existing users. Is it possible?](https://www.reddit.com/r/androiddev/comments/1pv0q0j/im_converting_my_paid_app_to_free_and_want_to/)
+- [I built an app to clean my gallery because I have 3,000+ photos. I’d love your brutually honest feedback!](https://www.reddit.com/r/androiddev/comments/1puzeor/i_built_an_app_to_clean_my_gallery_because_i_have/)
+- [Google Play keeps asking for the same “App Information Request” — I’ve submitted it 3 times. Anyone else experienced this?](https://www.reddit.com/r/androiddev/comments/1puv8c0/google_play_keeps_asking_for_the_same_app/)
+- [Can I let users extract audio from a YouTube video and use them as a Ringtone in dialer app?](https://www.reddit.com/r/androiddev/comments/1puv4al/can_i_let_users_extract_audio_from_a_youtube/)
+- [I built a free open-source all-in-one search app for Android!](https://www.reddit.com/r/androiddev/comments/1puu802/i_built_a_free_opensource_allinone_search_app_for/)
+- [Please help with Programming an old android to play sounds!](https://www.reddit.com/r/androiddev/comments/1puqhla/please_help_with_programming_an_old_android_to/)
+- [[2025.2.2 Patch 1] Android view still gone after &quot;invalidate caches &amp; restart&quot;](https://www.reddit.com/r/androiddev/comments/1puqf5z/202522_patch_1_android_view_still_gone_after/)
+- [How to implement this compass dial UI using SensorEvent &lpar;Jetpack Compose&rpar;?](https://www.reddit.com/r/androiddev/comments/1puq2ht/how_to_implement_this_compass_dial_ui_using/)
+- [day 2 of making a open world game for mobile device](https://www.reddit.com/r/androiddev/comments/1puowd0/day_2_of_making_a_open_world_game_for_mobile/)
+- [How to implement push notifications for free in Firebase without Blaze plan?](https://www.reddit.com/r/androiddev/comments/1pun68g/how_to_implement_push_notifications_for_free_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
