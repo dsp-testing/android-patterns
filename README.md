@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Developing a game](https://www.reddit.com/r/androiddev/comments/1pwhyrq/developing_a_game/)
-- [Extract text from images, match visuals, and run AI-powered analysis—all offline on your device.](https://www.reddit.com/r/androiddev/comments/1pwh10l/extract_text_from_images_match_visuals_and_run/)
-- [A weekly couples’ journal app](https://www.reddit.com/r/androiddev/comments/1pwg98e/a_weekly_couples_journal_app/)
-- [[DEV] Looking for feedback on a minimal Android app focused on reminders for personal thoughts](https://www.reddit.com/r/androiddev/comments/1pwcot1/dev_looking_for_feedback_on_a_minimal_android_app/)
-- [Why is a well-rated app almost never shared?](https://www.reddit.com/r/androiddev/comments/1pwc8c9/why_is_a_wellrated_app_almost_never_shared/)
-- [Give my &quot;School, Family &amp; Office Newspaper&quot; app a try, %100 Free!! Need 100 brave early users 🎁](https://www.reddit.com/r/androiddev/comments/1pw7r0e/give_my_school_family_office_newspaper_app_a_try/)
-- [sms flood protection](https://www.reddit.com/r/androiddev/comments/1pw7mua/sms_flood_protection/)
-- [Bulletin a new way to get your news! Stop getting pay walled, stop reading fluff pieces.](https://www.reddit.com/r/androiddev/comments/1pw7iq0/bulletin_a_new_way_to_get_your_news_stop_getting/)
-- [A Highly Configurable Performant Carousel](https://www.reddit.com/r/androiddev/comments/1pw4hu0/a_highly_configurable_performant_carousel/)
-- [&lpar;AOSP&rpar; what would be the best way to remove all wifi/bluetooth/broadband functionality from an aosp gsi build?](https://www.reddit.com/r/androiddev/comments/1pw4hiq/aosp_what_would_be_the_best_way_to_remove_all/)
+- [Remember when we used Java and XML](https://www.reddit.com/r/androiddev/comments/1pxefk0/remember_when_we_used_java_and_xml/)
+- [Mettre android 16 sur Samsung a 12](https://www.reddit.com/r/androiddev/comments/1pxe61r/mettre_android_16_sur_samsung_a_12/)
+- [I have an old not working app and someone tries to buy it](https://www.reddit.com/r/androiddev/comments/1px9bb4/i_have_an_old_not_working_app_and_someone_tries/)
+- [feedback on my resume](https://www.reddit.com/r/androiddev/comments/1px76jj/feedback_on_my_resume/)
+- [App suspension help](https://www.reddit.com/r/androiddev/comments/1px5u3f/app_suspension_help/)
+- [Please Advice 😭](https://www.reddit.com/r/androiddev/comments/1px3qx9/please_advice/)
+- [Kotlin Multiplatform App - Mine StableDiffusion 1.3.2](https://www.reddit.com/r/androiddev/comments/1pwxoiq/kotlin_multiplatform_app_mine_stablediffusion_132/)
+- [Anyone else seeing long Google Play reviews this December?](https://www.reddit.com/r/androiddev/comments/1pwwnxi/anyone_else_seeing_long_google_play_reviews_this/)
+- [I recreated Spotify-style App Store screenshots in under 1 minute &lpar;live demo&rpar;](https://www.reddit.com/r/androiddev/comments/1pwv0hg/i_recreated_spotifystyle_app_store_screenshots_in/)
+- [Implementation of ML kits in Android Java](https://www.reddit.com/r/androiddev/comments/1pwpt6w/implementation_of_ml_kits_in_android_java/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
