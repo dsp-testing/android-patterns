@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Remember when we used Java and XML](https://www.reddit.com/r/androiddev/comments/1pxefk0/remember_when_we_used_java_and_xml/)
-- [Mettre android 16 sur Samsung a 12](https://www.reddit.com/r/androiddev/comments/1pxe61r/mettre_android_16_sur_samsung_a_12/)
-- [I have an old not working app and someone tries to buy it](https://www.reddit.com/r/androiddev/comments/1px9bb4/i_have_an_old_not_working_app_and_someone_tries/)
-- [feedback on my resume](https://www.reddit.com/r/androiddev/comments/1px76jj/feedback_on_my_resume/)
-- [App suspension help](https://www.reddit.com/r/androiddev/comments/1px5u3f/app_suspension_help/)
-- [Please Advice 😭](https://www.reddit.com/r/androiddev/comments/1px3qx9/please_advice/)
-- [Kotlin Multiplatform App - Mine StableDiffusion 1.3.2](https://www.reddit.com/r/androiddev/comments/1pwxoiq/kotlin_multiplatform_app_mine_stablediffusion_132/)
-- [Anyone else seeing long Google Play reviews this December?](https://www.reddit.com/r/androiddev/comments/1pwwnxi/anyone_else_seeing_long_google_play_reviews_this/)
-- [I recreated Spotify-style App Store screenshots in under 1 minute &lpar;live demo&rpar;](https://www.reddit.com/r/androiddev/comments/1pwv0hg/i_recreated_spotifystyle_app_store_screenshots_in/)
-- [Implementation of ML kits in Android Java](https://www.reddit.com/r/androiddev/comments/1pwpt6w/implementation_of_ml_kits_in_android_java/)
+- [Jetpack Compose vs XML](https://www.reddit.com/r/androiddev/comments/1pzw782/jetpack_compose_vs_xml/)
+- [Need help wiping my phone](https://www.reddit.com/r/androiddev/comments/1pzun7n/need_help_wiping_my_phone/)
+- [Learning old tech for interviews?](https://www.reddit.com/r/androiddev/comments/1pzt76y/learning_old_tech_for_interviews/)
+- [Android developer doing iOS for over a year [seeking guidance]](https://www.reddit.com/r/androiddev/comments/1pzsc4e/android_developer_doing_ios_for_over_a_year/)
+- [What FOSS app do you wish existed but doesn&#39;t? ...YET](https://www.reddit.com/r/androiddev/comments/1pzs4o6/what_foss_app_do_you_wish_existed_but_doesnt_yet/)
+- [How to make responsive design on canvas?](https://www.reddit.com/r/androiddev/comments/1pzq66n/how_to_make_responsive_design_on_canvas/)
+- [Notion setup to track Android learning and interview prep](https://www.reddit.com/r/androiddev/comments/1pznauo/notion_setup_to_track_android_learning_and/)
+- [How do you handle currency conversion in mobile apps?](https://www.reddit.com/r/androiddev/comments/1pzmgyd/how_do_you_handle_currency_conversion_in_mobile/)
+- [best sdk for user to user calling in RN App? &lpar;Something like Agora&rpar;](https://www.reddit.com/r/androiddev/comments/1pzmbig/best_sdk_for_user_to_user_calling_in_rn_app/)
+- [TWA &lpar;Play Store PWA&rpar; shows URL bar on scroll — GitHub Pages + assetlinks.json confusion](https://www.reddit.com/r/androiddev/comments/1pzlaym/twa_play_store_pwa_shows_url_bar_on_scroll_github/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
