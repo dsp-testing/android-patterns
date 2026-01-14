@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [⚠️ Scam Alert: People asking to publish apps using your Google Play Console account](https://www.reddit.com/r/androiddev/comments/1qbcdac/scam_alert_people_asking_to_publish_apps_using/)
-- [&lpar;Android Devs I need your tip&rpar; Do people pay for subscriptions on Android apps?](https://www.reddit.com/r/androiddev/comments/1qb6u9b/android_devs_i_need_your_tip_do_people_pay_for/)
-- [Starting my new year plan of &quot;making an app per month&quot; from today ;&rpar;](https://www.reddit.com/r/androiddev/comments/1qb2so3/starting_my_new_year_plan_of_making_an_app_per/)
-- [Built an Android SDK for collecting device signals and fingerprinting, would love feedback/tips.](https://www.reddit.com/r/androiddev/comments/1qb0z24/built_an_android_sdk_for_collecting_device/)
-- [I built a simple ASO tool after struggling to track my Play Store rankings](https://www.reddit.com/r/androiddev/comments/1qaz3dr/i_built_a_simple_aso_tool_after_struggling_to/)
-- [i made a app would like to hear some suggestions](https://www.reddit.com/r/androiddev/comments/1qay4lm/i_made_a_app_would_like_to_hear_some_suggestions/)
-- [Do people still test early Android apps for fun?](https://www.reddit.com/r/androiddev/comments/1qay1ei/do_people_still_test_early_android_apps_for_fun/)
-- [Android Dev &lpar;8 YOE&rpar; returning after gap — need blunt feedback on skill gaps blocking offers](https://www.reddit.com/r/androiddev/comments/1qaxv8e/android_dev_8_yoe_returning_after_gap_need_blunt/)
-- [How do you handle refunds in multi-currency apps?](https://www.reddit.com/r/androiddev/comments/1qawr2s/how_do_you_handle_refunds_in_multicurrency_apps/)
-- [Does Android provide an API to check if UWB is restricted in the current region?](https://www.reddit.com/r/androiddev/comments/1qau6m0/does_android_provide_an_api_to_check_if_uwb_is/)
+- [Disheartened beginner](https://www.reddit.com/r/androiddev/comments/1qc5t7p/disheartened_beginner/)
+- [Can we draw more power off battery-only when using Android Device as a USB-Host?](https://www.reddit.com/r/androiddev/comments/1qc5qs2/can_we_draw_more_power_off_batteryonly_when_using/)
+- [Can&#39;t get my app icon to work after many days and tutorials.](https://www.reddit.com/r/androiddev/comments/1qc3qwf/cant_get_my_app_icon_to_work_after_many_days_and/)
+- [Interview process at Whoop for Android Growth Role](https://www.reddit.com/r/androiddev/comments/1qc2gyu/interview_process_at_whoop_for_android_growth_role/)
+- [How much Compose do I actually need to know](https://www.reddit.com/r/androiddev/comments/1qby4oo/how_much_compose_do_i_actually_need_to_know/)
+- [Is it okay to sell an email account that contains a Google Play account?](https://www.reddit.com/r/androiddev/comments/1qbwuqe/is_it_okay_to_sell_an_email_account_that_contains/)
+- [Don&#39;t trust JedyApps](https://www.reddit.com/r/androiddev/comments/1qbnh56/dont_trust_jedyapps/)
+- [Google&#39;s AntiGravity!! Will SW developer exist in next 2-3 years?](https://www.reddit.com/r/androiddev/comments/1qbn6pk/googles_antigravity_will_sw_developer_exist_in/)
+- [Help with KIOSK/default home screen](https://www.reddit.com/r/androiddev/comments/1qblmqa/help_with_kioskdefault_home_screen/)
+- [It’s not much compared to the big players, but my first app just reached 800 users.](https://www.reddit.com/r/androiddev/comments/1qbkhrx/its_not_much_compared_to_the_big_players_but_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
