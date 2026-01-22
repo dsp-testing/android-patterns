@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I made a &lpar;free&rpar; play store screenshot editor](https://www.reddit.com/r/androiddev/comments/1qggucn/i_made_a_free_play_store_screenshot_editor/)
-- [Feeling stuck starting Android app development — need guidance &amp; roadmap &lpar;I know Java&rpar;](https://www.reddit.com/r/androiddev/comments/1qgfsbq/feeling_stuck_starting_android_app_development/)
-- [Google Play Console has old inactive account in it. How do I create a new developer account to publish app?](https://www.reddit.com/r/androiddev/comments/1qgeq5i/google_play_console_has_old_inactive_account_in/)
-- [Defining the mobile application stack](https://www.reddit.com/r/androiddev/comments/1qg9cru/defining_the_mobile_application_stack/)
-- [Demystifying Nested Scrolling in Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1qg8ldt/demystifying_nested_scrolling_in_jetpack_compose/)
-- [State of agentic tools for android](https://www.reddit.com/r/androiddev/comments/1qg58uk/state_of_agentic_tools_for_android/)
-- [Analyzed a random APK with MobSF out of curiosity](https://www.reddit.com/r/androiddev/comments/1qg0e5s/analyzed_a_random_apk_with_mobsf_out_of_curiosity/)
-- [Is creating a SDK for Media Processing Apps like Video Editors and Audio Editors and similar tools Valuable in 2026?](https://www.reddit.com/r/androiddev/comments/1qfynx1/is_creating_a_sdk_for_media_processing_apps_like/)
-- [Setting on change listeners with Chronometer inside Remote Views](https://www.reddit.com/r/androiddev/comments/1qfryz5/setting_on_change_listeners_with_chronometer/)
-- [Vulkan Hello Triangle Sample For Android](https://www.reddit.com/r/androiddev/comments/1qfrif9/vulkan_hello_triangle_sample_for_android/)
+- [question for the room](https://www.reddit.com/r/androiddev/comments/1qjg2kl/question_for_the_room/)
+- [Tabsy an app made for tracking IOUs](https://www.reddit.com/r/androiddev/comments/1qjddla/tabsy_an_app_made_for_tracking_ious/)
+- [Approved with Issues - Further Action Required in AAOS](https://www.reddit.com/r/androiddev/comments/1qjbrtn/approved_with_issues_further_action_required_in/)
+- [I recreated my Play Store screenshots in under 5 minutes &lpar;live demo&rpar;](https://www.reddit.com/r/androiddev/comments/1qjbkev/i_recreated_my_play_store_screenshots_in_under_5/)
+- [Has anyone been able to find the page they&#39;re looking for on Play Console?](https://www.reddit.com/r/androiddev/comments/1qj9xbx/has_anyone_been_able_to_find_the_page_theyre/)
+- [Struggling with Compose UI](https://www.reddit.com/r/androiddev/comments/1qj9tzw/struggling_with_compose_ui/)
+- [is there anyway to get TTS engines from google?](https://www.reddit.com/r/androiddev/comments/1qj9r4n/is_there_anyway_to_get_tts_engines_from_google/)
+- [If a ViewModel is testable on the JVM and doesn’t depend on Context — why isn’t it considered part of the Domain layer?](https://www.reddit.com/r/androiddev/comments/1qj99bx/if_a_viewmodel_is_testable_on_the_jvm_and_doesnt/)
+- [What Google Actually Checks When Someone Installs an App 👀📱](https://www.reddit.com/r/androiddev/comments/1qj7sck/what_google_actually_checks_when_someone_installs/)
+- [Android studio otter 3](https://www.reddit.com/r/androiddev/comments/1qj6ewa/android_studio_otter_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
