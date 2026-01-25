@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I kept losing my book highlights, so I built an Android app to fix it](https://www.reddit.com/r/androiddev/comments/1ql7e2r/i_kept_losing_my_book_highlights_so_i_built_an/)
-- [Login Auth and Real Time Sync](https://www.reddit.com/r/androiddev/comments/1ql1bt6/login_auth_and_real_time_sync/)
-- [CameraX or Camera2 API + PreviewView does not the show the same field of view as equivelent zoom on default camera application viewfinder?](https://www.reddit.com/r/androiddev/comments/1qkyqdd/camerax_or_camera2_api_previewview_does_not_the/)
-- [How to install the android SDK ?](https://www.reddit.com/r/androiddev/comments/1qkvvkb/how_to_install_the_android_sdk/)
-- [You can now use ChatGPT Codex in Android Studio with first-party support](https://www.reddit.com/r/androiddev/comments/1qkvtmo/you_can_now_use_chatgpt_codex_in_android_studio/)
-- [Getting 0-10k downloads isn&#39;t luck, it&#39;s basic ASO and app quality-My experience with Google Play](https://www.reddit.com/r/androiddev/comments/1qknlre/getting_010k_downloads_isnt_luck_its_basic_aso/)
-- [What&#39;s your workflow for shipping app updates to the play store?](https://www.reddit.com/r/androiddev/comments/1qkhd68/whats_your_workflow_for_shipping_app_updates_to/)
-- [Ffmpeg](https://www.reddit.com/r/androiddev/comments/1qkdnd6/ffmpeg/)
-- [Post-capture image redaction on Android &lpar;open-source learning project&rpar;](https://www.reddit.com/r/androiddev/comments/1qkb8el/postcapture_image_redaction_on_android_opensource/)
-- [Can i run Android studio with 8GB of RAM for my jetpack compose assignment.??](https://www.reddit.com/r/androiddev/comments/1qka44y/can_i_run_android_studio_with_8gb_of_ram_for_my/)
+- [GPL Groovebox Tablet App looking for feedback](https://www.reddit.com/r/androiddev/comments/1qlxj79/gpl_groovebox_tablet_app_looking_for_feedback/)
+- [Voyager on AndroidTv](https://www.reddit.com/r/androiddev/comments/1qlwdmj/voyager_on_androidtv/)
+- [How to have more then 8 images on playstore?](https://www.reddit.com/r/androiddev/comments/1qlv6yg/how_to_have_more_then_8_images_on_playstore/)
+- [I didn’t plan to build a testing tool. I just wanted my weekends back.](https://www.reddit.com/r/androiddev/comments/1qlsf5y/i_didnt_plan_to_build_a_testing_tool_i_just/)
+- [Receipt printer I borrowed is in a cloud-lock. I&#39;m trying to make an app that prints receipts via cloud.](https://www.reddit.com/r/androiddev/comments/1qls5h4/receipt_printer_i_borrowed_is_in_a_cloudlock_im/)
+- [Design feedback: which one feels better? &lpar;1 or 2&rpar;](https://www.reddit.com/r/androiddev/comments/1qlnlq2/design_feedback_which_one_feels_better_1_or_2/)
+- [Help Wanted: Reverse Engineering Changan &lpar;B561&rpar; Infotainment – Missing strings for English Localization](https://www.reddit.com/r/androiddev/comments/1qlkhy3/help_wanted_reverse_engineering_changan_b561/)
+- [Have problems starting phone emulator in Android Studio](https://www.reddit.com/r/androiddev/comments/1qlkepq/have_problems_starting_phone_emulator_in_android/)
+- [Quotes App made using jetpack compose](https://www.reddit.com/r/androiddev/comments/1qlk09f/quotes_app_made_using_jetpack_compose/)
+- [License Testing - I don&#39;t get it](https://www.reddit.com/r/androiddev/comments/1qlc19d/license_testing_i_dont_get_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
