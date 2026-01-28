@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Android Emulator instantly crashes on AMD Windows &lpar;exit code -1073741515&rpar;](https://www.reddit.com/r/androiddev/comments/1qmt00f/android_emulator_instantly_crashes_on_amd_windows/)
-- [Current state of AI tools in Android Studio](https://www.reddit.com/r/androiddev/comments/1qmqk4u/current_state_of_ai_tools_in_android_studio/)
-- [Android Studio: Rules file ignored?](https://www.reddit.com/r/androiddev/comments/1qmq54v/android_studio_rules_file_ignored/)
-- [Question: Why Paging 3 + Compose: Scroll position lost after navigation &lpar;getRefreshKey not called&rpar;](https://www.reddit.com/r/androiddev/comments/1qmplxm/question_why_paging_3_compose_scroll_position/)
-- [Pixel Pull - Alternative for MacroDroid for thelifecalendar.com](https://www.reddit.com/r/androiddev/comments/1qmn8fk/pixel_pull_alternative_for_macrodroid_for/)
-- [I don&#39;t know how to code really](https://www.reddit.com/r/androiddev/comments/1qmlklg/i_dont_know_how_to_code_really/)
-- [Just uploaded my first YouTube video on Android 14 AOSP source sync and build.](https://www.reddit.com/r/androiddev/comments/1qmj0yv/just_uploaded_my_first_youtube_video_on_android/)
-- [Finding and debugging ANRs](https://www.reddit.com/r/androiddev/comments/1qmcscb/finding_and_debugging_anrs/)
-- [What are the Android app publishing mistakes, hidden rules, or long-term lessons that most developers only realize after years on the Play Store?](https://www.reddit.com/r/androiddev/comments/1qm9drm/what_are_the_android_app_publishing_mistakes/)
-- [Upgrading from AGP8 to AGP9, but migration projects will not](https://www.reddit.com/r/androiddev/comments/1qm7lie/upgrading_from_agp8_to_agp9_but_migration/)
+- [any good up to date tutorials for android devlopment with jetpack compose for kotlin.](https://www.reddit.com/r/androiddev/comments/1qovoah/any_good_up_to_date_tutorials_for_android/)
+- [[Help] Google Play Billing - Product shows &quot;Active&quot; but returns &quot;not available&quot; in test app](https://www.reddit.com/r/androiddev/comments/1qounhw/help_google_play_billing_product_shows_active_but/)
+- [So there&#39;s no way to capture internal audio from chrome?](https://www.reddit.com/r/androiddev/comments/1qopogj/so_theres_no_way_to_capture_internal_audio_from/)
+- [How do you debug performance issues when profiling looks normal?](https://www.reddit.com/r/androiddev/comments/1qomp3c/how_do_you_debug_performance_issues_when/)
+- [Generate Google Play Store Screenshots &amp; Feature Graphics for free &lpar;No Watermark&rpar;](https://www.reddit.com/r/androiddev/comments/1qojk68/generate_google_play_store_screenshots_feature/)
+- [Is there a way to place a view above a WebView and have them scroll as one?](https://www.reddit.com/r/androiddev/comments/1qohvms/is_there_a_way_to_place_a_view_above_a_webview/)
+- [How long does it actually take to get organic app downloads? &lpar;Real numbers please&rpar;](https://www.reddit.com/r/androiddev/comments/1qoh95e/how_long_does_it_actually_take_to_get_organic_app/)
+- [Poseidon -- Proxyman Integration for Android](https://www.reddit.com/r/androiddev/comments/1qofq39/poseidon_proxyman_integration_for_android/)
+- [Deep Dive into Kotlin Data Classes, Coroutines, Flow, and K2 Compiler](https://www.reddit.com/r/androiddev/comments/1qof91j/deep_dive_into_kotlin_data_classes_coroutines/)
+- [Locked out of Play Console: &quot;Unable to access a Google product&quot; and stuck in a support loop](https://www.reddit.com/r/androiddev/comments/1qodl7i/locked_out_of_play_console_unable_to_access_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
