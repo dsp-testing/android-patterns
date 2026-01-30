@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [any good up to date tutorials for android devlopment with jetpack compose for kotlin.](https://www.reddit.com/r/androiddev/comments/1qovoah/any_good_up_to_date_tutorials_for_android/)
-- [[Help] Google Play Billing - Product shows &quot;Active&quot; but returns &quot;not available&quot; in test app](https://www.reddit.com/r/androiddev/comments/1qounhw/help_google_play_billing_product_shows_active_but/)
-- [So there&#39;s no way to capture internal audio from chrome?](https://www.reddit.com/r/androiddev/comments/1qopogj/so_theres_no_way_to_capture_internal_audio_from/)
-- [How do you debug performance issues when profiling looks normal?](https://www.reddit.com/r/androiddev/comments/1qomp3c/how_do_you_debug_performance_issues_when/)
-- [Generate Google Play Store Screenshots &amp; Feature Graphics for free &lpar;No Watermark&rpar;](https://www.reddit.com/r/androiddev/comments/1qojk68/generate_google_play_store_screenshots_feature/)
-- [Is there a way to place a view above a WebView and have them scroll as one?](https://www.reddit.com/r/androiddev/comments/1qohvms/is_there_a_way_to_place_a_view_above_a_webview/)
-- [How long does it actually take to get organic app downloads? &lpar;Real numbers please&rpar;](https://www.reddit.com/r/androiddev/comments/1qoh95e/how_long_does_it_actually_take_to_get_organic_app/)
-- [Poseidon -- Proxyman Integration for Android](https://www.reddit.com/r/androiddev/comments/1qofq39/poseidon_proxyman_integration_for_android/)
-- [Deep Dive into Kotlin Data Classes, Coroutines, Flow, and K2 Compiler](https://www.reddit.com/r/androiddev/comments/1qof91j/deep_dive_into_kotlin_data_classes_coroutines/)
-- [Locked out of Play Console: &quot;Unable to access a Google product&quot; and stuck in a support loop](https://www.reddit.com/r/androiddev/comments/1qodl7i/locked_out_of_play_console_unable_to_access_a/)
+- [One Time Location requests, Room and WorkManager](https://www.reddit.com/r/androiddev/comments/1qqnfo7/one_time_location_requests_room_and_workmanager/)
+- [CameraX – Real zoom-out using ultra-wide lens for photos and videos &lpar;is it possible?&rpar;](https://www.reddit.com/r/androiddev/comments/1qqlboq/camerax_real_zoomout_using_ultrawide_lens_for/)
+- [You must use an SDK with a version of no more than 36](https://www.reddit.com/r/androiddev/comments/1qqja46/you_must_use_an_sdk_with_a_version_of_no_more/)
+- [Best budget phone and watch for android development?](https://www.reddit.com/r/androiddev/comments/1qqirve/best_budget_phone_and_watch_for_android/)
+- [I built a deterministic notification timing engine extracted from production code](https://www.reddit.com/r/androiddev/comments/1qqdwvm/i_built_a_deterministic_notification_timing/)
+- [What so low match rate?](https://www.reddit.com/r/androiddev/comments/1qqdkl1/what_so_low_match_rate/)
+- [Is this Lenovo yoga laptop specifications good for Android Studio?](https://www.reddit.com/r/androiddev/comments/1qqb5cg/is_this_lenovo_yoga_laptop_specifications_good/)
+- [cmd vs am/pm? What&#39;s the recommended way?](https://www.reddit.com/r/androiddev/comments/1qqas4n/cmd_vs_ampm_whats_the_recommended_way/)
+- [Case Study: How I Sped Up Android App Start by 10x](https://www.reddit.com/r/androiddev/comments/1qq914s/case_study_how_i_sped_up_android_app_start_by_10x/)
+- [Building a Small Community to Help Android Devs Complete Play Store Closed Testing](https://www.reddit.com/r/androiddev/comments/1qq6an8/building_a_small_community_to_help_android_devs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
