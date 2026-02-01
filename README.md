@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to recover/download a secure folders Google Chrome cache file?](https://www.reddit.com/r/androiddev/comments/1qro02b/how_to_recoverdownload_a_secure_folders_google/)
-- [How does one recreate this?](https://www.reddit.com/r/androiddev/comments/1qrivof/how_does_one_recreate_this/)
-- [Do we really have to upload our app to play console to test google assistant app actions?](https://www.reddit.com/r/androiddev/comments/1qrh270/do_we_really_have_to_upload_our_app_to_play/)
-- [PlayStore AAB to APK change and Android TV review Team](https://www.reddit.com/r/androiddev/comments/1qrg4ih/playstore_aab_to_apk_change_and_android_tv_review/)
-- [Google Play Billing Library Question/Issue](https://www.reddit.com/r/androiddev/comments/1qrc1rt/google_play_billing_library_questionissue/)
-- [AGP 9.0 - ROOM KSP usage](https://www.reddit.com/r/androiddev/comments/1qrbf7n/agp_90_room_ksp_usage/)
-- [upload app to Play Store](https://www.reddit.com/r/androiddev/comments/1qrbbqr/upload_app_to_play_store/)
-- [Android Studio Panda 2 | 2025.3.2 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1qrb1ay/android_studio_panda_2_202532_canary_2_now/)
-- [Anyone else hate releasing an app just to change config values?](https://www.reddit.com/r/androiddev/comments/1qr7yi6/anyone_else_hate_releasing_an_app_just_to_change/)
-- [[Library] HydroChroma – Fluid physics, glassmorphism, and chromatic aberration for Jetpack Compose &lpar;AGSL + RenderEffect&rpar;](https://www.reddit.com/r/androiddev/comments/1qr7460/library_hydrochroma_fluid_physics_glassmorphism/)
+- [MyLuck](https://www.reddit.com/r/androiddev/comments/1qsio71/myluck/)
+- [I decided not to publish my indie educational app on Google Play. Am I overreacting, or is the system just not viable?](https://www.reddit.com/r/androiddev/comments/1qsilsz/i_decided_not_to_publish_my_indie_educational_app/)
+- [Are these safe to delete? Comment now!](https://www.reddit.com/r/androiddev/comments/1qs9kqx/are_these_safe_to_delete_comment_now/)
+- [Question: Why Paging3 + Compose: duplicate keys crash after RemoteMediator invalidation with custom PagingSource &lpar;multi‑DB sync&rpar;](https://www.reddit.com/r/androiddev/comments/1qs4wj3/question_why_paging3_compose_duplicate_keys_crash/)
+- [STOP throwing Errors! Raise them instead](https://www.reddit.com/r/androiddev/comments/1qs4ctt/stop_throwing_errors_raise_them_instead/)
+- [I’m working on a Flutter-based IPTV app.](https://www.reddit.com/r/androiddev/comments/1qs4afa/im_working_on_a_flutterbased_iptv_app/)
+- [Quick Search – An open-source unified search app for Android](https://www.reddit.com/r/androiddev/comments/1qs3spi/quick_search_an_opensource_unified_search_app_for/)
+- [Hardest Project of my life! took me 3 months &lpar;story&rpar;](https://www.reddit.com/r/androiddev/comments/1qs2z14/hardest_project_of_my_life_took_me_3_months_story/)
+- [Is it possible to apply a single-corner corner radius to a button?](https://www.reddit.com/r/androiddev/comments/1qs28b0/is_it_possible_to_apply_a_singlecorner_corner/)
+- [Issue with Git in Android Studio](https://www.reddit.com/r/androiddev/comments/1qs1rgc/issue_with_git_in_android_studio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
