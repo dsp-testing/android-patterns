@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [RevoDraw - Draw custom images on Revolut card designs using ADB and OpenCV Body: **What My Project Does** RevoDraw is a Python tool that lets you draw custom images on Revolut&#39;s card customization screen &lpar;the freeform drawing mode&rpar;. It provides a web UI where you can: - Upload any image](https://www.reddit.com/r/androiddev/comments/1qubllf/revodraw_draw_custom_images_on_revolut_card/)
-- [[Reverse Engineering] Tired with manually doing it I&#39;ve build a Claude Code skill which helps me!](https://www.reddit.com/r/androiddev/comments/1qu6as0/reverse_engineering_tired_with_manually_doing_it/)
-- [How do apps have tens of thousands of available subscriptions?](https://www.reddit.com/r/androiddev/comments/1qu5b6y/how_do_apps_have_tens_of_thousands_of_available/)
-- [Strings.xml auto localization](https://www.reddit.com/r/androiddev/comments/1qtyvh9/stringsxml_auto_localization/)
-- [New Google verification requirement not as bad as it sounds?](https://www.reddit.com/r/androiddev/comments/1qtxfu3/new_google_verification_requirement_not_as_bad_as/)
-- [Is There any android Emulator that supports Esim ?](https://www.reddit.com/r/androiddev/comments/1qtvdxx/is_there_any_android_emulator_that_supports_esim/)
-- [[Open Source] I built a &quot;Zero-Disk-Footprint&quot; secure model loader for TFLite to stop model theft.](https://www.reddit.com/r/androiddev/comments/1qttkm2/open_source_i_built_a_zerodiskfootprint_secure/)
-- [Building an app for an Android tablet, what tablet is recommended for dev?](https://www.reddit.com/r/androiddev/comments/1qtsl1s/building_an_app_for_an_android_tablet_what_tablet/)
-- [These revenuecat paywalls are shit. Looks like a 10 year old made them](https://www.reddit.com/r/androiddev/comments/1qtqd2a/these_revenuecat_paywalls_are_shit_looks_like_a/)
-- [App review taking long](https://www.reddit.com/r/androiddev/comments/1qtpmok/app_review_taking_long/)
+- [I started working on an app for people with anxiety](https://www.reddit.com/r/androiddev/comments/1qx218e/i_started_working_on_an_app_for_people_with/)
+- [Claude Opus 4.6 is the best for Android](https://www.reddit.com/r/androiddev/comments/1qx1uw4/claude_opus_46_is_the_best_for_android/)
+- [How are we coding Android apps with AI in Feb &#39;26](https://www.reddit.com/r/androiddev/comments/1qx1ciw/how_are_we_coding_android_apps_with_ai_in_feb_26/)
+- [ARM64 Android Dev Kit](https://www.reddit.com/r/androiddev/comments/1qx144h/arm64_android_dev_kit/)
+- [Sponza Classic for Android V5.5 Tech Demo](https://www.reddit.com/r/androiddev/comments/1qwza2o/sponza_classic_for_android_v55_tech_demo/)
+- [Google play exposing my address!.. help?](https://www.reddit.com/r/androiddev/comments/1qwv43w/google_play_exposing_my_address_help/)
+- [Handling step sensor &amp; background service issues on aggressive Android OEMs - looking for dev experiences](https://www.reddit.com/r/androiddev/comments/1qwukk1/handling_step_sensor_background_service_issues_on/)
+- [How to exclude baselineProfile generation](https://www.reddit.com/r/androiddev/comments/1qwttqz/how_to_exclude_baselineprofile_generation/)
+- [A way to access turned off device](https://www.reddit.com/r/androiddev/comments/1qwsjb7/a_way_to_access_turned_off_device/)
+- [AGP9 and Kotlin version](https://www.reddit.com/r/androiddev/comments/1qwn5ez/agp9_and_kotlin_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
