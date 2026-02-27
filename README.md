@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are there any commercially available airgapped Android devices?](https://www.reddit.com/r/androiddev/comments/1qzqqo7/are_there_any_commercially_available_airgapped/)
-- [Gemini and chat content gone from Android Studio](https://www.reddit.com/r/androiddev/comments/1qzpyvb/gemini_and_chat_content_gone_from_android_studio/)
-- [My app&#39;s header keeps interfering with the System UI, and I can&#39;t figure it out](https://www.reddit.com/r/androiddev/comments/1qzpqfj/my_apps_header_keeps_interfering_with_the_system/)
-- [Why is my app icon color inverted when using Android 16&#39;s Automatic theming](https://www.reddit.com/r/androiddev/comments/1qzpok8/why_is_my_app_icon_color_inverted_when_using/)
-- [Why do users keep reporting our app is in Chinese? We don&#39;t even support](https://www.reddit.com/r/androiddev/comments/1qzipof/why_do_users_keep_reporting_our_app_is_in_chinese/)
-- [My Android app gets many installs but most users uninstall quickly, looking for feedback](https://www.reddit.com/r/androiddev/comments/1qzf37h/my_android_app_gets_many_installs_but_most_users/)
-- [Gemma 3n on Android](https://www.reddit.com/r/androiddev/comments/1qzdazi/gemma_3n_on_android/)
-- [Port Android app minsdk 17 maxsdk 25 to work on maxsdk 35](https://www.reddit.com/r/androiddev/comments/1qzbw3w/port_android_app_minsdk_17_maxsdk_25_to_work_on/)
-- [Android audio decoder library](https://www.reddit.com/r/androiddev/comments/1qzbb87/android_audio_decoder_library/)
-- [Any advice on how to use Claude with Android?](https://www.reddit.com/r/androiddev/comments/1qz6jf2/any_advice_on_how_to_use_claude_with_android/)
+- [Download pixel 10 pro XL UK](https://www.reddit.com/r/androiddev/comments/1rfr2e4/download_pixel_10_pro_xl_uk/)
+- [how do i properly end my closed testing?](https://www.reddit.com/r/androiddev/comments/1rfplwj/how_do_i_properly_end_my_closed_testing/)
+- [How to creates charts such as this one?](https://www.reddit.com/r/androiddev/comments/1rfomts/how_to_creates_charts_such_as_this_one/)
+- [Universal Algorithmic ASE II: Architecture and Components - Mistral Chat](https://www.reddit.com/r/androiddev/comments/1rfm6x8/universal_algorithmic_ase_ii_architecture_and/)
+- [What do you think about gpt 5.3 codex and gemini 3.1 pro?](https://www.reddit.com/r/androiddev/comments/1rfg5qx/what_do_you_think_about_gpt_53_codex_and_gemini/)
+- [Would you like to volunteer to build an app for a non profit organisation?](https://www.reddit.com/r/androiddev/comments/1rffhu9/would_you_like_to_volunteer_to_build_an_app_for_a/)
+- [Installing Self Signed Apks failing on Shield Android TV and Fire TV Cube 3](https://www.reddit.com/r/androiddev/comments/1rff3x0/installing_self_signed_apks_failing_on_shield/)
+- [No sound at all in Android Emulator on M2 Mac mini pro &lpar;even YouTube has no audio&rpar;](https://www.reddit.com/r/androiddev/comments/1rfetgl/no_sound_at_all_in_android_emulator_on_m2_mac/)
+- [tremor – haptic tester](https://www.reddit.com/r/androiddev/comments/1rfdcq9/tremor_haptic_tester/)
+- [Guide to set up Android Studio on a non-system drive.](https://www.reddit.com/r/androiddev/comments/1rfck94/guide_to_set_up_android_studio_on_a_nonsystem/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
