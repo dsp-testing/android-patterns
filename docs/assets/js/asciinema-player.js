@@ -146,7 +146,8 @@
     } else {
       var h = [], g = String(Math.random());
       window.addEventListener("message", function (e) {
-        if (e.data === g) {
+        var trustedOrigins = ['https://www.example.com']; // Add your trusted origins here
+        if (trustedOrigins.includes(e.origin) && e.data === g) {
           var t = h;
           h = [], t.forEach(function (e) {
             e()
