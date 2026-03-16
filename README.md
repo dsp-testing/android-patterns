@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Download pixel 10 pro XL UK](https://www.reddit.com/r/androiddev/comments/1rfr2e4/download_pixel_10_pro_xl_uk/)
-- [how do i properly end my closed testing?](https://www.reddit.com/r/androiddev/comments/1rfplwj/how_do_i_properly_end_my_closed_testing/)
-- [How to creates charts such as this one?](https://www.reddit.com/r/androiddev/comments/1rfomts/how_to_creates_charts_such_as_this_one/)
-- [Universal Algorithmic ASE II: Architecture and Components - Mistral Chat](https://www.reddit.com/r/androiddev/comments/1rfm6x8/universal_algorithmic_ase_ii_architecture_and/)
-- [What do you think about gpt 5.3 codex and gemini 3.1 pro?](https://www.reddit.com/r/androiddev/comments/1rfg5qx/what_do_you_think_about_gpt_53_codex_and_gemini/)
-- [Would you like to volunteer to build an app for a non profit organisation?](https://www.reddit.com/r/androiddev/comments/1rffhu9/would_you_like_to_volunteer_to_build_an_app_for_a/)
-- [Installing Self Signed Apks failing on Shield Android TV and Fire TV Cube 3](https://www.reddit.com/r/androiddev/comments/1rff3x0/installing_self_signed_apks_failing_on_shield/)
-- [No sound at all in Android Emulator on M2 Mac mini pro &lpar;even YouTube has no audio&rpar;](https://www.reddit.com/r/androiddev/comments/1rfetgl/no_sound_at_all_in_android_emulator_on_m2_mac/)
-- [tremor – haptic tester](https://www.reddit.com/r/androiddev/comments/1rfdcq9/tremor_haptic_tester/)
-- [Guide to set up Android Studio on a non-system drive.](https://www.reddit.com/r/androiddev/comments/1rfck94/guide_to_set_up_android_studio_on_a_nonsystem/)
+- [I need Feedback](https://www.reddit.com/r/androiddev/comments/1ruvit9/i_need_feedback/)
+- [Do Compose or XML apps feel better to use?](https://www.reddit.com/r/androiddev/comments/1ruv3wo/do_compose_or_xml_apps_feel_better_to_use/)
+- [AI assisted dev / test tools for Android](https://www.reddit.com/r/androiddev/comments/1ruv11f/ai_assisted_dev_test_tools_for_android/)
+- [Which application is best to create icons for apps?](https://www.reddit.com/r/androiddev/comments/1rus2kj/which_application_is_best_to_create_icons_for_apps/)
+- [Built a CHIP-8 emulator for Android in Kotlin as my first major project — open source](https://www.reddit.com/r/androiddev/comments/1rur8hm/built_a_chip8_emulator_for_android_in_kotlin_as/)
+- [Android development java](https://www.reddit.com/r/androiddev/comments/1rumv6s/android_development_java/)
+- [Saw a post here about a bunker app charging for offline access… so I built a free one](https://www.reddit.com/r/androiddev/comments/1rumrpn/saw_a_post_here_about_a_bunker_app_charging_for/)
+- [Android Studio says redundant assignment even when its not.](https://www.reddit.com/r/androiddev/comments/1rumgp1/android_studio_says_redundant_assignment_even/)
+- [is it possible to develop something like this as a beginner?](https://www.reddit.com/r/androiddev/comments/1rumb2m/is_it_possible_to_develop_something_like_this_as/)
+- [Hi everyone,](https://www.reddit.com/r/androiddev/comments/1rukov7/hi_everyone/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
