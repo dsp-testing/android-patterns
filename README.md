@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Mi 11X failing Play Integrity after factory reset &lpar;No root, stock ROM&rpar;](https://www.reddit.com/r/androiddev/comments/1s5n1u1/mi_11x_failing_play_integrity_after_factory_reset/)
-- [I built a Claude Code skill that generates Play Store screenshots from one prompt — no Figma, no design tools](https://www.reddit.com/r/androiddev/comments/1s5f7jl/i_built_a_claude_code_skill_that_generates_play/)
-- [Using TextSpan in Compose](https://www.reddit.com/r/androiddev/comments/1s5df32/using_textspan_in_compose/)
-- [Ripple effect causing ui jank/stutter in kotlin compose mobile development](https://www.reddit.com/r/androiddev/comments/1s580t8/ripple_effect_causing_ui_jankstutter_in_kotlin/)
-- [Shifting country and ownership of my app](https://www.reddit.com/r/androiddev/comments/1s4y4y6/shifting_country_and_ownership_of_my_app/)
-- [What are the better Udemy course for learning Android mobile development w/ Android Studio and Kotlin](https://www.reddit.com/r/androiddev/comments/1s4xxps/what_are_the_better_udemy_course_for_learning/)
-- [Google Play Billing vs External Payment Gateway &lpar;Razorpay&rpar; for In-App Subscriptions](https://www.reddit.com/r/androiddev/comments/1s4wg9e/google_play_billing_vs_external_payment_gateway/)
-- [Offering 1:1 mentoring for junior Android / Flutter / KMP devs](https://www.reddit.com/r/androiddev/comments/1s4wa8g/offering_11_mentoring_for_junior_android_flutter/)
-- [I reached 10,000 installs with my Solo Leveling–inspired daily quest fitness app &lpar;no marketing, solo dev&rpar;](https://www.reddit.com/r/androiddev/comments/1s4w9wg/i_reached_10000_installs_with_my_solo/)
-- [Android Studio Panda 4 | 2025.3.4 Canary 2 now available](https://www.reddit.com/r/androiddev/comments/1s4ut1j/android_studio_panda_4_202534_canary_2_now/)
+- [Google Play Console requirements for first app &lpar;organisation account&rpar; unclear — closed testing question](https://www.reddit.com/r/androiddev/comments/1scqmmh/google_play_console_requirements_for_first_app/)
+- [How to make each word in text clickable like in Dduolingo? &lpar;android studio, kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1scip4b/how_to_make_each_word_in_text_clickable_like_in/)
+- [Does Custom Store Listing text get indexed for search, or only the Base Listing?](https://www.reddit.com/r/androiddev/comments/1scgp19/does_custom_store_listing_text_get_indexed_for/)
+- [What are common mistakes when using coroutines in Android?](https://www.reddit.com/r/androiddev/comments/1scf1mt/what_are_common_mistakes_when_using_coroutines_in/)
+- [Cross platform subscriptions](https://www.reddit.com/r/androiddev/comments/1scejb9/cross_platform_subscriptions/)
+- [Dubious proposals](https://www.reddit.com/r/androiddev/comments/1scdmgp/dubious_proposals/)
+- [Does the Meta Android Development Coursea course teach Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1scd7ir/does_the_meta_android_development_coursea_course/)
+- [Where do you showcase your projects for potential employers / clients to see?](https://www.reddit.com/r/androiddev/comments/1sccvgr/where_do_you_showcase_your_projects_for_potential/)
+- [Why the susbcriptions show &#39;pending payment&#39;](https://www.reddit.com/r/androiddev/comments/1sccidq/why_the_susbcriptions_show_pending_payment/)
+- [Stuck at publishing my first app 😭 Card keeps failing for Play Store fee](https://www.reddit.com/r/androiddev/comments/1scbtxe/stuck_at_publishing_my_first_app_card_keeps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
