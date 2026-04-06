@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play Console requirements for first app &lpar;organisation account&rpar; unclear — closed testing question](https://www.reddit.com/r/androiddev/comments/1scqmmh/google_play_console_requirements_for_first_app/)
-- [How to make each word in text clickable like in Dduolingo? &lpar;android studio, kotlin&rpar;](https://www.reddit.com/r/androiddev/comments/1scip4b/how_to_make_each_word_in_text_clickable_like_in/)
-- [Does Custom Store Listing text get indexed for search, or only the Base Listing?](https://www.reddit.com/r/androiddev/comments/1scgp19/does_custom_store_listing_text_get_indexed_for/)
-- [What are common mistakes when using coroutines in Android?](https://www.reddit.com/r/androiddev/comments/1scf1mt/what_are_common_mistakes_when_using_coroutines_in/)
-- [Cross platform subscriptions](https://www.reddit.com/r/androiddev/comments/1scejb9/cross_platform_subscriptions/)
-- [Dubious proposals](https://www.reddit.com/r/androiddev/comments/1scdmgp/dubious_proposals/)
-- [Does the Meta Android Development Coursea course teach Jetpack Compose?](https://www.reddit.com/r/androiddev/comments/1scd7ir/does_the_meta_android_development_coursea_course/)
-- [Where do you showcase your projects for potential employers / clients to see?](https://www.reddit.com/r/androiddev/comments/1sccvgr/where_do_you_showcase_your_projects_for_potential/)
-- [Why the susbcriptions show &#39;pending payment&#39;](https://www.reddit.com/r/androiddev/comments/1sccidq/why_the_susbcriptions_show_pending_payment/)
-- [Stuck at publishing my first app 😭 Card keeps failing for Play Store fee](https://www.reddit.com/r/androiddev/comments/1scbtxe/stuck_at_publishing_my_first_app_card_keeps/)
+- [OfflineLLM — Kotlin/Jetpack Compose Android app running llama.cpp on-device &lpar;NEON/SVE optimized&rpar;](https://www.reddit.com/r/androiddev/comments/1sdhag4/offlinellm_kotlinjetpack_compose_android_app/)
+- [Are tools like Gemma 4 going to reduce the need for junior Android devs?](https://www.reddit.com/r/androiddev/comments/1sd8wsi/are_tools_like_gemma_4_going_to_reduce_the_need/)
+- [Lifelong Windows user here. The performance gap with Android Studio and the emulator finally forced my hand to Apple Silicon.](https://www.reddit.com/r/androiddev/comments/1sd7dmm/lifelong_windows_user_here_the_performance_gap/)
+- [How can I access the metadata of a notification?](https://www.reddit.com/r/androiddev/comments/1sd5jjd/how_can_i_access_the_metadata_of_a_notification/)
+- [How to do polling using Coroutine ?](https://www.reddit.com/r/androiddev/comments/1sd4eer/how_to_do_polling_using_coroutine/)
+- [Could I, 13, Publish an App?](https://www.reddit.com/r/androiddev/comments/1sd42qq/could_i_13_publish_an_app/)
+- [Are there any apps or open-source projects that auto-classify screenshots?](https://www.reddit.com/r/androiddev/comments/1scxpj3/are_there_any_apps_or_opensource_projects_that/)
+- [I built an MCP bridge exposing Android Studio’s tools to Claude Code. Try it.](https://www.reddit.com/r/androiddev/comments/1scxltq/i_built_an_mcp_bridge_exposing_android_studios/)
+- [Pattern for mvi arquitethure](https://www.reddit.com/r/androiddev/comments/1scxgmn/pattern_for_mvi_arquitethure/)
+- [DNS Resolution](https://www.reddit.com/r/androiddev/comments/1scre9g/dns_resolution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
