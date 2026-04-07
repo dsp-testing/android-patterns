@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [OfflineLLM — Kotlin/Jetpack Compose Android app running llama.cpp on-device &lpar;NEON/SVE optimized&rpar;](https://www.reddit.com/r/androiddev/comments/1sdhag4/offlinellm_kotlinjetpack_compose_android_app/)
-- [Are tools like Gemma 4 going to reduce the need for junior Android devs?](https://www.reddit.com/r/androiddev/comments/1sd8wsi/are_tools_like_gemma_4_going_to_reduce_the_need/)
-- [Lifelong Windows user here. The performance gap with Android Studio and the emulator finally forced my hand to Apple Silicon.](https://www.reddit.com/r/androiddev/comments/1sd7dmm/lifelong_windows_user_here_the_performance_gap/)
-- [How can I access the metadata of a notification?](https://www.reddit.com/r/androiddev/comments/1sd5jjd/how_can_i_access_the_metadata_of_a_notification/)
-- [How to do polling using Coroutine ?](https://www.reddit.com/r/androiddev/comments/1sd4eer/how_to_do_polling_using_coroutine/)
-- [Could I, 13, Publish an App?](https://www.reddit.com/r/androiddev/comments/1sd42qq/could_i_13_publish_an_app/)
-- [Are there any apps or open-source projects that auto-classify screenshots?](https://www.reddit.com/r/androiddev/comments/1scxpj3/are_there_any_apps_or_opensource_projects_that/)
-- [I built an MCP bridge exposing Android Studio’s tools to Claude Code. Try it.](https://www.reddit.com/r/androiddev/comments/1scxltq/i_built_an_mcp_bridge_exposing_android_studios/)
-- [Pattern for mvi arquitethure](https://www.reddit.com/r/androiddev/comments/1scxgmn/pattern_for_mvi_arquitethure/)
-- [DNS Resolution](https://www.reddit.com/r/androiddev/comments/1scre9g/dns_resolution/)
+- [How nice were your first users?](https://www.reddit.com/r/androiddev/comments/1seghwp/how_nice_were_your_first_users/)
+- [A simple tool for navigating CompositionLocal and themes](https://www.reddit.com/r/androiddev/comments/1seaawq/a_simple_tool_for_navigating_compositionlocal_and/)
+- [Local LLM&#39;s biggest problem](https://www.reddit.com/r/androiddev/comments/1se7g44/local_llms_biggest_problem/)
+- [Short-term onsite opportunities for Android devs](https://www.reddit.com/r/androiddev/comments/1se700j/shortterm_onsite_opportunities_for_android_devs/)
+- [Just released an android version of my free and open source 3D viewer!](https://www.reddit.com/r/androiddev/comments/1se5wft/just_released_an_android_version_of_my_free_and/)
+- [How I externalized the workout timer from the presenter layer &lpar;and why it fixed 3 bugs at once&rpar;](https://www.reddit.com/r/androiddev/comments/1se4ugg/how_i_externalized_the_workout_timer_from_the/)
+- [Sudden drop in fill rate after a few days + Error Code 0 and Request not even showing up on dahsboard?](https://www.reddit.com/r/androiddev/comments/1se2cbb/sudden_drop_in_fill_rate_after_a_few_days_error/)
+- [Kotlin Multiplatform and Jetpack Compose is really good?](https://www.reddit.com/r/androiddev/comments/1se1j78/kotlin_multiplatform_and_jetpack_compose_is/)
+- [Pragmatism vs. Over-engineering: Feedback on an Android Technical Task](https://www.reddit.com/r/androiddev/comments/1se0177/pragmatism_vs_overengineering_feedback_on_an/)
+- [How to create vertical range slider?](https://www.reddit.com/r/androiddev/comments/1sdy28a/how_to_create_vertical_range_slider/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
