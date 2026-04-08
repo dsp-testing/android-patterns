@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How nice were your first users?](https://www.reddit.com/r/androiddev/comments/1seghwp/how_nice_were_your_first_users/)
-- [A simple tool for navigating CompositionLocal and themes](https://www.reddit.com/r/androiddev/comments/1seaawq/a_simple_tool_for_navigating_compositionlocal_and/)
-- [Local LLM&#39;s biggest problem](https://www.reddit.com/r/androiddev/comments/1se7g44/local_llms_biggest_problem/)
-- [Short-term onsite opportunities for Android devs](https://www.reddit.com/r/androiddev/comments/1se700j/shortterm_onsite_opportunities_for_android_devs/)
-- [Just released an android version of my free and open source 3D viewer!](https://www.reddit.com/r/androiddev/comments/1se5wft/just_released_an_android_version_of_my_free_and/)
-- [How I externalized the workout timer from the presenter layer &lpar;and why it fixed 3 bugs at once&rpar;](https://www.reddit.com/r/androiddev/comments/1se4ugg/how_i_externalized_the_workout_timer_from_the/)
-- [Sudden drop in fill rate after a few days + Error Code 0 and Request not even showing up on dahsboard?](https://www.reddit.com/r/androiddev/comments/1se2cbb/sudden_drop_in_fill_rate_after_a_few_days_error/)
-- [Kotlin Multiplatform and Jetpack Compose is really good?](https://www.reddit.com/r/androiddev/comments/1se1j78/kotlin_multiplatform_and_jetpack_compose_is/)
-- [Pragmatism vs. Over-engineering: Feedback on an Android Technical Task](https://www.reddit.com/r/androiddev/comments/1se0177/pragmatism_vs_overengineering_feedback_on_an/)
-- [How to create vertical range slider?](https://www.reddit.com/r/androiddev/comments/1sdy28a/how_to_create_vertical_range_slider/)
+- [Getting android auto to work on a tablet](https://www.reddit.com/r/androiddev/comments/1sfdey2/getting_android_auto_to_work_on_a_tablet/)
+- [Any developers open to this](https://www.reddit.com/r/androiddev/comments/1sfbk2y/any_developers_open_to_this/)
+- [[GUIDE] Stop Abandoning Legacy Devices! How I revived Android 7 &lpar;Oppo F5&rpar; using Desugaring 2.1.5 &amp; NIO](https://www.reddit.com/r/androiddev/comments/1sfanya/guide_stop_abandoning_legacy_devices_how_i/)
+- [PSA: Make sure your app website is accessible over IPv6!!](https://www.reddit.com/r/androiddev/comments/1sf7hsa/psa_make_sure_your_app_website_is_accessible_over/)
+- [Finalrun – Open-source vision-based QA agent for Android UI testing](https://www.reddit.com/r/androiddev/comments/1sf51ps/finalrun_opensource_visionbased_qa_agent_for/)
+- [Does forcing Google Sign-In &lpar;no skip option&rpar; hurt retention?](https://www.reddit.com/r/androiddev/comments/1sf4sx5/does_forcing_google_signin_no_skip_option_hurt/)
+- [Question regarding IAP on my app](https://www.reddit.com/r/androiddev/comments/1sezjv4/question_regarding_iap_on_my_app/)
+- [Google Play Console android app and web](https://www.reddit.com/r/androiddev/comments/1setp5i/google_play_console_android_app_and_web/)
+- [Best tools to create Play Store store listing screenshots? &lpar;for Android app&rpar;](https://www.reddit.com/r/androiddev/comments/1serhsv/best_tools_to_create_play_store_store_listing/)
+- [[TOOL] MESH - remote wireless debugging &amp; network monitoring &lpar;live logical acquisitions&rpar;](https://www.reddit.com/r/androiddev/comments/1seqf91/tool_mesh_remote_wireless_debugging_network/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
