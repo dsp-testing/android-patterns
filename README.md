@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Gemma 4 via LiteRT SDK in Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1sg2mj8/gemma_4_via_litert_sdk_in_compose_multiplatform/)
-- [No Android Studio needed: Minimal APK template with GitHub Actions + automatic keystore generation](https://www.reddit.com/r/androiddev/comments/1sfyid1/no_android_studio_needed_minimal_apk_template/)
-- [Flow API - Context Preservation and Multi-Coroutine Flows](https://www.reddit.com/r/androiddev/comments/1sfvt95/flow_api_context_preservation_and_multicoroutine/)
-- [How could i make my own software keyboard?](https://www.reddit.com/r/androiddev/comments/1sfvsnt/how_could_i_make_my_own_software_keyboard/)
-- [Looking for a KotlinConf &#39;26 ticket](https://www.reddit.com/r/androiddev/comments/1sfvpid/looking_for_a_kotlinconf_26_ticket/)
-- [First 3 sales after weeks of zero revenue - my solo Android app almost didn&#39;t make it](https://www.reddit.com/r/androiddev/comments/1sft09u/first_3_sales_after_weeks_of_zero_revenue_my_solo/)
-- [Tell me I&#39;m not the only dev dealing with this...](https://www.reddit.com/r/androiddev/comments/1sfs63i/tell_me_im_not_the_only_dev_dealing_with_this/)
-- [We tested Firebase Studio for Android dev - here’s the honest take](https://www.reddit.com/r/androiddev/comments/1sfrrqg/we_tested_firebase_studio_for_android_dev_heres/)
-- [Debug build becomes slower and consumes more memory over time compared to release build.](https://www.reddit.com/r/androiddev/comments/1sfrghj/debug_build_becomes_slower_and_consumes_more/)
-- [Firebase App Distribution: Download link not opening correct build](https://www.reddit.com/r/androiddev/comments/1sfqvcp/firebase_app_distribution_download_link_not/)
+- [Android Studio Quail 1 Canary 1 has the new Smooth Caret Movements like VSCODE and MSWORD](https://www.reddit.com/r/androiddev/comments/1sqxy73/android_studio_quail_1_canary_1_has_the_new/)
+- [Type-safe user journey modeling library for Kotlin](https://www.reddit.com/r/androiddev/comments/1squke4/typesafe_user_journey_modeling_library_for_kotlin/)
+- [In-App/Game Visual Settings &lpar;Dynamic Resource configuration&rpar; – Keeping up low-end and high-end device support at the same time](https://www.reddit.com/r/androiddev/comments/1sqqb04/inappgame_visual_settings_dynamic_resource/)
+- [Question about Managed publishing](https://www.reddit.com/r/androiddev/comments/1sqpu2x/question_about_managed_publishing/)
+- [First time using in-app purchases: any unpleasant surprises?](https://www.reddit.com/r/androiddev/comments/1sqpmee/first_time_using_inapp_purchases_any_unpleasant/)
+- [Its been 4 months and still struggling to find a job.](https://www.reddit.com/r/androiddev/comments/1sqp9h4/its_been_4_months_and_still_struggling_to_find_a/)
+- [Issue implementing ObjectBox: Code generation silently failing &lpar;MyObjectBox not generated&rpar; with Kotlin DSL](https://www.reddit.com/r/androiddev/comments/1sqmsnp/issue_implementing_objectbox_code_generation/)
+- [IDE-Grade Coding Intelligence For Android Projects For Your Agent](https://www.reddit.com/r/androiddev/comments/1sql297/idegrade_coding_intelligence_for_android_projects/)
+- [What is the highest amount of days i can put in my android keystore?](https://www.reddit.com/r/androiddev/comments/1sqkxda/what_is_the_highest_amount_of_days_i_can_put_in/)
+- [WhatsApp got Liquid Glass update. Why is M3E not being adopted widely?](https://www.reddit.com/r/androiddev/comments/1sqjuzd/whatsapp_got_liquid_glass_update_why_is_m3e_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
