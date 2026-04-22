@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [smartlook recordings on android are missing like 40% of sessions, is this a known issue?](https://www.reddit.com/r/androiddev/comments/1ss5t0e/smartlook_recordings_on_android_are_missing_like/)
+- [How do you add multiple categories to an app or game?](https://www.reddit.com/r/androiddev/comments/1ss1dm4/how_do_you_add_multiple_categories_to_an_app_or/)
+- [kotlinx.parcelize missing in AGP 9&#39;s built in Kotlin?](https://www.reddit.com/r/androiddev/comments/1ss0h1m/kotlinxparcelize_missing_in_agp_9s_built_in_kotlin/)
+- [Is it realistic to build an Android app prototype with AI and then hire a developer to rewrite it properly?](https://www.reddit.com/r/androiddev/comments/1srtprj/is_it_realistic_to_build_an_android_app_prototype/)
+- [Android Studio Panda 4 now available](https://www.reddit.com/r/androiddev/comments/1srq54l/android_studio_panda_4_now_available/)
+- [Is it even legal to release dozens of different versions of the same application under different names?](https://www.reddit.com/r/androiddev/comments/1srlqch/is_it_even_legal_to_release_dozens_of_different/)
+- [Change of signing key for 2 apps with sharedUserId](https://www.reddit.com/r/androiddev/comments/1srijfl/change_of_signing_key_for_2_apps_with_shareduserid/)
+- [Razorpay UPI fails when no UPI apps installed – how are you handling fallback UX?](https://www.reddit.com/r/androiddev/comments/1sre3zx/razorpay_upi_fails_when_no_upi_apps_installed_how/)
+- [Does anyone know of a fix for Alarms delayed by about 2/3 mins on Samsung phones after reboot?](https://www.reddit.com/r/androiddev/comments/1srbxnu/does_anyone_know_of_a_fix_for_alarms_delayed_by/)
 - [Android Studio Quail 1 Canary 1 has the new Smooth Caret Movements like VSCODE and MSWORD](https://www.reddit.com/r/androiddev/comments/1sqxy73/android_studio_quail_1_canary_1_has_the_new/)
-- [Type-safe user journey modeling library for Kotlin](https://www.reddit.com/r/androiddev/comments/1squke4/typesafe_user_journey_modeling_library_for_kotlin/)
-- [In-App/Game Visual Settings &lpar;Dynamic Resource configuration&rpar; – Keeping up low-end and high-end device support at the same time](https://www.reddit.com/r/androiddev/comments/1sqqb04/inappgame_visual_settings_dynamic_resource/)
-- [Question about Managed publishing](https://www.reddit.com/r/androiddev/comments/1sqpu2x/question_about_managed_publishing/)
-- [First time using in-app purchases: any unpleasant surprises?](https://www.reddit.com/r/androiddev/comments/1sqpmee/first_time_using_inapp_purchases_any_unpleasant/)
-- [Its been 4 months and still struggling to find a job.](https://www.reddit.com/r/androiddev/comments/1sqp9h4/its_been_4_months_and_still_struggling_to_find_a/)
-- [Issue implementing ObjectBox: Code generation silently failing &lpar;MyObjectBox not generated&rpar; with Kotlin DSL](https://www.reddit.com/r/androiddev/comments/1sqmsnp/issue_implementing_objectbox_code_generation/)
-- [IDE-Grade Coding Intelligence For Android Projects For Your Agent](https://www.reddit.com/r/androiddev/comments/1sql297/idegrade_coding_intelligence_for_android_projects/)
-- [What is the highest amount of days i can put in my android keystore?](https://www.reddit.com/r/androiddev/comments/1sqkxda/what_is_the_highest_amount_of_days_i_can_put_in/)
-- [WhatsApp got Liquid Glass update. Why is M3E not being adopted widely?](https://www.reddit.com/r/androiddev/comments/1sqjuzd/whatsapp_got_liquid_glass_update_why_is_m3e_not/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
