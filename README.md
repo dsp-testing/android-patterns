@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [smartlook recordings on android are missing like 40% of sessions, is this a known issue?](https://www.reddit.com/r/androiddev/comments/1ss5t0e/smartlook_recordings_on_android_are_missing_like/)
+- [Click not working in Android Studio IDE](https://www.reddit.com/r/androiddev/comments/1st3hw7/click_not_working_in_android_studio_ide/)
+- [keep getting this error when I try and download android emulator? Anyone know how to fix?](https://www.reddit.com/r/androiddev/comments/1sssp1o/keep_getting_this_error_when_i_try_and_download/)
+- [Buffering, Conflating, and Debouncing in Multi-Coroutine Flows](https://www.reddit.com/r/androiddev/comments/1ssoj2w/buffering_conflating_and_debouncing_in/)
+- [How to handle Android background camera restrictions for continuous ML Kit tracking?](https://www.reddit.com/r/androiddev/comments/1sslbmz/how_to_handle_android_background_camera/)
+- [Your phone is about to stop being yours.](https://www.reddit.com/r/androiddev/comments/1ssi3bi/your_phone_is_about_to_stop_being_yours/)
+- [Library: Interactive Vector Map](https://www.reddit.com/r/androiddev/comments/1sse1ue/library_interactive_vector_map/)
+- [[Library] BlossomColorPicker: A beautiful, petal-styled HSV color picker](https://www.reddit.com/r/androiddev/comments/1ss8z9g/library_blossomcolorpicker_a_beautiful/)
 - [How do you add multiple categories to an app or game?](https://www.reddit.com/r/androiddev/comments/1ss1dm4/how_do_you_add_multiple_categories_to_an_app_or/)
 - [kotlinx.parcelize missing in AGP 9&#39;s built in Kotlin?](https://www.reddit.com/r/androiddev/comments/1ss0h1m/kotlinxparcelize_missing_in_agp_9s_built_in_kotlin/)
 - [Is it realistic to build an Android app prototype with AI and then hire a developer to rewrite it properly?](https://www.reddit.com/r/androiddev/comments/1srtprj/is_it_realistic_to_build_an_android_app_prototype/)
-- [Android Studio Panda 4 now available](https://www.reddit.com/r/androiddev/comments/1srq54l/android_studio_panda_4_now_available/)
-- [Is it even legal to release dozens of different versions of the same application under different names?](https://www.reddit.com/r/androiddev/comments/1srlqch/is_it_even_legal_to_release_dozens_of_different/)
-- [Change of signing key for 2 apps with sharedUserId](https://www.reddit.com/r/androiddev/comments/1srijfl/change_of_signing_key_for_2_apps_with_shareduserid/)
-- [Razorpay UPI fails when no UPI apps installed – how are you handling fallback UX?](https://www.reddit.com/r/androiddev/comments/1sre3zx/razorpay_upi_fails_when_no_upi_apps_installed_how/)
-- [Does anyone know of a fix for Alarms delayed by about 2/3 mins on Samsung phones after reboot?](https://www.reddit.com/r/androiddev/comments/1srbxnu/does_anyone_know_of_a_fix_for_alarms_delayed_by/)
-- [Android Studio Quail 1 Canary 1 has the new Smooth Caret Movements like VSCODE and MSWORD](https://www.reddit.com/r/androiddev/comments/1sqxy73/android_studio_quail_1_canary_1_has_the_new/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
