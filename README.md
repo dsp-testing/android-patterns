@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Low-latency audio recording with in app graphs?](https://www.reddit.com/r/androiddev/comments/1strb9w/lowlatency_audio_recording_with_in_app_graphs/)
+- [KMP Xml Drawables Preview and more - Plugin](https://www.reddit.com/r/androiddev/comments/1stlz6q/kmp_xml_drawables_preview_and_more_plugin/)
+- [AndroidStudio now let&#39;s us use Google AI Pro &lpar;or Ultra&rpar; subscription!](https://www.reddit.com/r/androiddev/comments/1stkpin/androidstudio_now_lets_us_use_google_ai_pro_or/)
+- [Stuck enrolling Nimian Legends: BrightRidge legacy 1024-bit RSA key in Play App Signing - anyone solved this?](https://www.reddit.com/r/androiddev/comments/1stidyj/stuck_enrolling_nimian_legends_brightridge_legacy/)
+- [should i upgrade to 64gb RAM? 😂 , Is there a solution to reduce RAM consumption?](https://www.reddit.com/r/androiddev/comments/1stfj2e/should_i_upgrade_to_64gb_ram_is_there_a_solution/)
+- [Jetpack Compose 1.11](https://www.reddit.com/r/androiddev/comments/1stcz72/jetpack_compose_111/)
+- [Paid for Gemini Plus/AI Premium but Android Studio is still stuck on &quot;Free Tier&quot; — Google One support is clueless. [BUG] Gemini Plus subscription not activating in Android Studio](https://www.reddit.com/r/androiddev/comments/1stbu1m/paid_for_gemini_plusai_premium_but_android_studio/)
+- [LinkBuffer in Jetpack Compose: From GapBuffer to Linked Slots](https://www.reddit.com/r/androiddev/comments/1stadpj/linkbuffer_in_jetpack_compose_from_gapbuffer_to/)
 - [Click not working in Android Studio IDE](https://www.reddit.com/r/androiddev/comments/1st3hw7/click_not_working_in_android_studio_ide/)
 - [keep getting this error when I try and download android emulator? Anyone know how to fix?](https://www.reddit.com/r/androiddev/comments/1sssp1o/keep_getting_this_error_when_i_try_and_download/)
-- [Buffering, Conflating, and Debouncing in Multi-Coroutine Flows](https://www.reddit.com/r/androiddev/comments/1ssoj2w/buffering_conflating_and_debouncing_in/)
-- [How to handle Android background camera restrictions for continuous ML Kit tracking?](https://www.reddit.com/r/androiddev/comments/1sslbmz/how_to_handle_android_background_camera/)
-- [Your phone is about to stop being yours.](https://www.reddit.com/r/androiddev/comments/1ssi3bi/your_phone_is_about_to_stop_being_yours/)
-- [Library: Interactive Vector Map](https://www.reddit.com/r/androiddev/comments/1sse1ue/library_interactive_vector_map/)
-- [[Library] BlossomColorPicker: A beautiful, petal-styled HSV color picker](https://www.reddit.com/r/androiddev/comments/1ss8z9g/library_blossomcolorpicker_a_beautiful/)
-- [How do you add multiple categories to an app or game?](https://www.reddit.com/r/androiddev/comments/1ss1dm4/how_do_you_add_multiple_categories_to_an_app_or/)
-- [kotlinx.parcelize missing in AGP 9&#39;s built in Kotlin?](https://www.reddit.com/r/androiddev/comments/1ss0h1m/kotlinxparcelize_missing_in_agp_9s_built_in_kotlin/)
-- [Is it realistic to build an Android app prototype with AI and then hire a developer to rewrite it properly?](https://www.reddit.com/r/androiddev/comments/1srtprj/is_it_realistic_to_build_an_android_app_prototype/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
