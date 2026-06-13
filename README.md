@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Low-latency audio recording with in app graphs?](https://www.reddit.com/r/androiddev/comments/1strb9w/lowlatency_audio_recording_with_in_app_graphs/)
-- [KMP Xml Drawables Preview and more - Plugin](https://www.reddit.com/r/androiddev/comments/1stlz6q/kmp_xml_drawables_preview_and_more_plugin/)
-- [AndroidStudio now let&#39;s us use Google AI Pro &lpar;or Ultra&rpar; subscription!](https://www.reddit.com/r/androiddev/comments/1stkpin/androidstudio_now_lets_us_use_google_ai_pro_or/)
-- [Stuck enrolling Nimian Legends: BrightRidge legacy 1024-bit RSA key in Play App Signing - anyone solved this?](https://www.reddit.com/r/androiddev/comments/1stidyj/stuck_enrolling_nimian_legends_brightridge_legacy/)
-- [should i upgrade to 64gb RAM? 😂 , Is there a solution to reduce RAM consumption?](https://www.reddit.com/r/androiddev/comments/1stfj2e/should_i_upgrade_to_64gb_ram_is_there_a_solution/)
-- [Jetpack Compose 1.11](https://www.reddit.com/r/androiddev/comments/1stcz72/jetpack_compose_111/)
-- [Paid for Gemini Plus/AI Premium but Android Studio is still stuck on &quot;Free Tier&quot; — Google One support is clueless. [BUG] Gemini Plus subscription not activating in Android Studio](https://www.reddit.com/r/androiddev/comments/1stbu1m/paid_for_gemini_plusai_premium_but_android_studio/)
-- [LinkBuffer in Jetpack Compose: From GapBuffer to Linked Slots](https://www.reddit.com/r/androiddev/comments/1stadpj/linkbuffer_in_jetpack_compose_from_gapbuffer_to/)
-- [Click not working in Android Studio IDE](https://www.reddit.com/r/androiddev/comments/1st3hw7/click_not_working_in_android_studio_ide/)
-- [keep getting this error when I try and download android emulator? Anyone know how to fix?](https://www.reddit.com/r/androiddev/comments/1sssp1o/keep_getting_this_error_when_i_try_and_download/)
+- [Angled linear gradients in Compose - am I missing something?](https://www.reddit.com/r/androiddev/comments/1u48l93/angled_linear_gradients_in_compose_am_i_missing/)
+- [Did some reverse engineering into GCAM and it actually worked](https://www.reddit.com/r/androiddev/comments/1u44z0k/did_some_reverse_engineering_into_gcam_and_it/)
+- [The ultimate Google Play Console nightmare: Account disabled, reinstated, and now stuck in a locked loop.](https://www.reddit.com/r/androiddev/comments/1u44mjy/the_ultimate_google_play_console_nightmare/)
+- [How do you explain nearby-device and location permissions for signal-related Android apps?](https://www.reddit.com/r/androiddev/comments/1u3y5c4/how_do_you_explain_nearbydevice_and_location/)
+- [How can i start my Android Developer Freelancer Journey or its just too late ???](https://www.reddit.com/r/androiddev/comments/1u3weex/how_can_i_start_my_android_developer_freelancer/)
+- [I&#39;m really confused on the obfuscation / deobfuscation!?](https://www.reddit.com/r/androiddev/comments/1u3vdb0/im_really_confused_on_the_obfuscation/)
+- [Help a university student with a 2-minute survey on productivity and time management](https://www.reddit.com/r/androiddev/comments/1u3uwr7/help_a_university_student_with_a_2minute_survey/)
+- [Introducing Blueprint Compose Preview 📝🚀](https://www.reddit.com/r/androiddev/comments/1u3shbb/introducing_blueprint_compose_preview/)
+- [Reviews not showing](https://www.reddit.com/r/androiddev/comments/1u3qciz/reviews_not_showing/)
+- [How do AI GF/BF apps exists on Google Play?](https://www.reddit.com/r/androiddev/comments/1u3o99l/how_do_ai_gfbf_apps_exists_on_google_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
