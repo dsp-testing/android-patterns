@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Super-minor update stuck in app review](https://www.reddit.com/r/androiddev/comments/1u6kolg/superminor_update_stuck_in_app_review/)
-- [Implemented MPTCP &lpar;v0&rpar; on Android 13 kernel &lpar;Redmi Note 7S / lavender&rpar; Source available](https://www.reddit.com/r/androiddev/comments/1u6h90v/implemented_mptcp_v0_on_android_13_kernel_redmi/)
-- [Help please , Android Studio quit unexpectedly.](https://www.reddit.com/r/androiddev/comments/1u6fsb7/help_please_android_studio_quit_unexpectedly/)
-- [Getting frustrated while configuring everything in the Play Console](https://www.reddit.com/r/androiddev/comments/1u6ffj5/getting_frustrated_while_configuring_everything/)
-- [Image Loading Library](https://www.reddit.com/r/androiddev/comments/1u6cikh/image_loading_library/)
-- [[Kotlin/Android] Can&#39;t get a circular ImageView with a gallery photo to work properly](https://www.reddit.com/r/androiddev/comments/1u6ay6i/kotlinandroid_cant_get_a_circular_imageview_with/)
-- [Tired of over-processed Android photos? I built ProCameraX—a custom camera app with true Ultra HDR, 10-bit Video, and Auto Night Mode &lpar;Built with Antigravity AI &amp; Gemini&rpar;](https://www.reddit.com/r/androiddev/comments/1u6544z/tired_of_overprocessed_android_photos_i_built/)
-- [Testing App Link on local / dev environment](https://www.reddit.com/r/androiddev/comments/1u60738/testing_app_link_on_local_dev_environment/)
-- [Health Connect RemoteException quota exceeded on first read &lpar;API 33 and below&rpar; — works fine on API 34](https://www.reddit.com/r/androiddev/comments/1u5xf7f/health_connect_remoteexception_quota_exceeded_on/)
-- [Google Play app available on Motorola/Oppo but not Samsung/Xiaomi – &quot;Item isn&#39;t available&quot;](https://www.reddit.com/r/androiddev/comments/1u5wsuv/google_play_app_available_on_motorolaoppo_but_not/)
+- [anyone dealt with table reconstruction from OCR bounding boxes in Kotlin?](https://www.reddit.com/r/androiddev/comments/1u7ugst/anyone_dealt_with_table_reconstruction_from_ocr/)
+- [Android 17 Linux Terminal Updated](https://www.reddit.com/r/androiddev/comments/1u7sieh/android_17_linux_terminal_updated/)
+- [The hardest part of shipping to both stores wasn&#39;t the code, it was the listings](https://www.reddit.com/r/androiddev/comments/1u7qyn0/the_hardest_part_of_shipping_to_both_stores_wasnt/)
+- [OpenGL ES or Vulkan for an Android streaming/recording app? &lpar;Just curious what you&#39;d pick&rpar;](https://www.reddit.com/r/androiddev/comments/1u7mzgc/opengl_es_or_vulkan_for_an_android/)
+- [Android Studio Quail 1 Patch 2 now available](https://www.reddit.com/r/androiddev/comments/1u7kz8x/android_studio_quail_1_patch_2_now_available/)
+- [Anyway to reset play store rating?](https://www.reddit.com/r/androiddev/comments/1u7kubv/anyway_to_reset_play_store_rating/)
+- [Slot-Based Composable Pattern in Jetpack Compose 🚀](https://www.reddit.com/r/androiddev/comments/1u7h7ih/slotbased_composable_pattern_in_jetpack_compose/)
+- [Bill Desk payment profile verification in progress](https://www.reddit.com/r/androiddev/comments/1u7ce6c/bill_desk_payment_profile_verification_in_progress/)
+- [Recently published an app to the Play Store? JetBrains wants to hear from you!](https://www.reddit.com/r/androiddev/comments/1u7bn4c/recently_published_an_app_to_the_play_store/)
+- [REapk, a super fast APK &lt;-&gt; Dex decompiler/recompiler](https://www.reddit.com/r/androiddev/comments/1u79kx8/reapk_a_super_fast_apk_dex_decompilerrecompiler/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
