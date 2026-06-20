@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why passing List to your Composables is secretly killing your performance &lpar;and how to fix it&rpar;](https://www.reddit.com/r/androiddev/comments/1u9gveo/why_passing_list_to_your_composables_is_secretly/)
-- [Android Studio Quail 3 Canary 1 now available](https://www.reddit.com/r/androiddev/comments/1u9a6r5/android_studio_quail_3_canary_1_now_available/)
-- [Seek-able perimeter progress bar](https://www.reddit.com/r/androiddev/comments/1u96hqs/seekable_perimeter_progress_bar/)
-- [Lessons learned building audio playback and lyrics synchronization in Android](https://www.reddit.com/r/androiddev/comments/1u94oud/lessons_learned_building_audio_playback_and/)
-- [Composables UI: modern, accessible components for Compose Multiplatform](https://www.reddit.com/r/androiddev/comments/1u94kew/composables_ui_modern_accessible_components_for/)
-- [Trying to add haptics to Android app but it&#39;s killing me.. Any tools or tips recommended?](https://www.reddit.com/r/androiddev/comments/1u94cdv/trying_to_add_haptics_to_android_app_but_its/)
-- [how are you all tracking your app store reviews?](https://www.reddit.com/r/androiddev/comments/1u91dxr/how_are_you_all_tracking_your_app_store_reviews/)
-- [[Book] Jetpack Compose Mechanisms: A dissection of what runs beneath every Composable](https://www.reddit.com/r/androiddev/comments/1u8yrzr/book_jetpack_compose_mechanisms_a_dissection_of/)
-- [The Lysine Contingency: Retrofit, OkHttp, Okio and SQLDelight are moving](https://www.reddit.com/r/androiddev/comments/1u8xvx8/the_lysine_contingency_retrofit_okhttp_okio_and/)
-- [Appeal approved but still locked out — &quot;Too many failed attempts&quot; won&#39;t clear after 24hrs](https://www.reddit.com/r/androiddev/comments/1u8dxvf/appeal_approved_but_still_locked_out_too_many/)
+- [My Kotlin stack after 2 years solo - this language is such a joy](https://www.reddit.com/r/androiddev/comments/1uahrlm/my_kotlin_stack_after_2_years_solo_this_language/)
+- [From Android Developer to Software Tester – Does It Make Sense?](https://www.reddit.com/r/androiddev/comments/1uaezxy/from_android_developer_to_software_tester_does_it/)
+- [Since I don&#39;t want to deal with the error I&#39;m getting, I&#39;m letting AI handle it, but I guess even it can&#39;t solve it](https://www.reddit.com/r/androiddev/comments/1uae1os/since_i_dont_want_to_deal_with_the_error_im/)
+- [Do you recommend built apps for Android?](https://www.reddit.com/r/androiddev/comments/1ua7bsg/do_you_recommend_built_apps_for_android/)
+- [The True Future of &quot;Android Desktop&quot;: Why Google Must Challenge Windows in the Desktop and Gaming Market](https://www.reddit.com/r/androiddev/comments/1ua762d/the_true_future_of_android_desktop_why_google/)
+- [Mobile has no rollback button. I tried to build one for native Android, am i into something ?](https://www.reddit.com/r/androiddev/comments/1ua5ov0/mobile_has_no_rollback_button_i_tried_to_build/)
+- [Where is the AI Migration Assistant for iOS to Android? &lpar;Quail Canary&rpar;](https://www.reddit.com/r/androiddev/comments/1ua0r1d/where_is_the_ai_migration_assistant_for_ios_to/)
+- [Working on a mobile-focused Obsidian alternative. How should I handle sync and Analytics?](https://www.reddit.com/r/androiddev/comments/1u9xbqi/working_on_a_mobilefocused_obsidian_alternative/)
+- [After a few weeks of solo development, I finally launched my first Android app. I built a gamified Pomodoro timer, and I’d love to get your feedback on the UI and architecture!](https://www.reddit.com/r/androiddev/comments/1u9x71m/after_a_few_weeks_of_solo_development_i_finally/)
+- [Android Internals from Scratch](https://www.reddit.com/r/androiddev/comments/1u9uj9q/android_internals_from_scratch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
