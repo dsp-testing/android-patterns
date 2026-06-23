@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need an AOSP Developer to submit a simple Carrier ID patch for Greece &lpar;Telestet/Info Quest S.A. to NOVA&rpar;](https://www.reddit.com/r/androiddev/comments/1uc6frh/need_an_aosp_developer_to_submit_a_simple_carrier/)
-- [Different Playstore listings](https://www.reddit.com/r/androiddev/comments/1ubz5wz/different_playstore_listings/)
-- [I built a macOS menu bar app that gives the Android Emulator real Bluetooth — no dongles, no Python](https://www.reddit.com/r/androiddev/comments/1ubyveb/i_built_a_macos_menu_bar_app_that_gives_the/)
-- [How did C++ help you land an Android job? &lpar;or open other doors?&rpar;](https://www.reddit.com/r/androiddev/comments/1ubvel8/how_did_c_help_you_land_an_android_job_or_open/)
-- [Playstore Tax residency document &lpar;germany&rpar;](https://www.reddit.com/r/androiddev/comments/1ubv30y/playstore_tax_residency_document_germany/)
-- [Any experiences with running ML models locally?](https://www.reddit.com/r/androiddev/comments/1ubqik7/any_experiences_with_running_ml_models_locally/)
-- [Android Help](https://www.reddit.com/r/androiddev/comments/1ubmrkv/android_help/)
-- [Developers and AI are directly co-related](https://www.reddit.com/r/androiddev/comments/1ubm2kn/developers_and_ai_are_directly_corelated/)
-- [First Android App - Looking for Marketing Advice](https://www.reddit.com/r/androiddev/comments/1ubjnkt/first_android_app_looking_for_marketing_advice/)
-- [Android app memory limits in place from Android 17](https://www.reddit.com/r/androiddev/comments/1ubgnw0/android_app_memory_limits_in_place_from_android_17/)
+- [I built an open source notification manager that uses Gemini Nano to parse voice commands - everything runs on device](https://www.reddit.com/r/androiddev/comments/1ud1gje/i_built_an_open_source_notification_manager_that/)
+- [The worst editor bug is when the UI says “saved” and the model quietly disagrees](https://www.reddit.com/r/androiddev/comments/1ud0pdx/the_worst_editor_bug_is_when_the_ui_says_saved/)
+- [Hi! Problem with Acessibility on Xiaomi with HyperOS3](https://www.reddit.com/r/androiddev/comments/1ucztdp/hi_problem_with_acessibility_on_xiaomi_with/)
+- [Google Play All payments Pending](https://www.reddit.com/r/androiddev/comments/1ucyne4/google_play_all_payments_pending/)
+- [Writing a custom APK for owned hardware](https://www.reddit.com/r/androiddev/comments/1uctsqt/writing_a_custom_apk_for_owned_hardware/)
+- [Quick performance tip: Bypassing recomposition loops when animating Modifier offsets](https://www.reddit.com/r/androiddev/comments/1ucs75o/quick_performance_tip_bypassing_recomposition/)
+- [Android Menegement API Error to provide device](https://www.reddit.com/r/androiddev/comments/1ucrtkv/android_menegement_api_error_to_provide_device/)
+- [MacBook Pro Dilemma for Heavy Android Dev: M4 Pro &lpar;24GB/512GB&rpar; vs M5 &lpar;24GB/1TB&rpar; at the exact same price?](https://www.reddit.com/r/androiddev/comments/1ucoksr/macbook_pro_dilemma_for_heavy_android_dev_m4_pro/)
+- [Specter an open-source AI agent that explores your Android app and finds UI/UX bugs &lpar;free, runs locally with your own Claude&rpar;](https://www.reddit.com/r/androiddev/comments/1ucnd9d/specter_an_opensource_ai_agent_that_explores_your/)
+- [How does your team keep native Android and iOS from silently drifting apart?](https://www.reddit.com/r/androiddev/comments/1ucn3cu/how_does_your_team_keep_native_android_and_ios/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
