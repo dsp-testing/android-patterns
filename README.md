@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [IStanPdf - Offline app for PDF and DOCX operation](https://www.reddit.com/r/androiddev/comments/1udz904/istanpdf_offline_app_for_pdf_and_docx_operation/)
-- [Imagine building 🤖 Android apps and not knowing this site](https://www.reddit.com/r/androiddev/comments/1udr31l/imagine_building_android_apps_and_not_knowing/)
-- [Can&#39;t log in to reddit app on standard Pixel 10 emulator](https://www.reddit.com/r/androiddev/comments/1udoo1e/cant_log_in_to_reddit_app_on_standard_pixel_10/)
-- [Can&#39;t create a new developer account](https://www.reddit.com/r/androiddev/comments/1udno1w/cant_create_a_new_developer_account/)
-- [Books from Mahmoud Ramadan](https://www.reddit.com/r/androiddev/comments/1udl64t/books_from_mahmoud_ramadan/)
-- [Remote Compose looks promising](https://www.reddit.com/r/androiddev/comments/1udhzxh/remote_compose_looks_promising/)
-- [How to find Android TV bugs?](https://www.reddit.com/r/androiddev/comments/1udgsvz/how_to_find_android_tv_bugs/)
-- [Here&#39;s a free open-source Quotes API for your app ? &lpar;no API key required&rpar;.](https://www.reddit.com/r/androiddev/comments/1ude5el/heres_a_free_opensource_quotes_api_for_your_app/)
-- [The worst editor bug is when the UI says “saved” and the model quietly disagrees](https://www.reddit.com/r/androiddev/comments/1ud8wy6/the_worst_editor_bug_is_when_the_ui_says_saved/)
-- [I built an open source notification manager that uses Gemini Nano to parse voice commands - everything runs on device](https://www.reddit.com/r/androiddev/comments/1ud1gje/i_built_an_open_source_notification_manager_that/)
+- [Built my first Android app with Android Studio + AI assistance](https://www.reddit.com/r/androiddev/comments/1uev0q5/built_my_first_android_app_with_android_studio_ai/)
+- [That feeling when you make your first sale 6 weeks after launching the app. 🥹😎🤟](https://www.reddit.com/r/androiddev/comments/1uep46u/that_feeling_when_you_make_your_first_sale_6/)
+- [Is iOS worth it for you?](https://www.reddit.com/r/androiddev/comments/1ueoe7o/is_ios_worth_it_for_you/)
+- [Why is there no polygraph test app yet???](https://www.reddit.com/r/androiddev/comments/1uenu55/why_is_there_no_polygraph_test_app_yet/)
+- [I built an ad revenue calculator for mobile apps and websites that estimates eCPM across AdMob, AppLovin, Unity and more.](https://www.reddit.com/r/androiddev/comments/1uemy8h/i_built_an_ad_revenue_calculator_for_mobile_apps/)
+- [I’m building an Android privacy-permission audit app and want to stay Play-policy clean.](https://www.reddit.com/r/androiddev/comments/1uejs73/im_building_an_android_privacypermission_audit/)
+- [AccessibilityService inconsistent behavior in Chrome URL bar and YouTube search — need instant text detection across all input fields](https://www.reddit.com/r/androiddev/comments/1ueicu7/accessibilityservice_inconsistent_behavior_in/)
+- [Most Claude skills for Kotlin Multiplatform were too generic, so I built this repo](https://www.reddit.com/r/androiddev/comments/1ueh3is/most_claude_skills_for_kotlin_multiplatform_were/)
+- [Building an audio app — Kotlin, C++, or Rust? Which gives the least headache for low-level audio on Android?](https://www.reddit.com/r/androiddev/comments/1uefcrk/building_an_audio_app_kotlin_c_or_rust_which/)
+- [Wear companion app QA/debug distribution](https://www.reddit.com/r/androiddev/comments/1ueemaf/wear_companion_app_qadebug_distribution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
