@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Cutting a feature by simply disabling the button,without removing the logic](https://www.reddit.com/r/androiddev/comments/1uhdgo5/cutting_a_feature_by_simply_disabling_the/)
-- [Built an Android interview prep site](https://www.reddit.com/r/androiddev/comments/1uhd5az/built_an_android_interview_prep_site/)
-- [Is this project portfolio good enough?](https://www.reddit.com/r/androiddev/comments/1uhc3ut/is_this_project_portfolio_good_enough/)
-- [Android 17 Bubbles Documentation?](https://www.reddit.com/r/androiddev/comments/1uh8p9g/android_17_bubbles_documentation/)
-- [I build a free tool to scrape/analyze reviews of any app in Google Play](https://www.reddit.com/r/androiddev/comments/1uh7bl0/i_build_a_free_tool_to_scrapeanalyze_reviews_of/)
-- [Comparing App Store review data across regions — the same puzzle games behave very differently in US vs UK vs Japan](https://www.reddit.com/r/androiddev/comments/1ugh8iw/comparing_app_store_review_data_across_regions/)
-- [Use of Dynamic Colors](https://www.reddit.com/r/androiddev/comments/1ugdqx2/use_of_dynamic_colors/)
-- [What smallest width setting you have?](https://www.reddit.com/r/androiddev/comments/1ugcm04/what_smallest_width_setting_you_have/)
-- [Need Advice for my Android Dev Internship](https://www.reddit.com/r/androiddev/comments/1ugclcj/need_advice_for_my_android_dev_internship/)
-- [Looking for feedback on an Android tool I&#39;m building](https://www.reddit.com/r/androiddev/comments/1ugap2y/looking_for_feedback_on_an_android_tool_im/)
+- [Let&#39;s protect Android](https://www.reddit.com/r/androiddev/comments/1uie1py/lets_protect_android/)
+- [Indian apps taking Razorpay/PhonePe payments directly inside Play Store app — how are they not banned?](https://www.reddit.com/r/androiddev/comments/1uib6bh/indian_apps_taking_razorpayphonepe_payments/)
+- [I built a Snake game in Kotlin and Jetpack Compose, vibe coded with Claude Code](https://www.reddit.com/r/androiddev/comments/1ui8kqu/i_built_a_snake_game_in_kotlin_and_jetpack/)
+- [Does switching from a personal to an organization account &lpar;with D-U-N-S&rpar; let me publish immediately, or do I have to create a brand new account?](https://www.reddit.com/r/androiddev/comments/1ui87bb/does_switching_from_a_personal_to_an_organization/)
+- [Did i just install a virus or what ?](https://www.reddit.com/r/androiddev/comments/1ui72my/did_i_just_install_a_virus_or_what/)
+- [NextIDE](https://www.reddit.com/r/androiddev/comments/1ui346y/nextide/)
+- [Launch notifications failed for 6000+ pre registers?](https://www.reddit.com/r/androiddev/comments/1uhz5ym/launch_notifications_failed_for_6000_pre_registers/)
+- [To experienced Android Devs, will you approach Android dev same as as you begun now due to AI?](https://www.reddit.com/r/androiddev/comments/1uhxq72/to_experienced_android_devs_will_you_approach/)
+- [Preloading solutions for HLS videos which i implemented for a serious tiktok style reels feed in Android &lpar;media3&rpar;](https://www.reddit.com/r/androiddev/comments/1uhwcc5/preloading_solutions_for_hls_videos_which_i/)
+- [Using Firebase for Google sign in as a beginner](https://www.reddit.com/r/androiddev/comments/1uhuffc/using_firebase_for_google_sign_in_as_a_beginner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
