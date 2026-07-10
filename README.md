@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Poco C71 bootloader unlocking + LineageOS Guide](https://www.reddit.com/r/androiddev/comments/1ur9st1/poco_c71_bootloader_unlocking_lineageos_guide/)
-- [Want app crash and error &lpar;need help&rpar;](https://www.reddit.com/r/androiddev/comments/1ur7okv/want_app_crash_and_error_need_help/)
-- [Onboarding android dev course](https://www.reddit.com/r/androiddev/comments/1ur78rd/onboarding_android_dev_course/)
-- [Android Studio Quail 2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1ur71vl/android_studio_quail_2_rc_2_now_available/)
-- [Who made a cool app I can test? Now’s your time to show it off 😎 &lpar;not selling anything 😅&rpar;](https://www.reddit.com/r/androiddev/comments/1ur46er/who_made_a_cool_app_i_can_test_nows_your_time_to/)
-- [Can a Minor &lpar;Under 18&rpar; Form a Local or Offshore Company and Verify a Corporate Google Play Console Account?](https://www.reddit.com/r/androiddev/comments/1ur0jjz/can_a_minor_under_18_form_a_local_or_offshore/)
-- [Mock tests are now live on AndroidDevKit](https://www.reddit.com/r/androiddev/comments/1uqwjxp/mock_tests_are_now_live_on_androiddevkit/)
-- [Full voice-agent loop on a Galaxy S23 in ~1.5 GB, real-time on CPU &lpar;LiteRT/ONNX&rpar; - measured numbers](https://www.reddit.com/r/androiddev/comments/1uqnp5y/full_voiceagent_loop_on_a_galaxy_s23_in_15_gb/)
-- [Any way to create automated sign ups for Play store Closed testing](https://www.reddit.com/r/androiddev/comments/1uqcoka/any_way_to_create_automated_sign_ups_for_play/)
-- [Good examples of Material 3 Expressive applications?](https://www.reddit.com/r/androiddev/comments/1uq4o8u/good_examples_of_material_3_expressive/)
+- [Android Developer &lpar;3.5 yrs&rpar; looking for referrals or leads](https://www.reddit.com/r/androiddev/comments/1us2ez4/android_developer_35_yrs_looking_for_referrals_or/)
+- [Debug Android dex with native code](https://www.reddit.com/r/androiddev/comments/1us02ha/debug_android_dex_with_native_code/)
+- [What would you put in an Android AAB release-readiness checklist?](https://www.reddit.com/r/androiddev/comments/1urwy3n/what_would_you_put_in_an_android_aab/)
+- [Compose DND update with Kanban Demo](https://www.reddit.com/r/androiddev/comments/1urwkve/compose_dnd_update_with_kanban_demo/)
+- [Struggling with motivation after 6+ years in Android dev – AI doing most of the work now How are you guys staying motivated and relevant in 2026?](https://www.reddit.com/r/androiddev/comments/1urwifv/struggling_with_motivation_after_6_years_in/)
+- [Is There a Standard Android API to Get Marketing Device Names Across All Manufacturers?](https://www.reddit.com/r/androiddev/comments/1urvsbt/is_there_a_standard_android_api_to_get_marketing/)
+- [What&#39;s the thing you hate about Gradle for Android Development?](https://www.reddit.com/r/androiddev/comments/1uruc1n/whats_the_thing_you_hate_about_gradle_for_android/)
+- [I added support for translations and brief summaries in my app with the local/offline LLMs and the LiteRT-LM Engine](https://www.reddit.com/r/androiddev/comments/1urt1f9/i_added_support_for_translations_and_brief/)
+- [Android Studio Run Configuration](https://www.reddit.com/r/androiddev/comments/1urpfxb/android_studio_run_configuration/)
+- [Compose multiplatform string res](https://www.reddit.com/r/androiddev/comments/1urp6rb/compose_multiplatform_string_res/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
