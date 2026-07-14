@@ -30,6 +30,8 @@ spec:
         app: backend
     spec:
       serviceAccountName: webapp
+      securityContext:
+        runAsNonRoot: true
       containers:
         - name: backend
           image: android-patterns
