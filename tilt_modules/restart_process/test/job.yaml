@@ -8,5 +8,7 @@ spec:
       containers:
         - name: failing-job
           image: failing_job
+          securityContext:
+            runAsUser: 10000
       restartPolicy: Never
   backoffLimit: 4
