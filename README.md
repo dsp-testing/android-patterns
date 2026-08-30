@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Question, how much would you pay for it?](https://www.reddit.com/r/androiddev/comments/1w15vgh/question_how_much_would_you_pay_for_it/)
-- [How are you getting AI agents to accurately translate designs into Android UI?](https://www.reddit.com/r/androiddev/comments/1w15sjr/how_are_you_getting_ai_agents_to_accurately/)
-- [Something about app quality requirements](https://www.reddit.com/r/androiddev/comments/1w14xxn/something_about_app_quality_requirements/)
-- [I created my own time lapse app](https://www.reddit.com/r/androiddev/comments/1w14wfm/i_created_my_own_time_lapse_app/)
-- [Focus. — I made a minimal Pomodoro timer &lpar;25/5&rpar; — open-source, no ads, Outfit Black](https://www.reddit.com/r/androiddev/comments/1w135c7/focus_i_made_a_minimal_pomodoro_timer_255/)
-- [Scheduled wallpaper updates losing sync after reboot/Doze — best practice for timers that must survive device restart?](https://www.reddit.com/r/androiddev/comments/1w126ch/scheduled_wallpaper_updates_losing_sync_after/)
-- [A more advanced Android Studio emulator?](https://www.reddit.com/r/androiddev/comments/1w0yc0o/a_more_advanced_android_studio_emulator/)
-- [How do you monitor Play Store Reviews?](https://www.reddit.com/r/androiddev/comments/1w0vjev/how_do_you_monitor_play_store_reviews/)
-- [Android Studio crashes a lot on Linux](https://www.reddit.com/r/androiddev/comments/1w0rick/android_studio_crashes_a_lot_on_linux/)
-- [A compose web storybook/showcase](https://www.reddit.com/r/androiddev/comments/1w0qtq2/a_compose_web_storybookshowcase/)
+- [Anyone here registered for the Android Developer Console with a previously terminated Play account?](https://www.reddit.com/r/androiddev/comments/1w238or/anyone_here_registered_for_the_android_developer/)
+- [puzzle craft 2 please help maybe someone has an idea](https://www.reddit.com/r/androiddev/comments/1w20ee0/puzzle_craft_2_please_help_maybe_someone_has_an/)
+- [New ‘Unverified developer apps’ setting appeared in Developer Options on my Redmi Note 11 — is Google’s APK policy already rolling out?](https://www.reddit.com/r/androiddev/comments/1w1uos9/new_unverified_developer_apps_setting_appeared_in/)
+- [I wrote down every mistake from 3 years of building my Compose Multiplatform app. All 224 of them.](https://www.reddit.com/r/androiddev/comments/1w1ubt5/i_wrote_down_every_mistake_from_3_years_of/)
+- [Google Maps vs Mapbox for Android navigation?](https://www.reddit.com/r/androiddev/comments/1w1qgp6/google_maps_vs_mapbox_for_android_navigation/)
+- [Study partner](https://www.reddit.com/r/androiddev/comments/1w1ptqv/study_partner/)
+- [My First App Store screenshots, would love &lpar;Extremely&rpar; blunt feedback before the launch](https://www.reddit.com/r/androiddev/comments/1w1k3c9/my_first_app_store_screenshots_would_love/)
+- [Paid App - &gt; Free App Transition &lpar;Struggling Store Performance&rpar; - &#39;HollowLight&#39;](https://www.reddit.com/r/androiddev/comments/1w1jqq1/paid_app_free_app_transition_struggling_store/)
+- [Can I use my AdMob/Google Play earnings to advertise my own game?](https://www.reddit.com/r/androiddev/comments/1w1jfas/can_i_use_my_admobgoogle_play_earnings_to/)
+- [When do I show permission rationale](https://www.reddit.com/r/androiddev/comments/1w1iofr/when_do_i_show_permission_rationale/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
