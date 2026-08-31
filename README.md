@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Guys , a bit of help](https://www.reddit.com/r/androiddev/comments/1w2yb6s/guys_a_bit_of_help/)
+- [What&#39;s the standard approach when Google Play merchant registration isn&#39;t available in your country?](https://www.reddit.com/r/androiddev/comments/1w2tmmw/whats_the_standard_approach_when_google_play/)
+- [I open sourced my interactive globe animation on GitHub - Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1w2kzvv/i_open_sourced_my_interactive_globe_animation_on/)
+- [How to test &quot;Widgets on lock screen&quot; on Android Studio?](https://www.reddit.com/r/androiddev/comments/1w2b2gt/how_to_test_widgets_on_lock_screen_on_android/)
 - [Anyone here registered for the Android Developer Console with a previously terminated Play account?](https://www.reddit.com/r/androiddev/comments/1w238or/anyone_here_registered_for_the_android_developer/)
-- [puzzle craft 2 please help maybe someone has an idea](https://www.reddit.com/r/androiddev/comments/1w20ee0/puzzle_craft_2_please_help_maybe_someone_has_an/)
 - [New ‘Unverified developer apps’ setting appeared in Developer Options on my Redmi Note 11 — is Google’s APK policy already rolling out?](https://www.reddit.com/r/androiddev/comments/1w1uos9/new_unverified_developer_apps_setting_appeared_in/)
 - [I wrote down every mistake from 3 years of building my Compose Multiplatform app. All 224 of them.](https://www.reddit.com/r/androiddev/comments/1w1ubt5/i_wrote_down_every_mistake_from_3_years_of/)
 - [Google Maps vs Mapbox for Android navigation?](https://www.reddit.com/r/androiddev/comments/1w1qgp6/google_maps_vs_mapbox_for_android_navigation/)
 - [Study partner](https://www.reddit.com/r/androiddev/comments/1w1ptqv/study_partner/)
 - [My First App Store screenshots, would love &lpar;Extremely&rpar; blunt feedback before the launch](https://www.reddit.com/r/androiddev/comments/1w1k3c9/my_first_app_store_screenshots_would_love/)
-- [Paid App - &gt; Free App Transition &lpar;Struggling Store Performance&rpar; - &#39;HollowLight&#39;](https://www.reddit.com/r/androiddev/comments/1w1jqq1/paid_app_free_app_transition_struggling_store/)
-- [Can I use my AdMob/Google Play earnings to advertise my own game?](https://www.reddit.com/r/androiddev/comments/1w1jfas/can_i_use_my_admobgoogle_play_earnings_to/)
-- [When do I show permission rationale](https://www.reddit.com/r/androiddev/comments/1w1iofr/when_do_i_show_permission_rationale/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
