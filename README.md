@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Building the app stopped being the hard part for me.](https://www.reddit.com/r/androiddev/comments/1w9cw7z/building_the_app_stopped_being_the_hard_part_for/)
+- [Play Store Selection During Search](https://www.reddit.com/r/androiddev/comments/1wa79m1/play_store_selection_during_search/)
+- [Shipped a KMP fitness app running Wear OS + watchOS from one shared Kotlin codebase — lessons from phone↔watch session sync](https://www.reddit.com/r/androiddev/comments/1wa76c5/shipped_a_kmp_fitness_app_running_wear_os_watchos/)
+- [Title: &quot;Malicious Code Found in Android Studio Gradle Files - Need Help Identifying Source and Preventing Reinfection&quot;](https://www.reddit.com/r/androiddev/comments/1wa1q0y/title_malicious_code_found_in_android_studio/)
+- [Lessons learned layering multi-track audio &amp; smooth fade-out timers using 100% Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1wa1ou3/lessons_learned_layering_multitrack_audio_smooth/)
+- [Keep &#39;no data&#39; as a real state in your launch dashboard](https://www.reddit.com/r/androiddev/comments/1w9va4s/keep_no_data_as_a_real_state_in_your_launch/)
+- [LİNEAGEOS 23.2 FOR GALAXY A315F](https://www.reddit.com/r/androiddev/comments/1w9ut5w/lineageos_232_for_galaxy_a315f/)
+- [Have you tried Compose Multiplatform on tvOS. If yes then what broke?](https://www.reddit.com/r/androiddev/comments/1w9s44y/have_you_tried_compose_multiplatform_on_tvos_if/)
 - [Can&#39;t Install Unsigned APK?](https://www.reddit.com/r/androiddev/comments/1w98dyo/cant_install_unsigned_apk/)
 - [I&#39;m having problems setting up CI/CD pipeline as an indie dev](https://www.reddit.com/r/androiddev/comments/1w9449g/im_having_problems_setting_up_cicd_pipeline_as_an/)
 - [What are your favorite tools for event logging?](https://www.reddit.com/r/androiddev/comments/1w91374/what_are_your_favorite_tools_for_event_logging/)
-- [Android + Arudino](https://www.reddit.com/r/androiddev/comments/1w8t7mn/android_arudino/)
-- [Individual developer rules](https://www.reddit.com/r/androiddev/comments/1w8swzv/individual_developer_rules/)
-- [Senior CS Student Considering Android Development](https://www.reddit.com/r/androiddev/comments/1w8s6hb/senior_cs_student_considering_android_development/)
-- [How are some developers ranking almost all their apps/games on the Amazon Appstore?](https://www.reddit.com/r/androiddev/comments/1w8s2qj/how_are_some_developers_ranking_almost_all_their/)
-- [Inexpensive development device?](https://www.reddit.com/r/androiddev/comments/1w8lchx/inexpensive_development_device/)
-- [Stupid question about main accounts](https://www.reddit.com/r/androiddev/comments/1w89jwp/stupid_question_about_main_accounts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
