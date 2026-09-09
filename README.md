@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Play Store Selection During Search](https://www.reddit.com/r/androiddev/comments/1wa79m1/play_store_selection_during_search/)
-- [Shipped a KMP fitness app running Wear OS + watchOS from one shared Kotlin codebase — lessons from phone↔watch session sync](https://www.reddit.com/r/androiddev/comments/1wa76c5/shipped_a_kmp_fitness_app_running_wear_os_watchos/)
-- [Title: &quot;Malicious Code Found in Android Studio Gradle Files - Need Help Identifying Source and Preventing Reinfection&quot;](https://www.reddit.com/r/androiddev/comments/1wa1q0y/title_malicious_code_found_in_android_studio/)
-- [Lessons learned layering multi-track audio &amp; smooth fade-out timers using 100% Jetpack Compose](https://www.reddit.com/r/androiddev/comments/1wa1ou3/lessons_learned_layering_multitrack_audio_smooth/)
-- [Keep &#39;no data&#39; as a real state in your launch dashboard](https://www.reddit.com/r/androiddev/comments/1w9va4s/keep_no_data_as_a_real_state_in_your_launch/)
-- [LİNEAGEOS 23.2 FOR GALAXY A315F](https://www.reddit.com/r/androiddev/comments/1w9ut5w/lineageos_232_for_galaxy_a315f/)
-- [Have you tried Compose Multiplatform on tvOS. If yes then what broke?](https://www.reddit.com/r/androiddev/comments/1w9s44y/have_you_tried_compose_multiplatform_on_tvos_if/)
-- [Can&#39;t Install Unsigned APK?](https://www.reddit.com/r/androiddev/comments/1w98dyo/cant_install_unsigned_apk/)
-- [I&#39;m having problems setting up CI/CD pipeline as an indie dev](https://www.reddit.com/r/androiddev/comments/1w9449g/im_having_problems_setting_up_cicd_pipeline_as_an/)
-- [What are your favorite tools for event logging?](https://www.reddit.com/r/androiddev/comments/1w91374/what_are_your_favorite_tools_for_event_logging/)
+- [Yay my first successful CI/CD&lpar;partialy&rpar;😖...but](https://www.reddit.com/r/androiddev/comments/1wb5wfy/yay_my_first_successful_cicdpartialybut/)
+- [f-tree: the whole family chart is one Compose Canvas, so pan and zoom re-run the draw phase and nothing else &lpar;MIT&rpar;](https://www.reddit.com/r/androiddev/comments/1wb0qwo/ftree_the_whole_family_chart_is_one_compose/)
+- [I need help searching on mounted drives on Android 9](https://www.reddit.com/r/androiddev/comments/1wauklo/i_need_help_searching_on_mounted_drives_on/)
+- [Made an app that records video when you double press volume down even with screen off. Play Store won&#39;t allow it. Now what?](https://www.reddit.com/r/androiddev/comments/1warmd6/made_an_app_that_records_video_when_you_double/)
+- [Where is the App Signing SHA‑256 fingerprint page actually linked from in Play Console?](https://www.reddit.com/r/androiddev/comments/1waqpgl/where_is_the_app_signing_sha256_fingerprint_page/)
+- [Is it safe to use AI generated images in my app?](https://www.reddit.com/r/androiddev/comments/1waqkub/is_it_safe_to_use_ai_generated_images_in_my_app/)
+- [What do you always check before publishing an Android app?](https://www.reddit.com/r/androiddev/comments/1wanufr/what_do_you_always_check_before_publishing_an/)
+- [How are you handling Google Play review management at scale? Went from 17 hrs/wk to 90 mins](https://www.reddit.com/r/androiddev/comments/1wanlyc/how_are_you_handling_google_play_review/)
+- [Now in Android KMP: full Kotlin Multiplatform and Compose Multiplatform port of Google&#39;s Now in Android sample on Android, iOS, Desktop, and Wasm.](https://www.reddit.com/r/androiddev/comments/1wanbl6/now_in_android_kmp_full_kotlin_multiplatform_and/)
+- [Used a stock photo in my app screenshots thinking it was royalty-free, now getting a $4000 invoice](https://www.reddit.com/r/androiddev/comments/1wakw7r/used_a_stock_photo_in_my_app_screenshots_thinking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
