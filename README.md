@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I thought I was finally done with my android app… then Google showed me this](https://www.reddit.com/r/androiddev/comments/1wryicl/i_thought_i_was_finally_done_with_my_android_app/)
-- [How do you keep Espresso tests healthy at scale? &lpar;flakiness, AI failure triage, feature-level coverage&rpar;](https://www.reddit.com/r/androiddev/comments/1wrxe3x/how_do_you_keep_espresso_tests_healthy_at_scale/)
-- [How to get an &quot;Unhook&quot; style experience on Android? Need complete distraction-free YouTube for studying.](https://www.reddit.com/r/androiddev/comments/1wrvsi2/how_to_get_an_unhook_style_experience_on_android/)
-- [Android Dev Help](https://www.reddit.com/r/androiddev/comments/1wruzzt/android_dev_help/)
-- [Should I upgrade to Navigation 3?](https://www.reddit.com/r/androiddev/comments/1wrqc4u/should_i_upgrade_to_navigation_3/)
-- [Vaultara - Fast and Offline](https://www.reddit.com/r/androiddev/comments/1wrpeqq/vaultara_fast_and_offline/)
-- [Help](https://www.reddit.com/r/androiddev/comments/1wro03x/help/)
-- [Android emulator on the browser without QEMU](https://www.reddit.com/r/androiddev/comments/1wrmuf0/android_emulator_on_the_browser_without_qemu/)
-- [Building an on-device personal agent. Android first because of notification listener + accessibility, or am I underestimating what I’ll hit?](https://www.reddit.com/r/androiddev/comments/1wrm1vh/building_an_ondevice_personal_agent_android_first/)
-- [Crafting my own keyboard.](https://www.reddit.com/r/androiddev/comments/1wrl6qr/crafting_my_own_keyboard/)
+- [Docker for android](https://www.reddit.com/r/androiddev/comments/1wspyaz/docker_for_android/)
+- [Which is the modern way to generate PDFs in Kotlin/Android?](https://www.reddit.com/r/androiddev/comments/1wsklal/which_is_the_modern_way_to_generate_pdfs_in/)
+- [When adding local store translations, do you translate things like App name?](https://www.reddit.com/r/androiddev/comments/1wskaok/when_adding_local_store_translations_do_you/)
+- [Has anyone done Phillip Lackner&#39;s personal mentorship course?](https://www.reddit.com/r/androiddev/comments/1wsjwhc/has_anyone_done_phillip_lackners_personal/)
+- [Android Studio Rabbit 1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1wsgvvs/android_studio_rabbit_1_rc_2_now_available/)
+- [Subsonic Client Music Player](https://www.reddit.com/r/androiddev/comments/1wsga8n/subsonic_client_music_player/)
+- [Less than 3 days left](https://www.reddit.com/r/androiddev/comments/1wsdjqv/less_than_3_days_left/)
+- [What are the hardest parts of building an OTT app for Android TV?](https://www.reddit.com/r/androiddev/comments/1wsdf7c/what_are_the_hardest_parts_of_building_an_ott_app/)
+- [What encryption approach would you suggest for a privacy-focused file-sharing app?](https://www.reddit.com/r/androiddev/comments/1ws9rfm/what_encryption_approach_would_you_suggest_for_a/)
+- [Are there any best practices to speed up play store review times?](https://www.reddit.com/r/androiddev/comments/1ws9gup/are_there_any_best_practices_to_speed_up_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
