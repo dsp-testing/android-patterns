@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Docker for android](https://www.reddit.com/r/androiddev/comments/1wspyaz/docker_for_android/)
-- [Which is the modern way to generate PDFs in Kotlin/Android?](https://www.reddit.com/r/androiddev/comments/1wsklal/which_is_the_modern_way_to_generate_pdfs_in/)
-- [When adding local store translations, do you translate things like App name?](https://www.reddit.com/r/androiddev/comments/1wskaok/when_adding_local_store_translations_do_you/)
-- [Has anyone done Phillip Lackner&#39;s personal mentorship course?](https://www.reddit.com/r/androiddev/comments/1wsjwhc/has_anyone_done_phillip_lackners_personal/)
-- [Android Studio Rabbit 1 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1wsgvvs/android_studio_rabbit_1_rc_2_now_available/)
-- [Subsonic Client Music Player](https://www.reddit.com/r/androiddev/comments/1wsga8n/subsonic_client_music_player/)
-- [Less than 3 days left](https://www.reddit.com/r/androiddev/comments/1wsdjqv/less_than_3_days_left/)
-- [What are the hardest parts of building an OTT app for Android TV?](https://www.reddit.com/r/androiddev/comments/1wsdf7c/what_are_the_hardest_parts_of_building_an_ott_app/)
-- [What encryption approach would you suggest for a privacy-focused file-sharing app?](https://www.reddit.com/r/androiddev/comments/1ws9rfm/what_encryption_approach_would_you_suggest_for_a/)
-- [Are there any best practices to speed up play store review times?](https://www.reddit.com/r/androiddev/comments/1ws9gup/are_there_any_best_practices_to_speed_up_play/)
+- [I just launched my Android app Givaro — would love feedback from the community](https://www.reddit.com/r/androiddev/comments/1wtp5xg/i_just_launched_my_android_app_givaro_would_love/)
+- [Clever use for that old spare phone in your kitchen drawer](https://www.reddit.com/r/androiddev/comments/1wtp4rk/clever_use_for_that_old_spare_phone_in_your/)
+- [How long does it take to publish](https://www.reddit.com/r/androiddev/comments/1wtmu17/how_long_does_it_take_to_publish/)
+- [Spock ADB 4.0: find the current activity/fragment, test process death, edit SharedPreferences, all without leaving Android Studio](https://www.reddit.com/r/androiddev/comments/1wtmgaa/spock_adb_40_find_the_current_activityfragment/)
+- [App to Spoof a Connected Second Display](https://www.reddit.com/r/androiddev/comments/1wtbhnc/app_to_spoof_a_connected_second_display/)
+- [Android Dev Monitor v2.8: a free, open-source Windows &quot;Task Manager&quot; for Android apps &lpar;CPU, RAM, FPS, logcat over ADB&rpar;](https://www.reddit.com/r/androiddev/comments/1wtbhn8/android_dev_monitor_v28_a_free_opensource_windows/)
+- [How to query usage stats manager?](https://www.reddit.com/r/androiddev/comments/1wt5r65/how_to_query_usage_stats_manager/)
+- [Working on a File Sharing Application between Desktop and Mobile irregardless of Distance or Network](https://www.reddit.com/r/androiddev/comments/1wt5miq/working_on_a_file_sharing_application_between/)
+- [Shopify Quit React Native. Mobile Has Done This Before.](https://www.reddit.com/r/androiddev/comments/1wt4c9q/shopify_quit_react_native_mobile_has_done_this/)
+- [How to pin android Notification](https://www.reddit.com/r/androiddev/comments/1wt341f/how_to_pin_android_notification/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
