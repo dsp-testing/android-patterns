@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [I built a open-source, ad-free SQLite Admin app for Android because the Play Store options are broken](https://www.reddit.com/r/androiddev/comments/1wufkxn/i_built_a_opensource_adfree_sqlite_admin_app_for/)
-- [Android Developer Verification](https://www.reddit.com/r/androiddev/comments/1wu9r7x/android_developer_verification/)
-- [My app got approved in... 30mins?](https://www.reddit.com/r/androiddev/comments/1wu8yzb/my_app_got_approved_in_30mins/)
-- [Paid the dev registration fee but PlayStore Console still asks me to create an account — normal?](https://www.reddit.com/r/androiddev/comments/1wu4c6e/paid_the_dev_registration_fee_but_playstore/)
-- [USB Debugging keep turning back on after reboot &lpar;ColorOS / Realme UI&rpar; – persist.sys.usb.config stuck on adb](https://www.reddit.com/r/androiddev/comments/1wu1ex0/usb_debugging_keep_turning_back_on_after_reboot/)
-- [Anyone can direct me to a framework](https://www.reddit.com/r/androiddev/comments/1wtt4k5/anyone_can_direct_me_to_a_framework/)
-- [Clever use for that old spare phone in your kitchen drawer](https://www.reddit.com/r/androiddev/comments/1wtp4rk/clever_use_for_that_old_spare_phone_in_your/)
-- [How long does it take to publish](https://www.reddit.com/r/androiddev/comments/1wtmu17/how_long_does_it_take_to_publish/)
-- [Spock ADB 4.0: find the current activity/fragment, test process death, edit SharedPreferences, all without leaving Android Studio](https://www.reddit.com/r/androiddev/comments/1wtmgaa/spock_adb_40_find_the_current_activityfragment/)
-- [App to Spoof a Connected Second Display](https://www.reddit.com/r/androiddev/comments/1wtbhnc/app_to_spoof_a_connected_second_display/)
+- [Google Play App Review times?](https://www.reddit.com/r/androiddev/comments/1wvdvw3/google_play_app_review_times/)
+- [App in review for 15 days](https://www.reddit.com/r/androiddev/comments/1wv6ben/app_in_review_for_15_days/)
+- [Android Studio Rabbit 2 Canary 3 now available](https://www.reddit.com/r/androiddev/comments/1wv4tm9/android_studio_rabbit_2_canary_3_now_available/)
+- [Kotlin, Android, and community with Martin Bonnin](https://www.reddit.com/r/androiddev/comments/1wv4omx/kotlin_android_and_community_with_martin_bonnin/)
+- [Android Studio Rabbit 1 now available](https://www.reddit.com/r/androiddev/comments/1wv1o17/android_studio_rabbit_1_now_available/)
+- [Made an image picker library for Android](https://www.reddit.com/r/androiddev/comments/1wuzlhk/made_an_image_picker_library_for_android/)
+- [I built a way to let people try Android apps without installing them. What do you think?](https://www.reddit.com/r/androiddev/comments/1wuvx88/i_built_a_way_to_let_people_try_android_apps/)
+- [Brought my Gradle build time from 6 mins to 26 secs :&rpar;&rpar;](https://www.reddit.com/r/androiddev/comments/1wuu508/brought_my_gradle_build_time_from_6_mins_to_26/)
+- [With all the AI changes happening, how hard is for Android seniors to find remote work today?](https://www.reddit.com/r/androiddev/comments/1wuspgc/with_all_the_ai_changes_happening_how_hard_is_for/)
+- [How many apps/games have you published?](https://www.reddit.com/r/androiddev/comments/1wuqziv/how_many_appsgames_have_you_published/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
