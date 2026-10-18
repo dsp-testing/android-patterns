@@ -14,6 +14,8 @@ spec:
       containers:
       - name: busybox
         image: busybox
+        securityContext:
+          allowPrivilegeEscalation: false
         ports:
         - containerPort: 8000
         command: ["sh", "-c", "echo 'hello world' > index.html; busybox httpd -f -p 8000"]
