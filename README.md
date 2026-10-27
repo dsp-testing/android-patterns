@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Frustrated as I tried to make my first developer account &lpar;where did I go wrong?&rpar;](https://www.reddit.com/r/androiddev/comments/1xfiyiu/frustrated_as_i_tried_to_make_my_first_developer/)
-- [[ShowDev] VPortable: Building a rootless multi-process Android container &amp; VFS supervisor &lpar;tested on Android 13, 14, and 15 / Linux 6.6&rpar;](https://www.reddit.com/r/androiddev/comments/1xf8sa8/showdev_vportable_building_a_rootless/)
-- [NetPulse: a small Android app for live ping, jitter and packet loss &lpar;beta, looking for feedback&rpar;](https://www.reddit.com/r/androiddev/comments/1xf8pkg/netpulse_a_small_android_app_for_live_ping_jitter/)
-- [How long does a Google Play app transfer usually take?](https://www.reddit.com/r/androiddev/comments/1xesiwj/how_long_does_a_google_play_app_transfer_usually/)
-- [Mobile devs: did the Gravy Analytics breach change anything for you?](https://www.reddit.com/r/androiddev/comments/1xep86v/mobile_devs_did_the_gravy_analytics_breach_change/)
-- [Hefesto: Mobile dev studio with AI and Linux](https://www.reddit.com/r/androiddev/comments/1xek2ud/hefesto_mobile_dev_studio_with_ai_and_linux/)
-- [Horrible bug hunt.](https://www.reddit.com/r/androiddev/comments/1xek1xp/horrible_bug_hunt/)
-- [Made a liquid glass lib for Compose, with shaders tuned side by side with a real iPhone. Happy for anyone to use it or contribute to porting it fully.](https://www.reddit.com/r/androiddev/comments/1xeifm7/made_a_liquid_glass_lib_for_compose_with_shaders/)
-- [App devs who build for clients: how do you get access to their App Store Connect and Google Play?](https://www.reddit.com/r/androiddev/comments/1xea4ec/app_devs_who_build_for_clients_how_do_you_get/)
-- [layout of my Fediverse feed aggregator](https://www.reddit.com/r/androiddev/comments/1xdtjjq/layout_of_my_fediverse_feed_aggregator/)
+- [Acephale PDF Reader](https://www.reddit.com/r/androiddev/comments/1xgdzk8/acephale_pdf_reader/)
+- [How long do Google apps spend in the review queue?](https://www.reddit.com/r/androiddev/comments/1xg9z4g/how_long_do_google_apps_spend_in_the_review_queue/)
+- [Getting a model to genuinely run on the Hexagon NPU from a Kotlin app &lpar;Snapdragon 8s Gen 3 / V73&rpar;: anyone shipped this?](https://www.reddit.com/r/androiddev/comments/1xg7mxm/getting_a_model_to_genuinely_run_on_the_hexagon/)
+- [need help](https://www.reddit.com/r/androiddev/comments/1xg5gdp/need_help/)
+- [[Android] &quot;Hey Claude&quot; wake word without keeping the mic open 24/7: any free, reliable approach?](https://www.reddit.com/r/androiddev/comments/1xg4vg8/android_hey_claude_wake_word_without_keeping_the/)
+- [How can I replace Android&#39;s default DocumentsUI file picker with another file manager on Samsung Is it possible without root?](https://www.reddit.com/r/androiddev/comments/1xg2ecj/how_can_i_replace_androids_default_documentsui/)
+- [[Showdev] Built an on-device LLM runtime &amp; hardware accelerator detector in Kotlin &amp; C++17 NDK &lpar;llama.cpp, 7.7 tok/s on Snapdragon 8 Gen 1, zero JVM heap overhead&rpar;](https://www.reddit.com/r/androiddev/comments/1xg19zg/showdev_built_an_ondevice_llm_runtime_hardware/)
+- [Android Studio Rabbit 2 RC 2 now available](https://www.reddit.com/r/androiddev/comments/1xg0txh/android_studio_rabbit_2_rc_2_now_available/)
+- [Spent way too long on an Android crash with nothing in Metro. logcat had the answer the whole time](https://www.reddit.com/r/androiddev/comments/1xfxlff/spent_way_too_long_on_an_android_crash_with/)
+- [UMLinux on Android](https://www.reddit.com/r/androiddev/comments/1xfxish/umlinux_on_android/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
