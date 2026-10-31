@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Google Play keeps rejecting my AccessibilityService disclosure even after an appeal. What am I missing?](https://www.reddit.com/r/androiddev/comments/1xix5g6/google_play_keeps_rejecting_my/)
-- [AS Rabbit 2 is a mess for me](https://www.reddit.com/r/androiddev/comments/1xiteh0/as_rabbit_2_is_a_mess_for_me/)
-- [Edge-to-Edge false positive in Google Play Console](https://www.reddit.com/r/androiddev/comments/1xinybi/edgetoedge_false_positive_in_google_play_console/)
-- [I built a haunted house to show off custom hidden-text reveals in Enriched Markdown, a native Jetpack Compose Markdown renderer](https://www.reddit.com/r/androiddev/comments/1xin67q/i_built_a_haunted_house_to_show_off_custom/)
-- [Does Samsung grant the SMS app more permissions than asked?](https://www.reddit.com/r/androiddev/comments/1xiduih/does_samsung_grant_the_sms_app_more_permissions/)
-- [My open-source Jetpack Compose accessibility scanner got accepted at CSUN 2027!](https://www.reddit.com/r/androiddev/comments/1xidqn5/my_opensource_jetpack_compose_accessibility/)
-- [How do you test your Android apps under different network conditions?](https://www.reddit.com/r/androiddev/comments/1xicm9d/how_do_you_test_your_android_apps_under_different/)
-- [Months stuck in Google Play tax verification as a non-US owner of a US LLC](https://www.reddit.com/r/androiddev/comments/1xibors/months_stuck_in_google_play_tax_verification_as_a/)
-- [Question about voluntary tips and Google Play policies](https://www.reddit.com/r/androiddev/comments/1xi4ej6/question_about_voluntary_tips_and_google_play/)
-- [Get Started with Lightbuild | A Declarative Build System for Android](https://www.reddit.com/r/androiddev/comments/1xi0uv4/get_started_with_lightbuild_a_declarative_build/)
+- [Google just released AppState — is it actually better than SharedViewModel for shared state?](https://www.reddit.com/r/androiddev/comments/1xjruub/google_just_released_appstate_is_it_actually/)
+- [More confusion about ACCESS_LOCAL_NETWORK](https://www.reddit.com/r/androiddev/comments/1xjljuq/more_confusion_about_access_local_network/)
+- [How are AI assistants actually helping your Android development workflow?](https://www.reddit.com/r/androiddev/comments/1xjjk0o/how_are_ai_assistants_actually_helping_your/)
+- [Google&#39;s deep integration to the chips](https://www.reddit.com/r/androiddev/comments/1xjdq2a/googles_deep_integration_to_the_chips/)
+- [A free &amp; local document signing/editing tool - Skruxem](https://www.reddit.com/r/androiddev/comments/1xjdlmv/a_free_local_document_signingediting_tool_skruxem/)
+- [Struggling with ACCESS_LOCAL_NETWORK permission for Android 17](https://www.reddit.com/r/androiddev/comments/1xjdawv/struggling_with_access_local_network_permission/)
+- [Google Play Developer Program Policy Update - 2026-10-29](https://www.reddit.com/r/androiddev/comments/1xjanjr/google_play_developer_program_policy_update/)
+- [Why emulator takes 80% cpu on a MB Air M4 ? Any alternative?](https://www.reddit.com/r/androiddev/comments/1xjajkk/why_emulator_takes_80_cpu_on_a_mb_air_m4_any/)
+- [2 Ways of Exporting Compose previews](https://www.reddit.com/r/androiddev/comments/1xj806s/2_ways_of_exporting_compose_previews/)
+- [I am Beginner : ViewModel vs rememberSaveable for surviving rotation. When do you use which?](https://www.reddit.com/r/androiddev/comments/1xj53zz/i_am_beginner_viewmodel_vs_remembersaveable_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
