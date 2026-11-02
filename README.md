@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I can&#39;t verify..](https://www.reddit.com/r/androiddev/comments/1xle9dn/i_cant_verify/)
+- [Can you preview compose UI with a lightweight viewer?](https://www.reddit.com/r/androiddev/comments/1xldh5p/can_you_preview_compose_ui_with_a_lightweight/)
+- [Running Demucs stem separation on an Android phone in the background – what it took &lpar;ONNX Runtime, 3.9 s chunks, under 2 GB RAM&rpar;](https://www.reddit.com/r/androiddev/comments/1xla59b/running_demucs_stem_separation_on_an_android/)
+- [Do I need to include my ID number / tax ID number in the legal terms?](https://www.reddit.com/r/androiddev/comments/1xl624t/do_i_need_to_include_my_id_number_tax_id_number/)
+- [Is LiveData still worth learning in 2026, or is StateFlow the default now?](https://www.reddit.com/r/androiddev/comments/1xl4xri/is_livedata_still_worth_learning_in_2026_or_is/)
+- [Google Play Support is auto-closing backend profile mismatch tickets without reading them. Has anyone successfully forced a manual Payments Profile re-link?](https://www.reddit.com/r/androiddev/comments/1xl3gv5/google_play_support_is_autoclosing_backend/)
+- [Showcase: TMPlayer, Kotlin + TDLib + Compose on TV, phone and desktop](https://www.reddit.com/r/androiddev/comments/1xl3152/showcase_tmplayer_kotlin_tdlib_compose_on_tv/)
+- [I built an Android-native AI coding agent running Ubuntu 24.04 PRoot. Today, it compiled and built its own APK on my phone.](https://www.reddit.com/r/androiddev/comments/1xl2792/i_built_an_androidnative_ai_coding_agent_running/)
+- [Testing App UI flow](https://www.reddit.com/r/androiddev/comments/1xl14x5/testing_app_ui_flow/)
 - [How to keep wireless debugging on 24/7 even after restarts?](https://www.reddit.com/r/androiddev/comments/1xk5cd1/how_to_keep_wireless_debugging_on_247_even_after/)
-- [OutlinedTextField squeezed to one character wide inside a Row: what&#39;s your go-to fix?](https://www.reddit.com/r/androiddev/comments/1xk2d4q/outlinedtextfield_squeezed_to_one_character_wide/)
-- [Building a DevTools protocol for inspecting Jetpack Compose and Android Views](https://www.reddit.com/r/androiddev/comments/1xjy2o5/building_a_devtools_protocol_for_inspecting/)
-- [Google just released AppState — is it actually better than SharedViewModel for shared state?](https://www.reddit.com/r/androiddev/comments/1xjruub/google_just_released_appstate_is_it_actually/)
-- [More confusion about ACCESS_LOCAL_NETWORK](https://www.reddit.com/r/androiddev/comments/1xjljuq/more_confusion_about_access_local_network/)
-- [How are AI assistants actually helping your Android development workflow?](https://www.reddit.com/r/androiddev/comments/1xjjk0o/how_are_ai_assistants_actually_helping_your/)
-- [Struggling with ACCESS_LOCAL_NETWORK permission for Android 17](https://www.reddit.com/r/androiddev/comments/1xjdawv/struggling_with_access_local_network_permission/)
-- [Google Play Developer Program Policy Update - 2026-10-29](https://www.reddit.com/r/androiddev/comments/1xjanjr/google_play_developer_program_policy_update/)
-- [Why emulator takes 80% cpu on a MB Air M4 ? Any alternative?](https://www.reddit.com/r/androiddev/comments/1xjajkk/why_emulator_takes_80_cpu_on_a_mb_air_m4_any/)
-- [2 Ways of Exporting Compose previews](https://www.reddit.com/r/androiddev/comments/1xj806s/2_ways_of_exporting_compose_previews/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
