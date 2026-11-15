@@ -271,16 +271,16 @@ and ***Android Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [More testing required??](https://www.reddit.com/r/androiddev/comments/1xvnz79/more_testing_required/)
-- [Android studio rabbit 2 patch classic code completion not working](https://www.reddit.com/r/androiddev/comments/1xvl5vj/android_studio_rabbit_2_patch_classic_code/)
-- [What is your favorite technical interview question you were asked?](https://www.reddit.com/r/androiddev/comments/1xvfhs6/what_is_your_favorite_technical_interview/)
-- [Prevue: Compose Previews without Android Studio, in your browser](https://www.reddit.com/r/androiddev/comments/1xv073v/prevue_compose_previews_without_android_studio_in/)
-- [Safest backend-server as a beginner?](https://www.reddit.com/r/androiddev/comments/1xuszeg/safest_backendserver_as_a_beginner/)
-- [My Google Play Developer Account Was Terminated After Closed Testing and Production Access Approval – Need Help Understanding the Reason](https://www.reddit.com/r/androiddev/comments/1xur032/my_google_play_developer_account_was_terminated/)
-- [Play Console–only startup crash spike after updates, invisible to Crashlytics. Anyone else?](https://www.reddit.com/r/androiddev/comments/1xuoclm/play_consoleonly_startup_crash_spike_after/)
-- [Kotensor – Run and fine-tune LLMs on Android in pure Kotlin &lpar;no C++/NDK or JNI binaries&rpar;](https://www.reddit.com/r/androiddev/comments/1xufale/kotensor_run_and_finetune_llms_on_android_in_pure/)
-- [Difficulty understand large android codebases as an open source contributor](https://www.reddit.com/r/androiddev/comments/1xudiyy/difficulty_understand_large_android_codebases_as/)
-- [Robolectric and the case of the missing Gradle task caching](https://www.reddit.com/r/androiddev/comments/1xubh1r/robolectric_and_the_case_of_the_missing_gradle/)
+- [How did Pakistani devs actually get a free DUNS number for Google Play? dnb.com breaks, dnbsame.com has no form](https://www.reddit.com/r/androiddev/comments/1xwg9mw/how_did_pakistani_devs_actually_get_a_free_duns/)
+- [How do I find slow spots in a single function?](https://www.reddit.com/r/androiddev/comments/1xwf9pp/how_do_i_find_slow_spots_in_a_single_function/)
+- [Live performance for Android apps in your terminal!](https://www.reddit.com/r/androiddev/comments/1xwdl65/live_performance_for_android_apps_in_your_terminal/)
+- [Built a native Android XR spatial terminal with Jetpack Compose, Gemini 1.5 Flash, and a life-sized 3D AI companion &lpar;A.E.G.I.S.&rpar;](https://www.reddit.com/r/androiddev/comments/1xwcrs3/built_a_native_android_xr_spatial_terminal_with/)
+- [Google Play developer account verified in my home country, then moved to Canada—should I update my details?](https://www.reddit.com/r/androiddev/comments/1xwcolm/google_play_developer_account_verified_in_my_home/)
+- [How do you handle Russian customers, since they can&#39;t pay via Google?](https://www.reddit.com/r/androiddev/comments/1xwcgk1/how_do_you_handle_russian_customers_since_they/)
+- [Is Google Play currently slow at replying to tickets about inappropriate reviews by users?](https://www.reddit.com/r/androiddev/comments/1xw558u/is_google_play_currently_slow_at_replying_to/)
+- [Android Developers with 2–3 Years of Experience, How Are You Preparing for Your Next Career Move?](https://www.reddit.com/r/androiddev/comments/1xw2hhs/android_developers_with_23_years_of_experience/)
+- [Lessons from shipping one Compose Multiplatform codebase to Android, Android TV, Windows, macOS, Linux and iPad &lpar;plus writing my own YouTube client and Cast stack&rpar;](https://www.reddit.com/r/androiddev/comments/1xw12h8/lessons_from_shipping_one_compose_multiplatform/)
+- [Almost 1,000 installs but 700+ uninstalls on my free Android app. How do I find out why people leave?](https://www.reddit.com/r/androiddev/comments/1xvwzzq/almost_1000_installs_but_700_uninstalls_on_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
